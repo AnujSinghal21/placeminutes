@@ -1,15 +1,14 @@
 import sqlite3
-import json
 import pandas as pd
+import json
 
 DB_PATH = '../data.db'
 conn = sqlite3.connect(DB_PATH)
 cursor = conn.cursor()
 
-def get_company_list():
+def get_json_files():
     df=pd.DataFrame(cursor.execute("SELECT * from openings"))
     df.columns=['id','name','profile','role','industry','location','ctc','eligibility','cpi','ctc desc','description','link','skills']
-    required_data=[]
     json_data=[]
 
     for i in range(len(df)):
@@ -18,6 +17,9 @@ def get_company_list():
             curr[key]=df[key][i]
         json_data.append(curr)
     
-    return json_data
+    with open('../companies.json','w') as json_file:
+        json.dump(json_data,json_file)
+    
+    return
 
-print(get_company_list()[0])
+get_json_files()
