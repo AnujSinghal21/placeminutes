@@ -1,0 +1,46 @@
+* {
+    color: white
+}
+
+.nav-item:hover {
+    cursor: pointer;
+    background-color: #1c2130
+}
+
+.stat-box {
+    /* background-color: #474B58; */
+    width: 12vw;
+    height: 12vw;
+    margin: auto
+}
+
+.chart-box {
+    background-color: #474B58;
+    width: 37vw;
+    height: 22vw;
+    margin: auto
+}
+
+.st-pl-data {
+    color: #A1CA8A;
+}
+
+.avg-ctc-data {
+    color: #FFEAAD;
+}
+
+.med-ctc-data {
+    color: #A1CA8A;
+}
+
+.hi-ctc-data {
+    color: #028F76;
+}
+
+.lo-ctc-data {
+    color: #D14334;
+}
+
+.avg-cpi-data {
+    color: #FFEAAD;
+}
