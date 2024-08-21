@@ -35,7 +35,12 @@ function Sidebar({ page }) {
   };
   return (
     <>
-      <div className="d-flex">
+      <div
+        className="d-flex"
+        style={{
+          minHeight: "100vh",
+        }}
+      >
         <nav
           className={`sidebar ${isOpen ? "d-block" : "d-none d-md-block"}`}
           style={{
