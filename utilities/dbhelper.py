@@ -7,6 +7,12 @@ DB_PATH = '../data.db'
 conn = sqlite3.connect(DB_PATH)
 cursor = conn.cursor()
 
+def convert_to_csv():
+    df=pd.DataFrame(cursor.execute("SELECT * from openings"))
+    df.columns=['id','name','profile','role','industry','location','ctc','eligibility','cpi','ctc desc','description','link','skills']
+    df.to_csv('cleaned_data.csv',index=False)
+    return
+
 def get_json_files():
     df=pd.DataFrame(cursor.execute("SELECT * from openings"))
     df.columns=['id','name','profile','role','industry','location','ctc','eligibility','cpi','ctc desc','description','link','skills']
@@ -25,4 +31,4 @@ def get_json_files():
     
     return
 
-get_json_files()
+convert_to_csv()
