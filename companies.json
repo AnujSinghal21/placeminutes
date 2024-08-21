@@ -1,1 +1,4562 @@
-[{"id": 
+[
+    {
+        "id": "1697",
+        "name": " FN Mathlogic Consulting Services Private Limited",
+        "profile": "Consulting",
+        "role": "Analyst",
+        "location": "Gurgaon/India",
+        "ctc": "1212000.0",
+        "eligibility": "0111111111111100001000000000111111111111111111111111101111101000000000000000000000011000100000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1705",
+        "name": "Tata Consultancy Services",
+        "profile": "Core",
+        "role": "R&D",
+        "location": "Anywhere in India",
+        "ctc": "1150000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101100000000000000000000000111111101111111111111100000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1716",
+        "name": "Winzo Games",
+        "profile": "Software",
+        "role": "Software Developer",
+        "location": "Delhi/India",
+        "ctc": "3200000.0",
+        "eligibility": "0000011000001000000000000000000011000100001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1717",
+        "name": "Winzo Games",
+        "profile": "Analytics & Data Science",
+        "role": "Data Science",
+        "location": "Delhi/India",
+        "ctc": "5000000.0",
+        "eligibility": "0000010000001000000000000000000010000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1738",
+        "name": "SRF LIMITED",
+        "profile": "Core",
+        "role": "Design Trainee",
+        "location": "Gurugram/India",
+        "ctc": "1000000.0",
+        "eligibility": "0000100000000000000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1744",
+        "name": "Da Vinci Derivatives B.V.",
+        "profile": "Software",
+        "role": "Da Vinci was founded in 2015 by three friends with a lot of experience and enthusiasm for trading and has been growing successfully ever since. We are a unique proprietary trading firm, focusing on volatility trading, arbitrage and market making across major exchanges worldwide. We identify opportunities, trade volatility based on in-house developed strategies and provide liquidity to the markets thus making them more efficient.\n\nOur philosophy towards work is best captured by the saying \u201cBe good, work hard and great things will happen\u201d. We are meritocratic by nature and believe that empowering talent in our organization is the only way forward. As part of our team, you will build trading algorithms, implement new strategies in the market, analyze trades, continuously improve how we do things and come up with new innovative ideas to contribute to reaching our ambitious goals.\n",
+        "location": "Amsterdam/Netherlands",
+        "ctc": "13000000.0",
+        "eligibility": "0000010000000000000000000000000010000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1746",
+        "name": "Da Vinci Derivatives B.V.",
+        "profile": "Quant",
+        "role": "Da Vinci was founded in 2015 by three friends with a lot of experience and enthusiasm for trading and has been growing successfully ever since. We are a unique proprietary trading firm, focusing on volatility trading, arbitrage and market making across major exchanges worldwide. We identify opportunities, trade volatility based on in-house developed strategies and provide liquidity to the markets thus making them more efficient.\n\nOur philosophy towards work is best captured by the saying \u201cBe good, work hard and great things will happen\u201d. We are meritocratic by nature and believe that empowering talent in our organization is the only way forward. As part of our team, you will build trading algorithms, implement new strategies in the market, analyze trades, continuously improve how we do things and come up with new innovative ideas to contribute to reaching our ambitious goals.\n",
+        "location": "Amsterdam/Netherlands",
+        "ctc": "13000000.0",
+        "eligibility": "0111111110001100000000000000111111110111111110011111101101000000000000000000000000000000000000000011011000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1752",
+        "name": "Cubastion Consulting",
+        "profile": "Software",
+        "role": "Graduate Trainee Engineer",
+        "location": "Gurgaon/India",
+        "ctc": "600000.0",
+        "eligibility": "0111111111111100000000000000111111111100000000000000000000000000000000000000000000000000000000011110000000000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "1773",
+        "name": "GKN AEROSPACE ENGINE SYSTEMS INDIA PVT LTD",
+        "profile": "Core",
+        "role": "Graduate",
+        "location": "Bangalore/India",
+        "ctc": "950000.0",
+        "eligibility": "0000000000000010000011000000000000000010000010000100010100010000000000001000000000000100001010000001010000000000000001111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1780",
+        "name": "Quicksell ",
+        "profile": "Software",
+        "role": "Frontend Developer",
+        "location": "Mumbai/India",
+        "ctc": "1800000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1781",
+        "name": "Prototyze Services Pvt Ltd",
+        "profile": "Software",
+        "role": "UI Designer, ScreenRoot",
+        "location": "Panjim/India",
+        "ctc": "1020000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000100100000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1782",
+        "name": "Prototyze Services Pvt Ltd",
+        "profile": "Software",
+        "role": "Graphic Designer, Synapse",
+        "location": "Panjim/India",
+        "ctc": "1020000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000100100000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1783",
+        "name": "Prototyze Services Pvt Ltd",
+        "profile": "Software",
+        "role": "UX Designer, ScreenRoot",
+        "location": "Panjim/India",
+        "ctc": "1159200.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000100100000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1789",
+        "name": "Fujitsu Research of India Pvt Ltd",
+        "profile": "Software",
+        "role": "Software Developer",
+        "location": "Bangalore/India",
+        "ctc": "1800000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101100000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1790",
+        "name": "Fujitsu Research of India Pvt Ltd",
+        "profile": "Software",
+        "role": "Software Engineer/ Designer/ Developer",
+        "location": "Bangalore/India",
+        "ctc": "2200000 INR",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101100000000000000000000011111111101100001111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1793",
+        "name": "Fujitsu Research of India Pvt Ltd",
+        "profile": "Core",
+        "role": "Researcher\t- Quantum Lab\t\t\t\t\n",
+        "location": "Bangalore/India",
+        "ctc": "2200000.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101100000000000000000000011111111101100001111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1805",
+        "name": "GMO Research Inc.",
+        "profile": "Software",
+        "role": "Software Development Engineer",
+        "location": "Delhi/India",
+        "ctc": "1350000.0",
+        "eligibility": "0000011000001000001100000000000011000100001100010000001000000000000000000000000000000000110000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1806",
+        "name": "Meesho",
+        "profile": "Software",
+        "role": "Software Development Engineer I",
+        "location": "Bengaluru/India",
+        "ctc": "3400000.0",
+        "eligibility": "01111111110011000000000000001111111101111111110111111111010100000000000010000000000000000000100111111111000000000000011111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1821",
+        "name": "Axxela Research & Analytics Private Limited",
+        "profile": "Finance",
+        "role": "Trainee Analyst",
+        "location": "Mumbai/India",
+        "ctc": "1410000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1828",
+        "name": "Lowes India",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist",
+        "location": "Bangalore/India",
+        "ctc": "2491800.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101110000000000000000000011111111101100001111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1829",
+        "name": "Abacus.AI",
+        "profile": "Software",
+        "role": "Software Engineer (ML)",
+        "location": "Mumbai/India",
+        "ctc": "4000000.0",
+        "eligibility": "0000010000000000000000000000000010000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1830",
+        "name": "Quest Global Engineering Services Pvt. Ltd",
+        "profile": "Core",
+        "role": "We are here with an opportunity for students to be part of a team that believes engineering has the unique opportunity to solve the problems of today that stand in the way of tomorrow. At Quest Global, we embrace exponentially curious minds \u2013 the ones who see engineering and logic in everything.  \n\nOur people are the driving force behind the impact we make and the accomplishments we achieve, and as a global organization headquartered in Singapore, we live and work in 17 countries, with 67 global delivery centers and offices, driven by 17,500+ extraordinary employees.  \n\nWe are a company that provides best-in-class engineering services across the globe. And, this is your chance to be the part of a winning organization that not only offers every employee boundary-less prospect to learn and grow, but also supports every team and individual in their efforts to excel and thrive. \n\nWe encourage you to learn more about us. Please visit www.quest-global.com",
+        "location": "Bengaluru/India",
+        "ctc": "900000.0",
+        "eligibility": "0000000000000000010101000000000000000000000000000000000000000000000000000000000000000001011000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1837",
+        "name": "Uniorbit Technologies Private Ltd",
+        "profile": "Software",
+        "role": "Software Development Engineer 1 (SDE 1)",
+        "location": "Bengaluru/India",
+        "ctc": "2053830.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1838",
+        "name": "Uniorbit Technologies Private Ltd",
+        "profile": "Finance",
+        "role": "Risk Associate",
+        "location": "Bengaluru/India",
+        "ctc": "1753830.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1839",
+        "name": "Stripe",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Bengaluru/India",
+        "ctc": "6000000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1841",
+        "name": "Aura Semiconductor Pvt Ltd",
+        "profile": "Core",
+        "role": "Design Engineer - Analog",
+        "location": "Bangalore/India",
+        "ctc": "2500000.0",
+        "eligibility": "0000000000000010111111001010000000000010111110000101101100000000000000000000000000000111111001000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1844",
+        "name": "Tescra Software Pvt Ltd",
+        "profile": "Software",
+        "role": "Software Developer",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101100000000000000000000000111111101111111111111100000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1852",
+        "name": "Brane Enterprises-NSL HUB",
+        "profile": "Software",
+        "role": "PaaS",
+        "location": "Bengaluru/India",
+        "ctc": "2000000.0",
+        "eligibility": "0000011000001000000000000000000011000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1853",
+        "name": "Brane Enterprises-NSL HUB",
+        "profile": "Software",
+        "role": "TF",
+        "location": "Hyderabad/India",
+        "ctc": "2000000.0",
+        "eligibility": "0000011000001000000000000000000011000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1854",
+        "name": "Nation with Namo",
+        "profile": "Consulting",
+        "role": "Associate",
+        "location": "Delhi/NCR/India",
+        "ctc": "1900000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1855",
+        "name": "Accenture Solutions Pvt. Ltd",
+        "profile": "Consulting",
+        "role": "MC Delivery Associate",
+        "location": "unknown/India",
+        "ctc": "1592000.0",
+        "eligibility": "0111111111111100000000000000000000000000000000000000010000010000000000001000000000000000000010010000000000000000000001111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1911",
+        "name": "Accenture Japan",
+        "profile": "Consulting",
+        "role": "Digital Consultant",
+        "location": "Tokyo/Japan",
+        "ctc": "1014000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1912",
+        "name": "Accenture Japan",
+        "profile": "Consulting",
+        "role": "Business Consultant",
+        "location": "Tokyo/Japan",
+        "ctc": "8574000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1913",
+        "name": "Accenture Japan",
+        "profile": "Consulting",
+        "role": "Strategy Consultant",
+        "location": "Tokyo/Japan",
+        "ctc": "8683000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1914",
+        "name": "Accenture Japan",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist",
+        "location": "Tokyo/Japan",
+        "ctc": "1000000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1915",
+        "name": "Accenture Japan",
+        "profile": "Consulting",
+        "role": "AI Architect",
+        "location": "Tokyo/Japan",
+        "ctc": "7724000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1917",
+        "name": "OLA",
+        "profile": "Software",
+        "role": "Software Development Engineer (SDE1)",
+        "location": "Bangalore/India",
+        "ctc": "3500000.0",
+        "eligibility": "0100111110001010011111001000100111110100000000000000000000000000000000000000000000000101111000010100000000000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "1918",
+        "name": "OLA",
+        "profile": "Software",
+        "role": "Software Engineer - Autonomy",
+        "location": "Bangalore/India",
+        "ctc": "3150000.0",
+        "eligibility": "0000011000001000001100000000000011000100000000000000000000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "1919",
+        "name": "OLA",
+        "profile": "Core",
+        "role": "Research Engineer I \u2013 Autonomous Driving",
+        "location": "Bangalore/India",
+        "ctc": "3500000.0",
+        "eligibility": "0000011000001000001100000000000011000100000000000000000000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "1920",
+        "name": "OLA",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist 1  (DS-1)",
+        "location": "Bangalore/India",
+        "ctc": "3500000.0",
+        "eligibility": "0000010000001000001000000000000010000100000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "1921",
+        "name": "OLA",
+        "profile": "Analytics & Data Science",
+        "role": "Machine Learning Engineer 1 (ML-1)",
+        "location": "Bangalore/India",
+        "ctc": "3850000.0",
+        "eligibility": "0000010000001000001000000000000010000100000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "1922",
+        "name": "OLA",
+        "profile": "Core",
+        "role": "Research engineer 1",
+        "location": "Bangalore/India",
+        "ctc": "3500000.0",
+        "eligibility": "0000011000001000001100000000000011000100000000000000000000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "1923",
+        "name": "OLA",
+        "profile": "Core",
+        "role": "Chemical Engineering",
+        "location": "Bangalore/India",
+        "ctc": "2250000.0",
+        "eligibility": "0000100000000000010000000001000100000000000000000000000000000000000000000000000000000001000000100000000001000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "1924",
+        "name": "OLA",
+        "profile": "Core",
+        "role": "Mechanical  Engineer",
+        "location": "Bangalore/India",
+        "ctc": "2250000.0",
+        "eligibility": "0100000010000010000001000000100000010010000000000100000000000000000000000000000000000100001000000001010000000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "1925",
+        "name": "OLA",
+        "profile": "Analytics & Data Science",
+        "role": "Statistical Analyst",
+        "location": "Bangalore/India",
+        "ctc": "3150000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000011000000000000000000000000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "1926",
+        "name": "OLA",
+        "profile": "Core",
+        "role": "IP Manager",
+        "location": "Bangalore/India",
+        "ctc": "1300000.0",
+        "eligibility": "0000010000000000001000000000000010000000001000000000000000000000000000000000000000000000100000000000000000000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "1927",
+        "name": "ASC Infratech Pvt Ltd",
+        "profile": "Core",
+        "role": "Trainee Engineer",
+        "location": "Noida/India",
+        "ctc": "737575.0",
+        "eligibility": "0001000000000000100000000000001000000000100000000001000000000000000000000000000000000010000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1928",
+        "name": "ICICI Lombard GIC LTD",
+        "profile": "Software",
+        "role": "Senior Developer ",
+        "location": "Mumbai/India",
+        "ctc": "1270000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1935",
+        "name": "SEDEMAC Mechatronics Pvt. Ltd.",
+        "profile": "Core",
+        "role": "Engineer, R&D",
+        "location": "Pune/India",
+        "ctc": "1500000.0",
+        "eligibility": "0100111010001110011111001010100111010110011110011100101101000000000000000000000000001101111001000011011000000010000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1937",
+        "name": "SEDEMAC Mechatronics Pvt. Ltd.",
+        "profile": "Core",
+        "role": "Engineer, Test Automation",
+        "location": "Pune/India",
+        "ctc": "1500000.0",
+        "eligibility": "0100111010001110011111001010100111010110011110011100101101000000000000000000000000001101111001000011011000000010000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1938",
+        "name": "Xion Multiventures Pvt Ltd",
+        "profile": "Core",
+        "role": "Trainee Research Analysis & Operation Support  ",
+        "location": "Gurugram/India",
+        "ctc": "1620000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1939",
+        "name": "SEDEMAC Mechatronics Pvt. Ltd.",
+        "profile": "Core",
+        "role": "Engineer, Embedded SW",
+        "location": "Pune/India",
+        "ctc": "1500000.0",
+        "eligibility": "0000011000000000001100000000000011000000001100000000001000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1941",
+        "name": "Databricks",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Bangalore/India",
+        "ctc": "4090000.0",
+        "eligibility": "0111111111111100001100000000111111111111111111111111101111101000000010000000000001000000110000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1942",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Associate Engineer- Airframe Research & Technology (R&T)",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0101000110000010100010001000101000110010100010000101000100000001010000000000000000000110000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1943",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Associate Engineer - Stress\nAirframe - Advanced Numerical Simulations\n",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0100000010000010000001000000100000010010000000000100000000000001000000100000000000000100001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1944",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Associate Engineer Aerothermal\n",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0100000010000010000001000000100000010010000000000100000000000001000000100000000000000100001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1945",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Associate Flight Operations Data Analyst Engineer ",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0100001010000010000101000000100001010010000100000100001000000001000000000000000000000100011000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1946",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Associate Engineer: System Installation",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0100001010000010000101000000100001010010000100000100001000000001000010100000000000000100011000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1947",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Associate Engineer Mass Properties",
+        "location": "Bangalore/India",
+        "ctc": "1350000.0",
+        "eligibility": "0100000010000010000001000000100000010010000000000100000000000001000000100000000000000100001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1948",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Electrical System Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0100001000000010000100000000100001000010000100000100001000000001000010000000000000000100010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1949",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Associate Engineer - Navigation Systems",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0100001000000010000100000000100001000010000100000100001000000001000010000000000000000100010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1950",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Multi System Physical Architecture Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1350000.0",
+        "eligibility": "0100001010000010000101000000100001010010000100000100001000000001000010100000000000000100011000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1951",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Associate Flight Controls and Hydraulics Development Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0100001010000010000101000000100001010010000100000100001000000001000010100000000000000100011000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1952",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Associate Simulation Platforms Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0100001000000010000100000001100001000010000100000100001000000001000010000000000000000100010000100000000001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1953",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "ASSOCIATE ENGINEER - FLIGHT PHYSICS",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0100000010000010000001000000100000010010000000000100000000000001000000100000000000000100001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1954",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Associate Industrial System Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0100000010000010000001000000100000010010000000000100000000000001000000100000000000000100001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1955",
+        "name": "Airbus Group India",
+        "profile": "Core",
+        "role": "Simulation Modeling Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1100000.0",
+        "eligibility": "0100101010000010010101000001100101010010010100000100101000000001000010100000000000000101011000100001010001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1957",
+        "name": "VVF India Ltd",
+        "profile": "Core",
+        "role": " Engineer Management Trainee (EMT) - ME",
+        "location": "Baddi/India",
+        "ctc": "1600000.0",
+        "eligibility": "0000000010000000000000000000000000010000000000000000010000010000000000001000000000000000000010000001010000000000000001111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1958",
+        "name": "Bajaj Auto Limited & Chetak Technology Limited",
+        "profile": "Core",
+        "role": "GTE'24",
+        "location": "Akurdi/India",
+        "ctc": "2174000.0",
+        "eligibility": "0100001010000010000101000001100001010010000100000100001000000000000000000000000000000100011000100001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1960",
+        "name": "VVF India Ltd",
+        "profile": "Core",
+        "role": " Engineer Management Trainee (EMT) - CHE",
+        "location": "Indonesia/unknown",
+        "ctc": "1600000.0",
+        "eligibility": "0000100000000000000000000000000100000000010000000000100000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1961",
+        "name": "SEDEMAC Mechatronics Pvt. Ltd.",
+        "profile": "Core",
+        "role": "Lead Engineer, R&D",
+        "location": "Pune/India",
+        "ctc": "1940000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000000000000110100100001001000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1962",
+        "name": "Involead",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist",
+        "location": "New Delhi/India",
+        "ctc": "1250000.0",
+        "eligibility": "0000000000100000000000000000000000001000000000100000000010000000000000000000000000010000000000000000000000001000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1967",
+        "name": "Deutsche India Private Limited",
+        "profile": "Software",
+        "role": "Graduate Analyst",
+        "location": "Pune/India",
+        "ctc": "1963000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1969",
+        "name": "Da Vinci Derivatives B.V.",
+        "profile": "Quant",
+        "role": "Da Vinci was founded in 2015 by three friends with a lot of experience and enthusiasm for trading and has been growing successfully ever since. We are a unique proprietary trading firm, focusing on volatility trading, arbitrage and market making across major exchanges worldwide. We identify opportunities, trade volatility based on in-house developed strategies and provide liquidity to the markets thus making them more efficient.\n\nOur philosophy towards work is best captured by the saying \u201cBe good, work hard and great things will happen\u201d. We are meritocratic by nature and believe that empowering talent in our organization is the only way forward. As part of our team, you will build trading algorithms, implement new strategies in the market, analyze trades, continuously improve how we do things and come up with new innovative ideas to contribute to reaching our ambitious goals.\n",
+        "location": "Mumbai/India",
+        "ctc": "13000000.0",
+        "eligibility": "0111111111001100000000000000111111110111111111011111101101000000000000000000000000000000000000001011011000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1970",
+        "name": "Da Vinci Derivatives B.V.",
+        "profile": "Quant",
+        "role": "Da Vinci was founded in 2015 by three friends with a lot of experience and enthusiasm for trading and has been growing successfully ever since. We are a unique proprietary trading firm, focusing on volatility trading, arbitrage and market making across major exchanges worldwide. We identify opportunities, trade volatility based on in-house developed strategies and provide liquidity to the markets thus making them more efficient.\n\nOur philosophy towards work is best captured by the saying \u201cBe good, work hard and great things will happen\u201d. We are meritocratic by nature and believe that empowering talent in our organization is the only way forward. As part of our team, you will build trading algorithms, implement new strategies in the market, analyze trades, continuously improve how we do things and come up with new innovative ideas to contribute to reaching our ambitious goals.",
+        "location": "Mumbai/India",
+        "ctc": "13000000.0",
+        "eligibility": "0111111111001100000000000000111111110111111111011111101101000000000000000000000000000000000000001011011000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1972",
+        "name": "Quantbox Research",
+        "profile": "Quant",
+        "role": "Quant Research and Trading Analyst - Bangalore",
+        "location": "Bangalore/India",
+        "ctc": "10000000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1973",
+        "name": "Quantbox Research",
+        "profile": "Core",
+        "role": "Core Engineering Analyst - Bangalore",
+        "location": "Bangalore/India",
+        "ctc": "10000000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1974",
+        "name": "Quantbox Research",
+        "profile": "Quant",
+        "role": "Quant Research and Trading Analyst \u2013 Singapore ",
+        "location": "Singapore/Singapore",
+        "ctc": "2113000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1975",
+        "name": "Petronet LNG Limited",
+        "profile": "Core",
+        "role": "Petronet LNG Limited (PLL) formed on April 2, 1998, as Joint Venture Company (JVC) having 50% shareholding of leading 4 Oil & Gas PSUs by GOI order dated July 4, 1997\nAn Independent Board managed JVC created for development of facilities for the import, storage and regasification of Liquefied Natural Gas.\nWith equity participation from four Oil & Gas Maharatanas viz. Oil & Natural Gas Corporation (ONGC), Indian Oil Corporation Limited (IOCL), GAIL (India) Limited (GAIL) and Bharat Petroleum Corporation Limited (BPCL).",
+        "location": "Dahej/India",
+        "ctc": "1893000.0",
+        "eligibility": "0001101010000000000000000000001101010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1976",
+        "name": "Contata",
+        "profile": "Software",
+        "role": "System Analyst",
+        "location": "NOIDA/India",
+        "ctc": "1000000.0",
+        "eligibility": "0111111110011100000000000000111111110111111110011111101101000000000000000000000000000000000000010111111100000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1978",
+        "name": "Flipkart",
+        "profile": "Software",
+        "role": "Software development Engineer- 1",
+        "location": "Bangalore/India",
+        "ctc": "3257000.0",
+        "eligibility": "0000011000001000001100000000000011000100001100010000001000000000000000000000000000000000110000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1979",
+        "name": "GIST",
+        "profile": "Software",
+        "role": "Developer Associate",
+        "location": "Noida/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000000000000011111111111111000000000000000000000000000000000000000000000000000000011111111101100000000000111110000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1980",
+        "name": "Plutus Research Private Limited",
+        "profile": "Core",
+        "role": "Infrastructure Developer",
+        "location": "Bangalore/India",
+        "ctc": "4950000.0",
+        "eligibility": "0000011000001000001000000000000011000100001100010000001000000000000000000000000000000000100000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1981",
+        "name": "Zenon Analytics Private Ltd",
+        "profile": "Software",
+        "role": "Software Engineer - II",
+        "location": "Noida/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000000111111101111111111111100000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1982",
+        "name": "Plutus Research Private Limited",
+        "profile": "Quant",
+        "role": "Quantitative Analyst",
+        "location": "Bangalore/India",
+        "ctc": "4950000.0",
+        "eligibility": "0000011000001000001000000000000011000100001100010000001000000000000000000000000000000000100000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1992",
+        "name": "Zenon Analytics Private Ltd",
+        "profile": "Analytics & Data Science",
+        "role": "Analytics Specialist",
+        "location": "Noida/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1993",
+        "name": "Renishaw Metrology ",
+        "profile": "Software",
+        "role": "Graduate Software Engineer",
+        "location": "Pune/India",
+        "ctc": "1235000.0",
+        "eligibility": "0000000000000010000001000000000000000000000000000000000000000000000000000000000000000100001000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1995",
+        "name": "Infurnia",
+        "profile": "Software",
+        "role": "Infurnia Technologies is Bangalore based software product startup. It was founded in 2014 by Nikhil Kumar and Lovepreet Mann, alumni of IIT Bombay and IIT Kharagpur respectively. At Infurnia, we are creating the world's first cloud-native architecture and interior design CAD software for professional users. Our focus is to create a modern and collaborative design platform for the architecture and interior design ecosystem that is accessible from all platforms - web, desktop, tablet/mobile, VR and server. \n\nWe provide software as a service to large enterprises, including the likes of LivSpace, Hometown, DesignCafe, Aristo, etc. Our design technology forms the backbone of their design driven businesses.\n\nWe are a small and extremely talented team of about 60 members. We are looking forward to onboarding exceptional candidates from IITs with amazing career opportunities in different teams.\n",
+        "location": "Bengaluru/India",
+        "ctc": "10200000.0",
+        "eligibility": "0000011000000000000000000000000011000000001100000000001000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "1996",
+        "name": "Samplytics Technologies Private Limited",
+        "profile": "Core",
+        "role": "Mechanical Engineer",
+        "location": "Bangalore/India",
+        "ctc": "2200000.0",
+        "eligibility": "0000000010000000000000000000000000010000000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2002",
+        "name": "Dolat Capital",
+        "profile": "Quant",
+        "role": "Quantitative Analyst",
+        "location": "Mumbai/India",
+        "ctc": "2700000.0",
+        "eligibility": "0111111111111100001000000000111111111111111111111111101111100000000100000000000101011000100000001011011011000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2010",
+        "name": "MRF LIMITED",
+        "profile": "Core",
+        "role": "R&D( Executive Technical)",
+        "location": "Chennai/India",
+        "ctc": "1028595.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101100000000000000000000000111111101111111111111100000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2011",
+        "name": "Hilabs",
+        "profile": "Software",
+        "role": "Associate Product Manager",
+        "location": "Bengaluru/India",
+        "ctc": "3293750.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111110000000001000000000011111111111111111111111111110000111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2012",
+        "name": "Hilabs",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist",
+        "location": "Bangalore/India",
+        "ctc": "3293750.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2013",
+        "name": "Hilabs",
+        "profile": "Software",
+        "role": "Software Development Engineer",
+        "location": "Bengaluru/India",
+        "ctc": "3293750.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2015",
+        "name": "Graviton Research Capital",
+        "profile": "Quant",
+        "role": "Quantitative Researcher",
+        "location": "Gurgaon/India",
+        "ctc": "8400000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100010000001000000000000000000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2016",
+        "name": "Graviton Research Capital",
+        "profile": "Software",
+        "role": "Software engineer",
+        "location": "Gurgaon/India",
+        "ctc": "8400000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100010000001000000000000000000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2017",
+        "name": "Microland",
+        "profile": "Software",
+        "role": "https://www.microland.com/",
+        "location": "Bangalore/India",
+        "ctc": "1000000.0",
+        "eligibility": "0000011000000000000000000000000011000000001100000000001000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2018",
+        "name": "GAIN Credit",
+        "profile": "Analytics & Data Science",
+        "role": "Analytics Scientist",
+        "location": "Noida/India",
+        "ctc": "1600000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2022",
+        "name": "Sprinklr",
+        "profile": "Software",
+        "role": "Product Engineer",
+        "location": "Gurgaon/India",
+        "ctc": "3000000.0",
+        "eligibility": "0011111111011100000000000000011111110101111111011011101101001000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2023",
+        "name": "Sprinklr",
+        "profile": "Analytics & Data Science",
+        "role": "Product Analyst",
+        "location": "Gurgaon/India",
+        "ctc": "1500000.0",
+        "eligibility": "0011101111111100000000000000011101111101110111111011101111001000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2024",
+        "name": "Sprinklr",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist",
+        "location": "Gurgaon/India",
+        "ctc": "1800000.0",
+        "eligibility": "0011101111011100000000000000011101110101110111011011101101001000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2025",
+        "name": "Sprinklr",
+        "profile": "Software",
+        "role": "Platform Software Engineer",
+        "location": "Gurgaon/India",
+        "ctc": "4500000.0",
+        "eligibility": "0011111111011100000000000000011111110101111111011011101101001000000000000000000000000000000000011111111110000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2026",
+        "name": "Paypal India Ltd",
+        "profile": "Software",
+        "role": "Software Engineer 1",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111100000000000000111111111100000000000000000000000000000000000000000000000000000000011110000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2027",
+        "name": "Paypal India Ltd",
+        "profile": "Analytics & Data Science",
+        "role": "Data Analyst 1",
+        "location": "Chennai/India",
+        "ctc": "600000.0",
+        "eligibility": "0111111111111100000000000000111111111100000000000000000000000000000000000000000000000000000000011110000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2028",
+        "name": "CapitalOne",
+        "profile": "Analytics & Data Science",
+        "role": "Business Analyst",
+        "location": "Bengaluru/India",
+        "ctc": "3450000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111111111011000000000001000000000011000000010011111111110000000000111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2029",
+        "name": "CapitalOne",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Bengaluru/India",
+        "ctc": "2850000.0",
+        "eligibility": "0111111111111111111111100000111111111111111111111111101111001000000000000000000000000111111100011111111110000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2030",
+        "name": "Keshcutai",
+        "profile": "Software",
+        "role": "AI Engineer",
+        "location": "Pune/India",
+        "ctc": "2550000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111100000000010000000000111111111111111111111111111100001111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2033",
+        "name": "Finmechanics",
+        "profile": "Consulting",
+        "role": "Associate Consultant",
+        "location": "Mumbai/India",
+        "ctc": "1980000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2039",
+        "name": "Intel",
+        "profile": "Core",
+        "role": "Software/ Hardware Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1977327.0",
+        "eligibility": "0000011000000000001100000010000011000000001100000000001000000000000000000000000000000000110001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2040",
+        "name": "Qualcomm",
+        "profile": "Core",
+        "role": "Hardware",
+        "location": "Bangalore/India",
+        "ctc": "3733000.0",
+        "eligibility": "0000000000000000000100000010000000000000000100000000001000000000000000000000000000000000010001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2041",
+        "name": "Qualcomm",
+        "profile": "Software",
+        "role": "Software",
+        "location": "Hyderabad/India",
+        "ctc": "2977000.0",
+        "eligibility": "0000011000000000001100000000000011000000001100000000001000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2042",
+        "name": "Qualcomm",
+        "profile": "Core",
+        "role": "Systems",
+        "location": "Hyderabad/India",
+        "ctc": "4934000.0",
+        "eligibility": "0000000000000000001100000000000000000000001100000000001000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2043",
+        "name": "Qualcomm",
+        "profile": "Core",
+        "role": "Hardware",
+        "location": "Hyderabad/India",
+        "ctc": "2977000.0",
+        "eligibility": "0000001000000000000100000010000001000000000100000000001000000000000000000000000000000000010001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2044",
+        "name": "Qualcomm",
+        "profile": "Software",
+        "role": "Software",
+        "location": "Bangalore/India",
+        "ctc": "3733000.0",
+        "eligibility": "0000000000000000001100000000000000000000001100000000001000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2045",
+        "name": "Qualcomm",
+        "profile": "Core",
+        "role": "Systems",
+        "location": "Bangalore/India",
+        "ctc": "4934000.0",
+        "eligibility": "0000000000000000000100000010000000000000000100000000001000000000000000000000000000000000010001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2046",
+        "name": "Qualcomm",
+        "profile": "Software",
+        "role": "Systems",
+        "location": "Hyderabad/India",
+        "ctc": "4934000.0",
+        "eligibility": "0000000000000000001100000000000000000000001100000000001000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2047",
+        "name": "Qualcomm",
+        "profile": "Core",
+        "role": "Systems",
+        "location": "Hyderabad/India",
+        "ctc": "4934000.0",
+        "eligibility": "0000000000000000000100000010000000000000000100000000001000000000000000000000000000000000010001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2048",
+        "name": "Qualcomm",
+        "profile": "Core",
+        "role": "Systems",
+        "location": "Hyderabad/India",
+        "ctc": "4934000.0",
+        "eligibility": "0000000000000000001100000000000000000000001100000000001000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2049",
+        "name": "Qualcomm",
+        "profile": "Core",
+        "role": "Systems",
+        "location": "Bangalore/India",
+        "ctc": "4934000.0",
+        "eligibility": "0000000000000000000100000010000000000000000100000000001000000000000000000000000000000000010001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2051",
+        "name": "JK Tech",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1500000.0",
+        "eligibility": "0000010000000000001000000000000010000000001000000000000000000000000000000000000000000000100000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2053",
+        "name": "Centre for Development of Telematics (C-DOT)",
+        "profile": "Core",
+        "role": "RESEARCH ENGINEER",
+        "location": "New Delhi/India",
+        "ctc": "1850000.0",
+        "eligibility": "0000011000000000001100000000000011000000001100000000011000010000000000001000000000000000110010000000000000000000000001111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2055",
+        "name": "insideFPV Ventures Private Limited",
+        "profile": "Software",
+        "role": "insideFPV build drones for Consumers, Agriculture and Defence. We are India\u2019s first company to provide Plug and Fly FPV drones. We have been featured in SharkTank India Season 2 getting investment from 4 Sharks. insideFPV is recognised among the top 100 emerging startups globally by TIE Global and have been the first runner up in Aarambh 2023 powered by Shiprocket. We are recoginsed by the Indian Army and have been nominated for Forbes Select 200 Companies.",
+        "location": "Surat/India",
+        "ctc": "1050000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2056",
+        "name": "insideFPV Ventures Private Limited",
+        "profile": "Software",
+        "role": "insideFPV build drones for Consumers, Agriculture and Defence. We are India\u2019s first company to provide Plug and Fly FPV drones. We have been featured in SharkTank India Season 2 getting investment from 4 Sharks. insideFPV is recognised among the top 100 emerging startups globally by TIE Global and have been the first runner up in Aarambh 2023 powered by Shiprocket. We are recoginsed by the Indian Army and have been nominated for Forbes Select 200 Companies.",
+        "location": "Surat/India",
+        "ctc": "1050000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2058",
+        "name": "SignDesk",
+        "profile": "Software",
+        "role": "Associate Software Engineer",
+        "location": "Bangalore/India",
+        "ctc": "900000.0",
+        "eligibility": "0111111110000000000000000000111111111100000000000000000000000000000000000000000000000000000000001110000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2059",
+        "name": "GLS Services",
+        "profile": "Core",
+        "role": "Operations Engineer ",
+        "location": "UAE/unknown",
+        "ctc": "3144120.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2061",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "profile": "Core",
+        "role": "AMS/RF/Si-Ph Design Flow Engineer",
+        "location": "Hsinchu/Taiwan",
+        "ctc": "717384.0",
+        "eligibility": "0000000000000000001100000000000000000000001100000000001000000000000110000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2062",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "profile": "Core",
+        "role": "FE Engineer",
+        "location": "Hsinchu/Taiwan",
+        "ctc": "716700.0",
+        "eligibility": "0000000000000000001100000000000000000000001100000000001000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2063",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "profile": "Core",
+        "role": "Physical Design / APR Engineer",
+        "location": "Hsinchu/Taiwan",
+        "ctc": "716794.0",
+        "eligibility": "0000000000000000001100000000000000000000001100000000001000000000000110000000000001001000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2064",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "profile": "Core",
+        "role": "Analog/Mixed-mode Engineer",
+        "location": "Hsinchu/Taiwan",
+        "ctc": "718000.0",
+        "eligibility": "0000000000000000001100000000000000000000001100000000001000000000000110000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2065",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "profile": "Software",
+        "role": "Software Engineer (TSID)",
+        "location": "Hsinchu/Taiwan",
+        "ctc": "1133000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111100000000010000000000111111111111111111111111111100001111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2066",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "profile": "Software",
+        "role": "Machine Learning Engineer",
+        "location": "Hsinchu/Taiwan",
+        "ctc": "715529.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101100000000000000000000011111111101100001111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2067",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "profile": "Software",
+        "role": "Software Engineer (BSID)",
+        "location": "Hsinchu/Taiwan",
+        "ctc": "608123.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2068",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "profile": "Software",
+        "role": "IT Infrastructure Engineer  ",
+        "location": "Hsinchu/Taiwan",
+        "ctc": "606834.0",
+        "eligibility": "0000011000000000001100000000000011000000001100000000001000000000000000000000000000011000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2069",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "profile": "Software",
+        "role": "Software",
+        "location": "Hsinchu/Taiwan",
+        "ctc": "716729.0",
+        "eligibility": "0000000000000000111100000000000000000000111100000001101000000000000000000000000000000011110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2070",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "profile": "Core",
+        "role": "RF Engineer",
+        "location": "Hsinchu/Taiwan",
+        "ctc": "718080.0",
+        "eligibility": "0000000000000000001100000000000000000000001100000000001000000000000110000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2071",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "profile": "Core",
+        "role": "STDED Engineer",
+        "location": "Hsinchu/Taiwan",
+        "ctc": "716431.0",
+        "eligibility": "0000000000000000000100000000000000000000000100000000001000000000000010000000000000000000010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2072",
+        "name": "Aditya Birla Science & Technology Company Pvt. Ltd",
+        "profile": "Core",
+        "role": "Scientist-1",
+        "location": "Taloja/India",
+        "ctc": "950000.0",
+        "eligibility": "0000000000000000010011000000000000000000010010000000100100000000000000000000000000000001001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2073",
+        "name": "Aditya Birla Science & Technology Company Pvt. Ltd",
+        "profile": "Core",
+        "role": "Scientist-3",
+        "location": "Taloja/India",
+        "ctc": "950000.0",
+        "eligibility": "0000000000000000010010001000000000000000010010000000100100000000000000000000000000000001000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2075",
+        "name": "Groww",
+        "profile": "Software",
+        "role": "Associate Product Manager",
+        "location": "Bengaluru/India",
+        "ctc": "2800000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2077",
+        "name": "HPCL",
+        "profile": "Core",
+        "role": "Officer- Engineering",
+        "location": "Pan India/India",
+        "ctc": "1697000.0",
+        "eligibility": "0001000010000000000000000000001000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2080",
+        "name": "Quadeye Securities",
+        "profile": "Quant",
+        "role": "Quantitative Strategist",
+        "location": "Gurgaon/India",
+        "ctc": "9300000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100010000001000000000000000000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2081",
+        "name": "Quadeye Securities",
+        "profile": "Core",
+        "role": "Systems Engineer",
+        "location": "Gurgaon/India",
+        "ctc": "9300000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100010000001000000000000000000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2082",
+        "name": "Databricks",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Bengaluru/India",
+        "ctc": "1400000.0",
+        "eligibility": "0111111111111100001100000000111111111111111111111111101111101000000110000000000000000000110000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2086",
+        "name": "GLEAN SEARCH TECHNOLOGIES INDIA Pvt. Ltd.",
+        "profile": "Software",
+        "role": "Software Engineer ( India )",
+        "location": "Bangalore/India",
+        "ctc": "16978000.0",
+        "eligibility": "0000010000001000000000000000000010000100001000010000000000000000000000000000000000001000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2087",
+        "name": "GLEAN SEARCH TECHNOLOGIES INDIA Pvt. Ltd.",
+        "profile": "Software",
+        "role": "Software Engineer ( US )",
+        "location": "Palo Alto/United States",
+        "ctc": "1920000.0",
+        "eligibility": "0000010000001000000000000000000010000100001000010000000000000000000000000000000000001000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2088",
+        "name": "Uniorbit Technologies Private Ltd",
+        "profile": "Analytics & Data Science",
+        "role": "Product & Growth Analyst",
+        "location": "Bengaluru/India",
+        "ctc": "1700000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2089",
+        "name": "Svaya Robotics Pvt. Ltd",
+        "profile": "Core",
+        "role": "Control System",
+        "location": "Medchal/India",
+        "ctc": "1000000.0",
+        "eligibility": "0000000000000000000100000000000000000000000100000000001000000000000010000000000000000000010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2092",
+        "name": "Svaya Robotics Pvt. Ltd",
+        "profile": "Core",
+        "role": "Robotics motion Planning",
+        "location": "Hyderabad/India",
+        "ctc": "1000000.0",
+        "eligibility": "0000000000000010000001000000000000000010000000000100000000000000000000000000000000000100001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2094",
+        "name": "ICICI Lombard GIC LTD",
+        "profile": "Analytics & Data Science",
+        "role": "Senior Manager Actuarial Analyst",
+        "location": "Mumbai/India",
+        "ctc": "1200000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2095",
+        "name": "ICICI Lombard GIC LTD",
+        "profile": "Analytics & Data Science",
+        "role": "Senior Manager Data Scientist",
+        "location": "Mumbai/India",
+        "ctc": "1230000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2096",
+        "name": "ICICI Lombard GIC LTD",
+        "profile": "Software",
+        "role": "Senior Manager Data Engineer",
+        "location": "Mumbai/India",
+        "ctc": "2400000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2097",
+        "name": "Trinity Life Sciences",
+        "profile": "Consulting",
+        "role": "Associate",
+        "location": "Gurgaon/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111100000000000000000000000000000000000001011011011000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2098",
+        "name": "Hilti Technology Solutions India",
+        "profile": "Core",
+        "role": "Technical Engineer (GET)",
+        "location": "Pune/India",
+        "ctc": "1900000.0",
+        "eligibility": "0000000000000000100000000000000000000000100000000001000000000000000000000000000000000010000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2100",
+        "name": "Ingram Micro",
+        "profile": "Software",
+        "role": "IT - SOFTWARE DEVELOPMENT ENGINEER \n",
+        "location": "Chennai/India",
+        "ctc": "1800000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2107",
+        "name": "Winzo Games",
+        "profile": "Software",
+        "role": "UI -UX",
+        "location": "Delhi/India",
+        "ctc": "2000000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000100100000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2108",
+        "name": "Alvarez & Marsal",
+        "profile": "Consulting",
+        "role": "Associate",
+        "location": "Mumbai/India",
+        "ctc": "1830000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101111111111110111111111111111111101111111111111111111111110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2110",
+        "name": "Menon and Menon Limited",
+        "profile": "Core",
+        "role": "Technical Executive",
+        "location": "Kolhapur/India",
+        "ctc": "1400000.0",
+        "eligibility": "0100111010000010011101000001100111010010011100000100101000000000000000000000000000000000000000000001010001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2111",
+        "name": "AuxoAI",
+        "profile": "Analytics & Data Science",
+        "role": "AI Engineer",
+        "location": "Mumbai/India",
+        "ctc": "2576936.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2112",
+        "name": "Flipkart",
+        "profile": "Software",
+        "role": "APM- 1",
+        "location": "Bangalore/India",
+        "ctc": "2657000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111110000000001000000000011111111111111111111111111110000111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2115",
+        "name": "Zomato",
+        "profile": "Software",
+        "role": "Software Development Engineer 1",
+        "location": "Gurgaon/India",
+        "ctc": "2500000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2116",
+        "name": "Barclays",
+        "profile": "Analytics & Data Science",
+        "role": "Decision Analyst",
+        "location": "Noida/India",
+        "ctc": "1590000.0",
+        "eligibility": "0111111111111100000000000000111111111100000000000000000000000000000000000000000000000000000000011110000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2122",
+        "name": "TATA 1MG",
+        "profile": "Software",
+        "role": "Associate Product Manager",
+        "location": "Gurugram/India",
+        "ctc": "1800000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2125",
+        "name": "Appy Pie LLP",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Noida/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111100000000000000111111111100001000000000000000000000000000000000000000000000000000011110000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2126",
+        "name": "Samsung Research Institute@ Noida",
+        "profile": "Core",
+        "role": "Engineer - R&D",
+        "location": "Noida/India",
+        "ctc": "2450000.0",
+        "eligibility": "0000011000000000001100000000000011000000001100000000001000000000000000000000000000001000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2127",
+        "name": "Hilabs",
+        "profile": "Software",
+        "role": "APM - US",
+        "location": "Bethesda/USA",
+        "ctc": "788750.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2128",
+        "name": "Hilabs",
+        "profile": "Analytics & Data Science",
+        "role": "DS-US",
+        "location": "Bethesda/USA",
+        "ctc": "740625.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2129",
+        "name": "Samsung R&D, Delhi",
+        "profile": "Software",
+        "role": "Engineer",
+        "location": "Noida/India",
+        "ctc": "2450000.0",
+        "eligibility": "0000011000001000001000000000000011000100001100010000001000000000000000000000000000000000100000000000001000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2131",
+        "name": "Aspect Ratio Private Limited",
+        "profile": "Analytics & Data Science",
+        "role": "Analyst (Analytics)",
+        "location": "Pune/India",
+        "ctc": "1700000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2132",
+        "name": "xalts",
+        "profile": "Core",
+        "role": "Blockchain Engineer",
+        "location": "Bangalore/India",
+        "ctc": "2240000.0",
+        "eligibility": "0000011000001000001100000000000011000100001100010000001000000000000000000000000000000000110000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2133",
+        "name": "Sahajanand Medical technology pvt ltd",
+        "profile": "Core",
+        "role": "Process Engineer",
+        "location": "Surat/India",
+        "ctc": "1215025.0",
+        "eligibility": "0000000000000000010011001000000000000000010010000000100100000000000000000000000000000001001000000001010000000000000000000000000000",
+        "cpi": "5.5"
+    },
+    {
+        "id": "2134",
+        "name": "Biourja",
+        "profile": "Analytics & Data Science",
+        "role": "Power Analyst",
+        "location": "Hyderabad/India",
+        "ctc": "1600000.0",
+        "eligibility": "0000000000000000000100000001000000000000000100000000001000000000000000000000000000000000010000100000000001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2135",
+        "name": "Media.net(Directi) ",
+        "profile": "Software",
+        "role": "Software Development Engineering",
+        "location": "Mumbai/India",
+        "ctc": "3931396.0",
+        "eligibility": "0111111111111100001000000000111111111111111111111111101111101000000000000000000000000000100000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2138",
+        "name": "Accenture Solutions Pvt Ltd - Data AI",
+        "profile": "Analytics & Data Science",
+        "role": "Data AI Senior Analyst",
+        "location": "Bangalore/India",
+        "ctc": "1934000.0",
+        "eligibility": "0000000000000000001000000000000000000000000000000000000000000000000000000000000000011000100000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2139",
+        "name": "Novo Nordisk",
+        "profile": "Core",
+        "role": "Associate Statistician ",
+        "location": "Bangalore/India",
+        "ctc": "1951698.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2140",
+        "name": "Quicksell ",
+        "profile": "Software",
+        "role": "Backend Developer",
+        "location": "Mumbai/India",
+        "ctc": "1500000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2141",
+        "name": "Quicksell ",
+        "profile": "Software",
+        "role": "Android Developer",
+        "location": "Mumbai/India",
+        "ctc": "1800000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2142",
+        "name": "TATA ADVANCED SYSTEMS LIMITED",
+        "profile": "Core",
+        "role": "Post Graduate Engineer Trainee",
+        "location": "Hyderabad/India",
+        "ctc": "800000.0",
+        "eligibility": "0000000000000010011111001000000000000010001100000100001000000000000000000000000000000101111000000001010000100000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2145",
+        "name": "chaabi",
+        "profile": "Software",
+        "role": "Software Development Engineer - I",
+        "location": "Gurugram/India",
+        "ctc": "4500000.0",
+        "eligibility": "0000011000001000001100000000000011000100001100010000001000000000000000000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2147",
+        "name": "Kivi Capital",
+        "profile": "Quant",
+        "role": "Quant Developer",
+        "location": "Gurgaon/India",
+        "ctc": "4500000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100010000001000000000000000000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2148",
+        "name": "Lumiq (Crisp Analytics Private Limited)",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Noida/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101001111111110111111111111111111101111111111111111111111110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2149",
+        "name": "McKinsey & Company",
+        "profile": "Consulting",
+        "role": "Business Analyst",
+        "location": "Gurugram/India",
+        "ctc": "1950000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000000000000000011111111111100000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2150",
+        "name": "Texas Instruments",
+        "profile": "Core",
+        "role": "Analog Engineer",
+        "location": "Bangalore/India",
+        "ctc": "3927190.0",
+        "eligibility": "0000001000000000000100000010000001000000000100000000000000000000000000000000000000000000010001000000000000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2151",
+        "name": "Futures First Info Services Pvt Ltd",
+        "profile": "Finance",
+        "role": "Market Analyst - Trainee",
+        "location": "Gurgaon/India",
+        "ctc": "1288000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2152",
+        "name": "Meesho",
+        "profile": "Analytics & Data Science",
+        "role": "Associate Product Manager I",
+        "location": "Bengaluru/India",
+        "ctc": "2600000.0",
+        "eligibility": "0111111110000000000000000000111111110011111110000111101100000000000000000000000000000000000000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2153",
+        "name": "Texas Instruments",
+        "profile": "Core",
+        "role": "Digital Engineer",
+        "location": "Bangalore/India",
+        "ctc": "3927190.0",
+        "eligibility": "0000001000000000000100000010000001000000000100000000000000000000000000000000000000000000010001000000000000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2154",
+        "name": "Texas Instruments",
+        "profile": "Software",
+        "role": "Embedded Software Engineer",
+        "location": "Bangalore/India",
+        "ctc": "3927190.0",
+        "eligibility": "0000011000000000001100000000000011000000001100000000000000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2155",
+        "name": "Deloitte",
+        "profile": "Consulting",
+        "role": "Analyst - Consulting",
+        "location": "Hyderabad/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111000000000001000000000011111111111111111111111111110000111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2156",
+        "name": "Vassarlabs IT Solutions Pvt Ltd",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist",
+        "location": "Hyderabad/India",
+        "ctc": "1400000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "7.0"
+    },
+    {
+        "id": "2157",
+        "name": "Vassarlabs IT Solutions Pvt Ltd",
+        "profile": "Core",
+        "role": "R&D Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000011000000000000000000000000011000000001100000000001000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "7.0"
+    },
+    {
+        "id": "2158",
+        "name": "Barclays",
+        "profile": "Analytics & Data Science",
+        "role": "Graduate Analyst",
+        "location": "Noida/India",
+        "ctc": "1700000.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101000000000000000000000000000000000000001111111100000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2159",
+        "name": "Barclays",
+        "profile": "Quant",
+        "role": "Graduate Analyst",
+        "location": "Noida/India",
+        "ctc": "1500000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2160",
+        "name": "Samplytics Technologies Private Limited",
+        "profile": "Core",
+        "role": "Electronics Engineer",
+        "location": "Bangalore/India",
+        "ctc": "2200000.0",
+        "eligibility": "0000001000000000000000000000000001000000000100000000001000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2161",
+        "name": "Samplytics Technologies Private Limited",
+        "profile": "Core",
+        "role": "Junior Research Scientist",
+        "location": "Bangalore/India",
+        "ctc": "2200000.0",
+        "eligibility": "0010000000000000000000000000010000000001000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2162",
+        "name": "Samplytics Technologies Private Limited",
+        "profile": "Core",
+        "role": "Associate Product Manager",
+        "location": "Bangalore/India",
+        "ctc": "1800000.0",
+        "eligibility": "0101111110000000000000000000101111110011111110000111101100000000000000000000000000000000000000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2163",
+        "name": "Samplytics Technologies Private Limited",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111110000000000000000000111111110011111110000111101100000000000000000000000000000000000000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2164",
+        "name": "Samplytics Technologies Private Limited",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1800000.0",
+        "eligibility": "0111111111000000000000000000111111110011111111000111101100000000000000000000000000000000000000001001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2165",
+        "name": "Smarttrak AI",
+        "profile": "Core",
+        "role": "Mechanical Engineer",
+        "location": "Remote/USA",
+        "ctc": "1200000.0",
+        "eligibility": "0100000010000010000001000001100000010010000000000100000000000001000000100000000000100100001000100001010001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2167",
+        "name": "Google India",
+        "profile": "Software",
+        "role": "Software Engineer, University Graduate",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2170",
+        "name": "Axis Bank",
+        "profile": "Analytics & Data Science",
+        "role": "Manager",
+        "location": "Pan India/India",
+        "ctc": "1443300.0",
+        "eligibility": "0111111110000000000000000000111111110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2172",
+        "name": "Ford Business Solutions",
+        "profile": "Analytics & Data Science",
+        "role": "Global Data Insight & Analytics ( GDIA )",
+        "location": "Chennai/India",
+        "ctc": "1450000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2173",
+        "name": "Toddle",
+        "profile": "Software",
+        "role": "Junior Product Designer",
+        "location": "Bangalore/India",
+        "ctc": "1500000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000100100000000000001000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2174",
+        "name": "Da Vinci Derivatives B.V.",
+        "profile": "Quant",
+        "role": "Da Vinci was founded in 2015 by three friends with a lot of experience and enthusiasm for trading and has been growing successfully ever since. We are a unique proprietary trading firm, focusing on volatility trading, arbitrage and market making across major exchanges worldwide. We identify opportunities, trade volatility based on in-house developed strategies and provide liquidity to the markets thus making them more efficient.\n\nOur philosophy towards work is best captured by the saying \u201cBe good, work hard and great things will happen\u201d. We are meritocratic by nature and believe that empowering talent in our organization is the only way forward. As part of our team, you will build trading algorithms, implement new strategies in the market, analyze trades, continuously improve how we do things and come up with new innovative ideas to contribute to reaching our ambitious goals.",
+        "location": "Amsterdam/Netherlands",
+        "ctc": "16289875.0",
+        "eligibility": "0111111111001100000000000000111111110111111111011111101101000000000000000000000000000000000000001011011000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2175",
+        "name": "Jaguar Land rover India Limited",
+        "profile": "Core",
+        "role": "Graduate Mechatronics Engineering Trainee",
+        "location": "Bangalore/India",
+        "ctc": "2502000.0",
+        "eligibility": "0100000010000000000000000000100000010010000000000100000000000000000000000000000000000000000000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2176",
+        "name": "Jaguar Land rover India Limited",
+        "profile": "Software",
+        "role": "Graduate Software Engineer Trainee",
+        "location": "Bangalore/India",
+        "ctc": "2352000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2177",
+        "name": "Jaguar Land rover India Limited",
+        "profile": "Core",
+        "role": "Graduate EV-Powertrain Engineer Trainee",
+        "location": "Bangalore/India",
+        "ctc": "2352000.0",
+        "eligibility": "0000001000000000000000000000000001000000000100000000001000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2178",
+        "name": "Dolat Capital",
+        "profile": "Quant",
+        "role": "Quantitative Strategist",
+        "location": "Mumbai/India",
+        "ctc": "2700000.0",
+        "eligibility": "0111111111111100111000000000111111111111111111111111101111100001111111100100000101011011100000001011011011000011100110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2179",
+        "name": "Dolat Capital",
+        "profile": "Quant",
+        "role": "Quantitative Trader",
+        "location": "Mumbai/India",
+        "ctc": "2700000.0",
+        "eligibility": "0111111111111100001000000000111111111111111111111111101111100001011111110100000101011000100000001011011011000001100110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2180",
+        "name": "Citi Bank, Bangalore",
+        "profile": "Analytics & Data Science",
+        "role": "Business Analyst",
+        "location": "Mumbai/India",
+        "ctc": "1750000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2181",
+        "name": "Zomato",
+        "profile": "Analytics & Data Science",
+        "role": "Product Analyst",
+        "location": "Gurgaon/India",
+        "ctc": "1800000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2183",
+        "name": "MathWorks India Pvt. Ltd.",
+        "profile": "Software",
+        "role": "Associate / Engineer or Senior Engineer in Engineering Development Group",
+        "location": "Bangalore/India",
+        "ctc": "2591000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2184",
+        "name": "Saavn Media Limited",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Mumbai/India",
+        "ctc": "2640000.0",
+        "eligibility": "0000011000001000001100000000000011000100001100010000001000000000000000000000000000000000110000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2186",
+        "name": "NPCI",
+        "profile": "Software",
+        "role": "IT Analyst",
+        "location": "Chennai/India",
+        "ctc": "2006000.0",
+        "eligibility": "0101111110000000000000000000101111110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2189",
+        "name": "Svaya Robotics Pvt. Ltd",
+        "profile": "Core",
+        "role": "Biomechanics Design Engineer ",
+        "location": "Hyderabad/India",
+        "ctc": "1000000.0",
+        "eligibility": "0000000000000011010001001000000000000011010000000110100000000001101000100000000000000101001000000001010000000000010000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2190",
+        "name": "MasterCard",
+        "profile": "Software",
+        "role": "Data Engineer",
+        "location": "Pune/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111100111110100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2191",
+        "name": "Chella Software Private Limited",
+        "profile": "Software",
+        "role": "Java Developer",
+        "location": "Madurai/India",
+        "ctc": "1000000.0",
+        "eligibility": "0000011000000000001100000000000011000000001100000000011000010000000000001000000000000000110010000000000000000000000001111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2192",
+        "name": "ARTPARK",
+        "profile": "Core",
+        "role": "Engineer- Mechanical ",
+        "location": "Bengaluru/India",
+        "ctc": "700000.0",
+        "eligibility": "0000000010000000000001000000000000010000000000000000000000000000000000100000000000000000001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2193",
+        "name": "ARTPARK",
+        "profile": "Core",
+        "role": "Engineer - Avionics ",
+        "location": "Bengaluru/India",
+        "ctc": "1000000.0",
+        "eligibility": "0100001000000010000100000000100001000010000100000100001000000001000010000000000000000100010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2194",
+        "name": "ARTPARK",
+        "profile": "Core",
+        "role": "Engineer- Structure Design",
+        "location": "Bengaluru/India",
+        "ctc": "1100000.0",
+        "eligibility": "0101000010000010100001000000101000010010100000000101000000000001010000100000000000000110001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2199",
+        "name": "KAL ATM Software India Pvt. Ltd.",
+        "profile": "Software",
+        "role": "Junior Software Engineer",
+        "location": "Mumbai/India",
+        "ctc": "2139700.0",
+        "eligibility": "0000010000000000001000000000000010000000001000000000000000000000000000000000000000000000100000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2201",
+        "name": "MasterCard",
+        "profile": "Software",
+        "role": "Associate Product Specialist, Product Manager",
+        "location": "Pune/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100010000001000000000000000000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2202",
+        "name": "MasterCard",
+        "profile": "Analytics & Data Science",
+        "role": "Associate Specialist, Product Development",
+        "location": "Pune/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000011010001000000000000000000011010100001100010000001000000000000000000000000000000000000000000001011000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2203",
+        "name": "Aarti Industries Limited",
+        "profile": "Core",
+        "role": "Management Trainee - Chemical Engineering",
+        "location": "Vapi/India",
+        "ctc": "750000.0",
+        "eligibility": "0000100000000000010000000000000100000000010000000000110000010000000000001000000000000001000010000000000000000000000001111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2204",
+        "name": "Aarti Industries Limited",
+        "profile": "Core",
+        "role": "Management Trainee - Mechanical Engineering",
+        "location": "Vapi/India",
+        "ctc": "750000.0",
+        "eligibility": "0000000010000000000001000000000000010000000000000000000000000000000000000000000000000000001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2206",
+        "name": "Smarttrak AI",
+        "profile": "Core",
+        "role": "Digital Construction Engineer",
+        "location": "unknown/unknown",
+        "ctc": "1200000.0",
+        "eligibility": "0001000000000000100000000000001000000000100000000001000000000000010000000000000000000010000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2209",
+        "name": "Jaguar Land rover India Limited",
+        "profile": "Core",
+        "role": "Graduate Electronics HW Design Engineer Trainee",
+        "location": "Bangalore/India",
+        "ctc": "2502000.0",
+        "eligibility": "0000001000000000000000000000000001000000000100000000001000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2210",
+        "name": "Western digital",
+        "profile": "Core",
+        "role": "Senior Engineer, Packaging Engineering\n",
+        "location": "Bangalore/India",
+        "ctc": "2117550.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101000000000000000000000011111111101100001111111111110000110000000000000",
+        "cpi": "1.0"
+    },
+    {
+        "id": "2211",
+        "name": "Skiify Solutions Private Limited",
+        "profile": "Software",
+        "role": "Product Manager",
+        "location": "New Delhi/India",
+        "ctc": "4228000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2213",
+        "name": "Smarttrak AI",
+        "profile": "Analytics & Data Science",
+        "role": "Deep Learning Engineer",
+        "location": "Remote/USA",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2214",
+        "name": "Headout",
+        "profile": "Analytics & Data Science",
+        "role": " Content Marketing Analyst",
+        "location": "Bangalore/India",
+        "ctc": "2225000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101100000000000000000000000111111101111111111111100000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2215",
+        "name": "Headout",
+        "profile": "Consulting",
+        "role": "Program Manager",
+        "location": "Bangalore/India",
+        "ctc": "2275000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111000000000010000000000001111111111111111111111000000001111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2216",
+        "name": "Svaya Robotics Pvt. Ltd",
+        "profile": "Software",
+        "role": "Embedded Developer",
+        "location": "Medchal/India",
+        "ctc": "700000.0",
+        "eligibility": "0000000000000000000100000001000000000000000100000000001000000000000010000000000000100000010000100000000001100000001000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2217",
+        "name": "NVIDIA ",
+        "profile": "Software",
+        "role": "System Software Engineer",
+        "location": "Pune/India",
+        "ctc": "3290063.0",
+        "eligibility": "0000011000000000001100000000000011000000001100000000001000000000000110000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "7.5"
+    },
+    {
+        "id": "2218",
+        "name": "Barclays",
+        "profile": "Analytics & Data Science",
+        "role": "Consumer Credit Risk",
+        "location": "Noida/India",
+        "ctc": "1500000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2219",
+        "name": "Stardour",
+        "profile": "Core",
+        "role": "Propulsion Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "1000000.0",
+        "eligibility": "0100000000000010000000000001100000000010000000000100000000000001000000000000000000100100000000100000000001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2220",
+        "name": "Stardour",
+        "profile": "Core",
+        "role": "AOCS Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "1000000.0",
+        "eligibility": "0100000000000010000000000000100000000010000000000100000000000001000000000000000000000100000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2221",
+        "name": "Stardour",
+        "profile": "Core",
+        "role": "Avionics Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "1000000.0",
+        "eligibility": "0100000010000010000001000000100000010010000000000100000000000001000000100000000000000100001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2222",
+        "name": "Stardour",
+        "profile": "Core",
+        "role": "Space Systems Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "1000000.0",
+        "eligibility": "0100000000000010000000000000100000000010000000000100000000000001000000000000000000000100000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2223",
+        "name": "Stardour",
+        "profile": "Core",
+        "role": "Spacecraft Electrical Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "1000000.0",
+        "eligibility": "0100001010000010000101000000100001010010000100000100001000000001000010100000000000000100011000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2224",
+        "name": "Stardour",
+        "profile": "Core",
+        "role": "Spacecraft Mechanical Engineer\n",
+        "location": "Hyderabad/India",
+        "ctc": "1000000.0",
+        "eligibility": "0100000010000010000001000000100000010010000000000100000000000001000000100000000000000100001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2225",
+        "name": "Stardour",
+        "profile": "Core",
+        "role": "Spacecraft Structural Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "1000000.0",
+        "eligibility": "0101000110000010100011000000101000110010100010000101000100000001010001100000000000000110001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2226",
+        "name": "Stardour",
+        "profile": "Core",
+        "role": "Spacecraft Thermal Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "1000000.0",
+        "eligibility": "0100000010000010000001000001100000010010000000000100000000000001000000100000000000100100001000100001010001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2227",
+        "name": "Axtria",
+        "profile": "Analytics & Data Science",
+        "role": "Analyst",
+        "location": "Noida/India",
+        "ctc": "1375000.0",
+        "eligibility": "0000000000000000001000010000000000000011111111111111111111111010000000001000000000011000100110000001111111001000000111111111111111",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2228",
+        "name": "Indxx",
+        "profile": "Finance",
+        "role": "Management Trainee",
+        "location": "Gurgaon/India",
+        "ctc": "1600000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101100000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2230",
+        "name": "NVIDIA ",
+        "profile": "Software",
+        "role": "Verification Engineer",
+        "location": "Pune/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000011000000000001100000010000011000000001100000000001000000000000000000000000000000000010001000000000000000000000000000000000000",
+        "cpi": "7.0"
+    },
+    {
+        "id": "2231",
+        "name": "Palo Alto Networks",
+        "profile": "Core",
+        "role": "Associate Engineer ",
+        "location": "Bangalore/India",
+        "ctc": "5500000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2235",
+        "name": "Aereo",
+        "profile": "Core",
+        "role": "UAV Systems Engineer",
+        "location": "Bangalore/India",
+        "ctc": "800000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2236",
+        "name": "Aereo",
+        "profile": "Core",
+        "role": "Autopilot Control System Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1500000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2238",
+        "name": "Aereo",
+        "profile": "Core",
+        "role": "Embedded Software Developer ",
+        "location": "Bangalore/India",
+        "ctc": "1500000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2240",
+        "name": "Indus Insights & Analytics Services",
+        "profile": "Consulting",
+        "role": "Associate",
+        "location": "Gurugram/India",
+        "ctc": "1577000.0",
+        "eligibility": "0111111111111111111111111011111111111111111111111111111111111000000000001000000000011111111111111111111111111110000111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2241",
+        "name": "Indus Insights & Analytics Services",
+        "profile": "Consulting",
+        "role": "Senior Associate (in-Training)",
+        "location": "Gurugram/India",
+        "ctc": "1637000.0",
+        "eligibility": "0111111111111111111111111011111111111111111111111111101111001000000000000000000000011111111101101011011011111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2243",
+        "name": "General  Electric",
+        "profile": "Core",
+        "role": "Edison Engineering Development Program",
+        "location": "unknown/India",
+        "ctc": "1525000.0",
+        "eligibility": "0000000000000010000111000000000000000010000110000100001100000000000000000000000000000100011000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2244",
+        "name": "Singularity Dynamics Pvt Ltd",
+        "profile": "Core",
+        "role": "Verification Engineer R & D",
+        "location": "Bengaluru/India",
+        "ctc": "2300000.0",
+        "eligibility": "0000011000001000001100000000000011000100001100010000001000000000000000000000000000000000110000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2245",
+        "name": "Unify Apps",
+        "profile": "Software",
+        "role": "Product Engineer",
+        "location": "Gurugram/India",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2246",
+        "name": "Unify Apps",
+        "profile": "Software",
+        "role": "Platform Engineer",
+        "location": "Gurugram/India",
+        "ctc": "3500000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2250",
+        "name": "CapGrid Solutions Pvt. Ltd",
+        "profile": "Software",
+        "role": "Software",
+        "location": "Gurugram/India",
+        "ctc": "2000000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2251",
+        "name": "CapGrid Solutions Pvt. Ltd",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist",
+        "location": "Gurugram/India",
+        "ctc": "2000000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2254",
+        "name": "Squarepoint Capital",
+        "profile": "Software",
+        "role": "Graduate Software Developer",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2260",
+        "name": "Micron Technology",
+        "profile": "Core",
+        "role": "Semiconductor Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "2746471.0",
+        "eligibility": "0000001000000000000100000010000001000000000000000000000000000000000000000000001000000000010001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2262",
+        "name": "FPL TEchnologies Pvt. Ltd",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Pune/India",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111001000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2263",
+        "name": "FPL TEchnologies Pvt. Ltd",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist",
+        "location": "Pune/India",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2264",
+        "name": "MIKO",
+        "profile": "Analytics & Data Science",
+        "role": "AI NLP Engineer",
+        "location": "Mumbai/India",
+        "ctc": "1252000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101111111111110111111111111111111101111111011011111111111110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2265",
+        "name": "MIKO",
+        "profile": "Analytics & Data Science",
+        "role": "AI Image Processing Engineer",
+        "location": "Mumbai/unknown",
+        "ctc": "1234000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101111111111110111111111111111111101111111111111111111011110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2266",
+        "name": "MIKO",
+        "profile": "Software",
+        "role": "AI Audio and Speech Engineer",
+        "location": "Mumbai/India",
+        "ctc": "12300000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101111111111110111111111111111111101111111111111111111111110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2267",
+        "name": "Merilytics",
+        "profile": "Analytics & Data Science",
+        "role": "Senior Business Analyst",
+        "location": "Hyderabad/India",
+        "ctc": "1150000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000000111111101111111111111100000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2268",
+        "name": "Merilytics",
+        "profile": "Analytics & Data Science",
+        "role": "Senior Technical Associate",
+        "location": "Hyderabad/India",
+        "ctc": "1075000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101100000000000000000000000111111101111111111111100000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2269",
+        "name": "Merilytics",
+        "profile": "Analytics & Data Science",
+        "role": "Senior Analyst \u2013 Data Science",
+        "location": "Hyderabad/India",
+        "ctc": "1230000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101100000000000000000000010111111101111111111111100000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2270",
+        "name": "Microsoft India",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "2103200.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111100000000000000000000000000111111101111111111111100000000110000000000000",
+        "cpi": "7.0"
+    },
+    {
+        "id": "2271",
+        "name": "QuNu Labs Pvt Ltd",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Bengaluru/India",
+        "ctc": "1800000.0",
+        "eligibility": "01111111111111000000000000001111111111111111111111111011111010000000000000000000000000000000000111111111110000000001100000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2272",
+        "name": "Deutsche India Private Limited",
+        "profile": "Finance",
+        "role": "Analyst",
+        "location": "Mumbai/India",
+        "ctc": "3013880.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2274",
+        "name": "BHARAT PETROLEUM CORP. LTD.",
+        "profile": "Core",
+        "role": "Management Trainee",
+        "location": "Pan India/India",
+        "ctc": "1948000.0",
+        "eligibility": "0001101010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2275",
+        "name": "Samsung Research, Bangalore ",
+        "profile": "Core",
+        "role": "Advance Developer - Research Profile",
+        "location": "Bengaluru/India",
+        "ctc": "4000000.0",
+        "eligibility": "0000011000000000001100000000000011000000001100000000001000000000000000000000000000000000110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2276",
+        "name": "Vedanta Resources Limited",
+        "profile": "Core",
+        "role": "Vedanta Leadership Development Program - Graduate Engineer Trainee",
+        "location": "unknown/India",
+        "ctc": "2100000.0",
+        "eligibility": "0001100110000000000000000000001100110000110010000001100100000000000000000000000000000000000000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2277",
+        "name": "Walter P Moore Engineering India Pvt. Ltd",
+        "profile": "Core",
+        "role": "Graduate Engineer",
+        "location": "Pune/India",
+        "ctc": "756000.0",
+        "eligibility": "0000000000000000100000000000000000000000100000000001000000000000010000000000000000000010000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2278",
+        "name": "Reliance Industries Limited",
+        "profile": "Core",
+        "role": "Graduate Engineer Trainee (GET)",
+        "location": "unknown/India",
+        "ctc": "1050000.0",
+        "eligibility": "0001101010000000000000000000001101010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2279",
+        "name": "Tata Consultancy Services",
+        "profile": "Core",
+        "role": "Sustainability Engineer",
+        "location": "unknown/unknown",
+        "ctc": "1100000.0",
+        "eligibility": "0000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000100000000001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2280",
+        "name": "Juniper Networks",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "unknown/unknown",
+        "ctc": "2760000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111100000000010000000000111111111111111111111111111100001111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2281",
+        "name": "Savart",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist",
+        "location": "Hyderabad/India",
+        "ctc": "1500000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2282",
+        "name": "EXL",
+        "profile": "Analytics & Data Science",
+        "role": "Consultant 1 - Analytics & Digital",
+        "location": "Gurgaon/India",
+        "ctc": "1500000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2283",
+        "name": "EXL",
+        "profile": "Analytics & Data Science",
+        "role": "Consultant 1 SBA - Analytics",
+        "location": "Gurgaon/India",
+        "ctc": "900000.0",
+        "eligibility": "0000000000000011111111111111000000000000000000000000000000000000000000000000000000011111111101100000000000111110000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2284",
+        "name": "Barclays",
+        "profile": "Analytics & Data Science",
+        "role": "Associate Data Scientist",
+        "location": "Noida/India",
+        "ctc": "1590000.0",
+        "eligibility": "01111111111111000000000000001111111111000000000000000000000000000000000000000000000000000000000111100000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2285",
+        "name": "NK Securities Research ",
+        "profile": "Software",
+        "role": "Software Developer",
+        "location": "Gurgaon/India",
+        "ctc": "10800000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100010000001000000000000000000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2286",
+        "name": "NK Securities Research ",
+        "profile": "Quant",
+        "role": "Quantitative Researcher",
+        "location": "Gurugram/India",
+        "ctc": "8100000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100010000001000000000000000000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2287",
+        "name": "NK Securities Research ",
+        "profile": "Finance",
+        "role": "Business And Operations Analyst",
+        "location": "Gurgaon/India",
+        "ctc": "3000000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2288",
+        "name": "NK Securities Research ",
+        "profile": "Quant",
+        "role": "Trade Moniter",
+        "location": "Gurgaon/India",
+        "ctc": "3000000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2289",
+        "name": "Samsung Semiconductor India Research",
+        "profile": "Core",
+        "role": "Hardware- Digital (ECE/ VLSI/ Microelectronic)",
+        "location": "Bangalore/India",
+        "ctc": "3110000.0",
+        "eligibility": "0000000000000000001100000010000000000000001100000000001000000000000000000000000000000000110001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2290",
+        "name": "Samsung Semiconductor India Research",
+        "profile": "Software",
+        "role": " Software- Communication Engineering ",
+        "location": "Bangalore/India",
+        "ctc": "3110000.0",
+        "eligibility": "0000000000000000001100000010000000000000001100000000001000000000000000000000000000000000110001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2291",
+        "name": "Javis",
+        "profile": "Analytics & Data Science",
+        "role": "Data Engineer I",
+        "location": "Bangalore/India",
+        "ctc": "3600000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2292",
+        "name": "Godrej & Boyce",
+        "profile": "Core",
+        "role": "Research and Development Engineer",
+        "location": "Pune/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000000000000000000111001001000000000000000000000000000000000000000000000000000000000000011000100000000000010000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2293",
+        "name": "Cohesity",
+        "profile": "Software",
+        "role": "Software Developer - Member of Technical Staff",
+        "location": "Bengaluru/India",
+        "ctc": "4308000.0",
+        "eligibility": "0000010000000000000000000000000010000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2294",
+        "name": "Javis",
+        "profile": "Analytics & Data Science",
+        "role": "Machine Learning Engineer I",
+        "location": "Bangalore/India",
+        "ctc": "3600000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2295",
+        "name": "Javis",
+        "profile": "Software",
+        "role": "Software Development Engineer I (Front End)",
+        "location": "Bangalore/India",
+        "ctc": "3600000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2296",
+        "name": "Javis",
+        "profile": "Software",
+        "role": "Software Development Engineer I (AI Team)",
+        "location": "Bangalore/India",
+        "ctc": "3600000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2297",
+        "name": "Javis",
+        "profile": "Software",
+        "role": "Software Development Engineer I (Backend - Java)",
+        "location": "Bangalore/India",
+        "ctc": "3600000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2298",
+        "name": "Javis",
+        "profile": "Analytics & Data Science",
+        "role": "Business Analyst I",
+        "location": "Bangalore/India",
+        "ctc": "2880000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2299",
+        "name": "Javis",
+        "profile": "Software",
+        "role": "Customer Success Manager I",
+        "location": "Gurgaon/India",
+        "ctc": "2160000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2300",
+        "name": "Thornton Tomasetti",
+        "profile": "Core",
+        "role": "Engineer",
+        "location": "Mumbai/India",
+        "ctc": "750000.0",
+        "eligibility": "0000000000000000100000000000000000000000100000000001000000000000000000000000000000000010000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2301",
+        "name": "Flipkart",
+        "profile": "Consulting",
+        "role": "Assistant Manager Business Development ",
+        "location": "Bangalore/India",
+        "ctc": "1650386.0",
+        "eligibility": "0111101111111100000000000000111101111111110111111111111111111000000000001000000000000000000010011111111111000000000111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2302",
+        "name": "Publicis Sapient",
+        "profile": "Analytics & Data Science",
+        "role": "Data Science",
+        "location": "Bangalore/India",
+        "ctc": "1675555.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2303",
+        "name": "Amway India",
+        "profile": "Analytics & Data Science",
+        "role": "Technology Trainee - Data Scientist",
+        "location": "Gurgaon/India",
+        "ctc": "1500000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2304",
+        "name": "Amway India",
+        "profile": "Software",
+        "role": "Technology Trainee - Developer",
+        "location": "Gurgaon/India",
+        "ctc": "1500000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2305",
+        "name": "Decision Point Pvt Ltd",
+        "profile": "Consulting",
+        "role": "Business Analyst",
+        "location": "Gurgaon/India",
+        "ctc": "800000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2306",
+        "name": "Microsoft India",
+        "profile": "Software",
+        "role": "Ux Designer",
+        "location": "Hyderabad/India",
+        "ctc": "2178200.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000100100000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2307",
+        "name": "Decision Point Pvt Ltd",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist ",
+        "location": "Gurgaon/India",
+        "ctc": "800000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2308",
+        "name": "Jindal Stainless Ltd",
+        "profile": "Core",
+        "role": " Graduate Engineer Trainee (GET)",
+        "location": "unknown/India",
+        "ctc": "950000.0",
+        "eligibility": "0000101110000000000000000000000101110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "2309",
+        "name": "Jindal Stainless Ltd",
+        "profile": "Core",
+        "role": "Post Graduate Engineer Trainee (GET)",
+        "location": "unknown/unknown",
+        "ctc": "1115000.0",
+        "eligibility": "0000000000000000010111001001000000000000010110000000101100000000000000000000000000000001011000100001010001000000000000000000000000",
+        "cpi": "6.5"
+    },
+    {
+        "id": "2311",
+        "name": "Tiger Analytics",
+        "profile": "Analytics & Data Science",
+        "role": "Trainee - Analyst",
+        "location": "Chennai/India",
+        "ctc": "1300000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2312",
+        "name": "Navi",
+        "profile": "Software",
+        "role": "Software Development Engineer",
+        "location": "Bangalore/India",
+        "ctc": "4100000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100010000001000000000000010000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2313",
+        "name": "Navi",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist",
+        "location": "Bangalore/India",
+        "ctc": "4100000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100010000001000000000000010000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2314",
+        "name": "Navi",
+        "profile": "Analytics & Data Science",
+        "role": "Business Analyst (Data Analytics)",
+        "location": "Bangalore/India",
+        "ctc": "3400000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000011000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2315",
+        "name": "Navi",
+        "profile": "Finance",
+        "role": "Product Analyst",
+        "location": "Bangalore/India",
+        "ctc": "3400000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2320",
+        "name": "PharmaACE",
+        "profile": "Consulting",
+        "role": "Consultant",
+        "location": "Pune/India",
+        "ctc": "1215000.0",
+        "eligibility": "0000000000000001011101000000000000000001011101000010111000010000000000001000000000000001111010000001010000010000000001111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2327",
+        "name": "Goldman Sachs",
+        "profile": "Software",
+        "role": "Software Engineering | Quantitative Engineering",
+        "location": "Bengaluru/India",
+        "ctc": "3650000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111100110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2330",
+        "name": "IDFC FIRST Bank ",
+        "profile": "Analytics & Data Science",
+        "role": "Associate Data Scientist ",
+        "location": "Mumbai/India",
+        "ctc": "2760000.0",
+        "eligibility": "0000011000000000000000000000000011000000001100000000001000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2331",
+        "name": "IDFC FIRST Bank ",
+        "profile": "Analytics & Data Science",
+        "role": "Associate Data Analyst ",
+        "location": "Mumbai/India",
+        "ctc": "2300000.0",
+        "eligibility": "0111100111111100000000000000111100111111110011111111100111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2332",
+        "name": "GreyOrange",
+        "profile": "Software",
+        "role": "SDE",
+        "location": "Gurugram/India",
+        "ctc": "2500000.0",
+        "eligibility": "0000010000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2336",
+        "name": "Exigo Recycling Pvt Ltd",
+        "profile": "Core",
+        "role": "Scientist",
+        "location": "Barsat/India",
+        "ctc": "800000.0",
+        "eligibility": "00000000000000000000100010010000000000000000100000000001000000000000000000000000000000000000001000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2337",
+        "name": "Delta Electronics",
+        "profile": "Core",
+        "role": "Hardware Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000011000000000001100000011000011000000001100000000000000000000000000000000000000000000110001100000000001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2339",
+        "name": "Rosy Blue (India) Pvt. Ltd.",
+        "profile": "Core",
+        "role": "Engineering Trainee",
+        "location": "Mumbai/India",
+        "ctc": "1300000.0",
+        "eligibility": "0100100110000010010011001000100100110010010010000100110100010000000000001000000000000101001010000001010000000000000001111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2340",
+        "name": "Larsen & Toubro Limited",
+        "profile": "Core",
+        "role": "Management Trainees",
+        "location": "PAN INDIA/India",
+        "ctc": "700000.0",
+        "eligibility": "0111111111111100000000000000111111111100000000000000000000000000000000000000000000000000000000011110000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2341",
+        "name": "Larsen & Toubro Limited",
+        "profile": "Core",
+        "role": "Post Graduate Engineer Trainees",
+        "location": "PAN INDIA/India",
+        "ctc": "625000.0",
+        "eligibility": "0000000000000011111111111111000000000000000000000000000000000000000000000000000000000111111101100000000000100000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2343",
+        "name": "Lohum Cleantech Pvt Ltd",
+        "profile": "Core",
+        "role": "Graduate Trainee",
+        "location": "Greater Noida/India",
+        "ctc": "1250000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2345",
+        "name": "IBM",
+        "profile": "Software",
+        "role": "UX Research",
+        "location": "Bangalore/India",
+        "ctc": "1500000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000100100000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2346",
+        "name": "Greenko Groups",
+        "profile": "Core",
+        "role": "PGETs only",
+        "location": "Hyderabad/India",
+        "ctc": "700000.0",
+        "eligibility": "0000000000000000111101110001000000000000000000000000000000000000000000000000000000000011111000100000000000010100000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2347",
+        "name": "IBM",
+        "profile": "Software",
+        "role": "Visual Design",
+        "location": "Bangalore/India",
+        "ctc": "1500000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000100100000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2348",
+        "name": "Battery Smart",
+        "profile": "Analytics & Data Science",
+        "role": "Business Analyst",
+        "location": "Gurgaon/India",
+        "ctc": "2200000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2349",
+        "name": "Battery Smart",
+        "profile": "Consulting",
+        "role": "Strategy Associate",
+        "location": "Gurgaon/India",
+        "ctc": "2200000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2350",
+        "name": "Battery Smart",
+        "profile": "Software",
+        "role": "Associate Product Manager",
+        "location": "Gurgaon/India",
+        "ctc": "2200000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2351",
+        "name": "Blitz \u00a9 Bigshort Tails Pvt. Ltd.",
+        "profile": "Analytics & Data Science",
+        "role": "Business Analyst",
+        "location": "Bangalore/India",
+        "ctc": "1465000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111000000000000000000000000000000000000011111111100000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2352",
+        "name": "Blitz \u00a9 Bigshort Tails Pvt. Ltd.",
+        "profile": "Software",
+        "role": "Software Development Engineer - I",
+        "location": "Bangalore/India",
+        "ctc": "1900000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111000000000000000000000000000000000000011111111100000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2353",
+        "name": "Godrej & Boyce",
+        "profile": "Core",
+        "role": "Aerospace Engineer",
+        "location": "Mumbai/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000000000000010000000000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2354",
+        "name": "Centre for Development of Advanced Computing",
+        "profile": "Software",
+        "role": "Knowledge Associate   ",
+        "location": "Kolkata/India",
+        "ctc": "780000.0",
+        "eligibility": "0000010000000000001000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2355",
+        "name": "Centre for Development of Advanced Computing",
+        "profile": "Software",
+        "role": "Knowledge Associate   ",
+        "location": "Kolkata/India",
+        "ctc": "720000.0",
+        "eligibility": "0000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2356",
+        "name": "Centre for Development of Advanced Computing",
+        "profile": "Core",
+        "role": "Knowledge Associate   ",
+        "location": "Kolkata/India",
+        "ctc": "780000.0",
+        "eligibility": "0000011000000000001100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2357",
+        "name": "TVS Motor",
+        "profile": "Analytics & Data Science",
+        "role": "Data Engineer",
+        "location": "Hosur/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111100000000000000111111111100000000000000000000000000000000000000000000000000000000011110000000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2358",
+        "name": "MLA Group of Industries",
+        "profile": "Core",
+        "role": "Product Manager, Chief Technical Service Manager",
+        "location": "Kanpur/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2359",
+        "name": "Go Digit General Insurance",
+        "profile": "Core",
+        "role": "Engineering Trainee",
+        "location": "unknown/unknown",
+        "ctc": "900000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2361",
+        "name": "Urban Health",
+        "profile": "Software",
+        "role": "Associate Product Manager",
+        "location": "Bengaluru/India",
+        "ctc": "3000000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2362",
+        "name": "TVS Motor",
+        "profile": "Core",
+        "role": "Hardware Design Engineer ",
+        "location": "Hosur/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000000000000000001100000010000000000000001100000000001000000000000000000000000000000000110001000000000000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2364",
+        "name": "Amadeus Software Labs",
+        "profile": "Software",
+        "role": "Software Development Engineer 2",
+        "location": "Bengaluru/India",
+        "ctc": "1859224.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2365",
+        "name": "Tata Steel",
+        "profile": "Core",
+        "role": "Management Trainee(R&T)",
+        "location": "unknown/unknown",
+        "ctc": "1311258.0",
+        "eligibility": "0000000000000000011011011000000000000000000000000000000000000000000000000000000000000001101000000000000000010010000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2367",
+        "name": "Jindal Shadeed Iron & Steel",
+        "profile": "Core",
+        "role": "Graduate Engineer Trainee (GET)",
+        "location": "Sohar/Oman",
+        "ctc": "1440000.0",
+        "eligibility": "0000101110000000000000000000000101110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2368",
+        "name": "Juniper Networks",
+        "profile": "Analytics & Data Science",
+        "role": "ML Engineer",
+        "location": "unknown/unknown",
+        "ctc": "2860000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2369",
+        "name": "MathWorks India Pvt. Ltd.",
+        "profile": "Software",
+        "role": "Associate Engineer in User Experience Design in Engineering Development Group",
+        "location": "Hyderabad/India",
+        "ctc": "2937000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000100100000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "7.0"
+    },
+    {
+        "id": "2371",
+        "name": "Blue Yonder India Private Limited",
+        "profile": "Software",
+        "role": "Associate UX Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1260000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000100100000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2372",
+        "name": "Arthur D. Little",
+        "profile": "Consulting",
+        "role": "Business Analyst Trainee",
+        "location": "Gurugram/India",
+        "ctc": "2050000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2373",
+        "name": "Maruti Suzuki India Ltd.",
+        "profile": "Core",
+        "role": "GETs (Graduate Engineer Trainees) & PGETs (Post Graduate Engineer Trainees)",
+        "location": "Gurgaon/India",
+        "ctc": "1339000.0",
+        "eligibility": "0000000000000000000101000000000000000000000000000000010000010000000000001000000000000000011010000000000000000000000001111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2375",
+        "name": "ICICI Bank",
+        "profile": "Finance",
+        "role": "Management Trainee",
+        "location": "unknown/unknown",
+        "ctc": "1650990.0",
+        "eligibility": "0001111010000000000000000000001111010000111100000001101000000000000000000000000000000000000000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2377",
+        "name": "Signalchip Innovations Pvt Ltd ",
+        "profile": "Core",
+        "role": "Electronics - Communication Systems - Design and Development",
+        "location": "Bengaluru/India",
+        "ctc": "1400000.0",
+        "eligibility": "0000011000000000001100000010000011000000001100000000001000000000000110000000001000000000110001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2378",
+        "name": "WorldQuant",
+        "profile": "Quant",
+        "role": "Quantitative Researcher",
+        "location": "Mumbai/India",
+        "ctc": "8700000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2380",
+        "name": "Niva Bupa Health Insurance",
+        "profile": "Software",
+        "role": "Crest Executive Trainee \u2013 IT",
+        "location": "Gurgaon/India",
+        "ctc": "1860000.0",
+        "eligibility": "0111111111111100000000000000111111111100000000000000000000000000000000000000000000000000000000011110000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2383",
+        "name": "Optym India Private Limited",
+        "profile": "Software",
+        "role": "Software Engineer - Algorithm Developer ",
+        "location": "Bangalore/India",
+        "ctc": "2400000.0",
+        "eligibility": "0000000000000011111111111111000000000000000000000000000000000000000000000000000000011111111101100000000000111110000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2384",
+        "name": "Optym India Private Limited",
+        "profile": "Software",
+        "role": "Software Engineer \u2013 Backend",
+        "location": "Bangalore/India",
+        "ctc": "2400000.0",
+        "eligibility": "0000000000000011111111111111000000000000000000000000000000000000000000000000000000011111111101100000000000111110000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2385",
+        "name": "Optym India Private Limited",
+        "profile": "Software",
+        "role": "Software Engineer \u2013 Backend - Java",
+        "location": "Bangalore/India",
+        "ctc": "2400000.0",
+        "eligibility": "0000000000000011111111111111000000000000000000000000000000000000000000000000000000011111111101100000000000111110000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2386",
+        "name": "Optym India Private Limited",
+        "profile": "Software",
+        "role": "Software Engineer \u2013 Node.JS",
+        "location": "Bangalore/India",
+        "ctc": "2400000.0",
+        "eligibility": "0000000000000011111111111111000000000000000000000000000000000000000000000000000000011111111101100000000000111110000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2387",
+        "name": "Wisetech Global",
+        "profile": "Software",
+        "role": "ASSOCIATE SOFTWARE DEVELOPER",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111100001100000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2388",
+        "name": "Avendus Capital Pvt. Ltd",
+        "profile": "Finance",
+        "role": "Front-end Investment Banking",
+        "location": "Mumbai/India",
+        "ctc": "1680000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2389",
+        "name": "Optym India Private Limited",
+        "profile": "Software",
+        "role": "Software Engineer - Frontend",
+        "location": "Bangalore/India",
+        "ctc": "2400000.0",
+        "eligibility": "0000000000000011111111111111000000000000000000000000000000000000000000000000000000011111111101100000000000111110000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2390",
+        "name": "Optym India Private Limited",
+        "profile": "Software",
+        "role": "Full Stack Developer",
+        "location": "Bangalore/India",
+        "ctc": "2400000.0",
+        "eligibility": "0000000000000011111111111111000000000000000000000000000000000000000000000000000000011111111101100000000000111110000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2391",
+        "name": "Optym India Private Limited",
+        "profile": "Core",
+        "role": "OR Scientist",
+        "location": "Bangalore/India",
+        "ctc": "2400000.0",
+        "eligibility": "0000000000000011111111111111000000000000000000000000000000000000000000000000000000011111111101100000000000111110000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2392",
+        "name": "Auronova Consulting",
+        "profile": "Consulting",
+        "role": "Risk Management Consulting",
+        "location": "Bangalore/India",
+        "ctc": "1400000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2393",
+        "name": "BluPine Energy Pvt Ltd",
+        "profile": "Core",
+        "role": "Graduate Engineer Trainee (GET) ",
+        "location": "Gurugram/India",
+        "ctc": "800000.0",
+        "eligibility": "0000001010000000000101000001000001010000000100000000001000000000000010100000000000000000011000100001010001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2394",
+        "name": "Hitachi Energy",
+        "profile": "Core",
+        "role": "Project Engineer",
+        "location": "Chennai/India",
+        "ctc": "1000000.0",
+        "eligibility": "0000000000000000000100000001000000000000000000000000000000000000000000000000000000000000010000100000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2395",
+        "name": "Smart Joules",
+        "profile": "Consulting",
+        "role": "CEO's Office",
+        "location": "Delhi/India",
+        "ctc": "1100000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2398",
+        "name": "United Airlines",
+        "profile": "Analytics & Data Science",
+        "role": "Associate Data Scientist",
+        "location": "Gurugram/India",
+        "ctc": "1100000.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101000000000000000000000011111111101100001111111100000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2400",
+        "name": "Delta Electronics",
+        "profile": "Software",
+        "role": "Software Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000011000000000001100000011000011000000001100000000000000000000000000000000000000000000110001100000000001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2401",
+        "name": "Total Environment",
+        "profile": "Core",
+        "role": "Assistant Design Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000000000000000100000000000000000000000100000000000000000000000000000000000000000000010000000000000000000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2402",
+        "name": "MakeMyTrip",
+        "profile": "Software",
+        "role": "UX Designer- 2",
+        "location": "Gurgaon/India",
+        "ctc": "1500000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000000000100100000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2407",
+        "name": "Siemens",
+        "profile": "Core",
+        "role": "Graduate Trainee Engineer & Post Graduate Trainee Engineer",
+        "location": "Gurgaon/India",
+        "ctc": "1000000.0",
+        "eligibility": "0101111010111010111101110000101111011100000000000000000000100100000000000001000000000111111000000000000000001100000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2408",
+        "name": "Hyprbots Systems",
+        "profile": "Analytics & Data Science",
+        "role": "AI/ML Engineer",
+        "location": "Bangalore/India",
+        "ctc": "2500000.0",
+        "eligibility": "0001011000000000101100000000001011000000101100000001001000000000010110000000000101011010110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2409",
+        "name": "Hyprbots Systems",
+        "profile": "Software",
+        "role": "Software Development Engineer",
+        "location": "Bangalore/India",
+        "ctc": "2000000.0",
+        "eligibility": "0001011000000000101100000000001011000000101100000001001000000000010110000000000101011010110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2410",
+        "name": "OLA",
+        "profile": "Core",
+        "role": "Electrical Engineer - PGET",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000000000000000000100000000000000000000000100000000001000000000000000000000000000000000010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2411",
+        "name": "OLA",
+        "profile": "Core",
+        "role": "Electronics Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000000000000000000100000000000000000000000100000000001000000000000000000000000000000000010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2412",
+        "name": "OLA",
+        "profile": "Core",
+        "role": "Analytical & Test Engineer",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000000000000000010010001001000000000000010010000000100100000000000000000000000000000001000000100000000001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2413",
+        "name": "TATA Projects Limited",
+        "profile": "Finance",
+        "role": "Executive Trainee",
+        "location": "unknown/unknown",
+        "ctc": "1575000.0",
+        "eligibility": "0001001010000000000000000000001001010000100100000001001000000000000000000000000000000000000000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2415",
+        "name": "KLA Tencor",
+        "profile": "Core",
+        "role": "Product Development Engineer",
+        "location": "Chennai/India",
+        "ctc": "2400000.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101110000000000000000000011111111101100001111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2416",
+        "name": "Perceptive Analytics Pvt. Ltd",
+        "profile": "Analytics & Data Science",
+        "role": "Analyst - Visual Analytics",
+        "location": "Hyderabad/India",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2417",
+        "name": "Perceptive Analytics Pvt. Ltd",
+        "profile": "Consulting",
+        "role": "Sales Consultant",
+        "location": "Hyderabad/India",
+        "ctc": "666000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2428",
+        "name": "KBR",
+        "profile": "Core",
+        "role": "Engineer: Chemical \nEngineer: Mechanical",
+        "location": "Gurgaon/India",
+        "ctc": "950000.0",
+        "eligibility": "0000000000000000010001000000000000000000000000000000000000000000000000000000000000000001001000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2430",
+        "name": "Brane Enterprises-NSL HUB",
+        "profile": "Software",
+        "role": "Blockchain Syntactic",
+        "location": "Hyderabad/India",
+        "ctc": "2000000.0",
+        "eligibility": "0000011000001000000000000000000011000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2431",
+        "name": "Brane Enterprises-NSL HUB",
+        "profile": "Software",
+        "role": "Blockchain Semantic",
+        "location": "Hyderabad/India",
+        "ctc": "2000000.0",
+        "eligibility": "00000110000010000000000000000000110001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2435",
+        "name": "SAP Labs",
+        "profile": "Software",
+        "role": "Associate Developer -Cloud Native API Platform ",
+        "location": "Bangalore/India",
+        "ctc": "4072200.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2438",
+        "name": "Aditya Birla Science & Technology Company Pvt. Ltd",
+        "profile": "Core",
+        "role": "Scientist-7",
+        "location": "Navi Mumbai/India",
+        "ctc": "950000.0",
+        "eligibility": "0000000000000000010000000000000000000000010000000000100000000000000000000000000000000001000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2439",
+        "name": "Media.net(Directi) ",
+        "profile": "Analytics & Data Science",
+        "role": "Senior Product Analyst",
+        "location": "Mumbai/India",
+        "ctc": "2116000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2442",
+        "name": "PricewaterhouseCoopers (US-Adv)",
+        "profile": "Analytics & Data Science",
+        "role": "Associate - Product & Technology",
+        "location": "Bangalore/India",
+        "ctc": "1500000.0",
+        "eligibility": "0111111111111100000000000000111111111100000000000000000000000000000000000000000000000000000000011110000000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2443",
+        "name": "SAP Labs",
+        "profile": "Software",
+        "role": "Developer Associate\u2013 SAP Event Mesh",
+        "location": "Bangalore/India",
+        "ctc": "4072200.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2444",
+        "name": "Indian Political Action Committee",
+        "profile": "Consulting",
+        "role": "Campaign Manager",
+        "location": "unknown/unknown",
+        "ctc": "1537000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2445",
+        "name": "Vassarlabs IT Solutions Pvt Ltd",
+        "profile": "Core",
+        "role": "Hydrologist",
+        "location": "Hyderabad/India",
+        "ctc": "800000.0",
+        "eligibility": "0000000000000000100000100001000000000000000000000000000000000000000000000000000000000010000000100000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2448",
+        "name": "Accenture Applied Intelligence",
+        "profile": "Analytics & Data Science",
+        "role": "Data Science Analyst",
+        "location": "Gurugram/India",
+        "ctc": "1715000.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101110000000000000000000011111111101100001111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2449",
+        "name": "Dashtoon",
+        "profile": "Software",
+        "role": "Engineer, Product",
+        "location": "Bengaluru/India",
+        "ctc": "2001600.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2450",
+        "name": "Dashtoon",
+        "profile": "Core",
+        "role": "Engineer, Generative AI\t",
+        "location": "Bengaluru/India",
+        "ctc": "2001600.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2451",
+        "name": "Dashtoon",
+        "profile": "Software",
+        "role": "Associate Program Manager",
+        "location": "Bengaluru/India",
+        "ctc": "1400004.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2452",
+        "name": "Dashtoon",
+        "profile": "Software",
+        "role": "Associate Product Manager\t",
+        "location": "Bengaluru/India",
+        "ctc": "1400004.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2453",
+        "name": "Dashtoon",
+        "profile": "Software",
+        "role": "Product Designer",
+        "location": "Bengaluru/India",
+        "ctc": "1500000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2454",
+        "name": "SAP Labs",
+        "profile": "Software",
+        "role": "Developer Associate\u2013 SAP Cloud Integration",
+        "location": "Bangalore/India",
+        "ctc": "4072200.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2456",
+        "name": "ICICI Lombard GIC LTD",
+        "profile": "Software",
+        "role": "Senior Manager - Strategy & Innovation",
+        "location": "Unknown/Unknown",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101111111111110111111111111111111101111111111111111111111110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2457",
+        "name": "SAP Labs",
+        "profile": "Software",
+        "role": "Quality Associate \u2013 SAP Cloud Integration",
+        "location": "Bangalore/India",
+        "ctc": "4072200.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2459",
+        "name": "SAP Labs",
+        "profile": "Software",
+        "role": "Associate Java Developer",
+        "location": "Bangalore/India",
+        "ctc": "4072200.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2463",
+        "name": "Sunsure Energy",
+        "profile": "Core",
+        "role": " Sales/ Business Development",
+        "location": "unknown/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2464",
+        "name": "Solar Energy Corporation of India Limited",
+        "profile": "Core",
+        "role": "Executive Trainee",
+        "location": "unknown/unknown",
+        "ctc": "1989891.0",
+        "eligibility": "0000000000000000000100000011000000000000000100000000001000000000000000000000000000000000010001100000000001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2467",
+        "name": "Jio Platforms Ltd.",
+        "profile": "Software",
+        "role": "Deputy Manager (Software Developer Role )",
+        "location": "Mumbai/India",
+        "ctc": "1850000.0",
+        "eligibility": "0000011000000000000000000000000011000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2468",
+        "name": "Jio Platforms Ltd.",
+        "profile": "Core",
+        "role": "Deputy Manager( ECE Core Role)",
+        "location": "Mumbai/India",
+        "ctc": "1850000.0",
+        "eligibility": "0000001000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2469",
+        "name": "ArcelorMittal Nippon Steel India Ltd.",
+        "profile": "Core",
+        "role": "Position Graduate Engineer Trainee (GET)\n",
+        "location": "Pan India",
+        "ctc": "1550000.0",
+        "eligibility": "0000001110000000000000000000000001110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2470",
+        "name": "IdeaForge Technology Pvt. Ltd",
+        "profile": "Core",
+        "role": "Engineer I ",
+        "location": "Navi Mumbai/India",
+        "ctc": "1700000.0",
+        "eligibility": "0000001000000000000100000000000001000000000100000000001000000000000000000000000000000000010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2471",
+        "name": "HFCL",
+        "profile": "Core",
+        "role": "Post Graduate engineer Trainee",
+        "location": "Hyderabad/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000000000000000010010001010000000000000010010000000100100000000001000000000000000000001000001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2472",
+        "name": "Vantage Research",
+        "profile": "Core",
+        "role": "Scientist I",
+        "location": "Chennai/India",
+        "ctc": "1250000.0",
+        "eligibility": "0111111111001111111111011111111111110111111111011111111101011000000000001000000000011111111111111111111111010010000001111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2473",
+        "name": "Vantage Research",
+        "profile": "Core",
+        "role": "Scientist II",
+        "location": "Chennai/India",
+        "ctc": "1400000.0",
+        "eligibility": "0000000000000000000000000000000000000000000000000000010000010001111011101100101111100000000010000000000000000001011001111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2474",
+        "name": "Aditya Birla Capital",
+        "profile": "Analytics & Data Science",
+        "role": "Trainee",
+        "location": "Mumbai/India",
+        "ctc": "1350000.0",
+        "eligibility": "0101111110101000000000000000101111110110111110110101101110000000000000000000000000000000000000000001011000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2476",
+        "name": "GyanDhan",
+        "profile": "Software",
+        "role": "Software Development Engineer",
+        "location": "Saket/India",
+        "ctc": "4250000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101100000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2477",
+        "name": "Soaron",
+        "profile": "Software",
+        "role": "Flutter Developer",
+        "location": "Hyderabad/India",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2478",
+        "name": "Soaron",
+        "profile": "Software",
+        "role": "AI/ML Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2479",
+        "name": "Soaron",
+        "profile": "Core",
+        "role": "Pump Design and Development Engineer",
+        "location": "Hyderabad/India",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2480",
+        "name": "Soaron",
+        "profile": "Core",
+        "role": "Controls Engineer - Autonomous Flight and Painting Systems",
+        "location": "Hyderabad/India",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2481",
+        "name": "Soaron",
+        "profile": "Core",
+        "role": "Embedded Engineer - Autonomous Painting Drone with Robotic Arm",
+        "location": "Hyderabad/India",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2482",
+        "name": "Soaron",
+        "profile": "Core",
+        "role": "Robotics Engineer - Autonomous Painting Robotic Arm Integration",
+        "location": "Hyderabad/India",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2483",
+        "name": "GyanDhan",
+        "profile": "Analytics & Data Science",
+        "role": "Business Analyst",
+        "location": "Saket/India",
+        "ctc": "2600000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101110000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2485",
+        "name": "SAP Labs",
+        "profile": "Core",
+        "role": "Developer Associate - Database",
+        "location": "Pune/India",
+        "ctc": "4072200.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2488",
+        "name": "C3iHub (IHub NTIHAC Foundation), IIT Kanpur",
+        "profile": "Core",
+        "role": "Research Engineer",
+        "location": "Kanpur/India",
+        "ctc": "2800000.0",
+        "eligibility": "0100011000000010001100000000100011000010001100000100001000000000000000000000000000000100110000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2489",
+        "name": "Fujitsu Research of India Pvt Ltd",
+        "profile": "Core",
+        "role": "Applied Researcher  AI LAB",
+        "location": "unknown/unknown",
+        "ctc": "2200000.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101111111111110111111111111111111101100001111111111111111110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2490",
+        "name": "Fujitsu Research of India Pvt Ltd",
+        "profile": "Core",
+        "role": "Research (Pre Doctorial Role: 2 years employment)",
+        "location": "Telangana/India",
+        "ctc": "2000000.0",
+        "eligibility": "0111111111111100000000000000111111111100000000000000000000000000000000000000000000000000000000011110000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2491",
+        "name": "Fujitsu Research of India Pvt Ltd",
+        "profile": "Core",
+        "role": "AI Researcher",
+        "location": "unknown/unknown",
+        "ctc": "2200000.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111100111111111110111111111111111111101100001111111111111111110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2492",
+        "name": "NK Securities Research ",
+        "profile": "Core",
+        "role": "Hardware Researcher / Systems Engineer",
+        "location": "Gurugram/India",
+        "ctc": "6400000.0",
+        "eligibility": "0000011000001000000000000000000011000100001100010000001000000000000001000000000000000000000000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2493",
+        "name": "JM Financial",
+        "profile": "Software",
+        "role": "Full Stack Web Developer",
+        "location": "unknown/unknown",
+        "ctc": "2400000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101111111111110111111111111111111101111111111111111111111110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2494",
+        "name": "JM Financial",
+        "profile": "Software",
+        "role": "Full Stack Mobile Developer",
+        "location": "unknown/unknown",
+        "ctc": "2400000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101111111111110111111111111111111101111111111111111111111110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2498",
+        "name": "Hero MotoCorp",
+        "profile": "Core",
+        "role": "Post Graduate Engineer Trainee (Project Engineering)",
+        "location": "Gurugram/India",
+        "ctc": "1450000.0",
+        "eligibility": "0000000000000000000001000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2499",
+        "name": "SigIQ AI",
+        "profile": "Software",
+        "role": "Backend engineer",
+        "location": "San Francisco/USA",
+        "ctc": "12800000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2501",
+        "name": "Leapfrog Semiconductor ",
+        "profile": "Core",
+        "role": "HW Design engineer ",
+        "location": "Bengaluru/India",
+        "ctc": "2750000.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101000000000000000000000011111111101100001111111011110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2502",
+        "name": "Leapfrog Semiconductor ",
+        "profile": "Core",
+        "role": "HW Design Verification engineer",
+        "location": "Bengaluru/India",
+        "ctc": "2750000.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101000000000000000000000011111111101100001111111011110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2503",
+        "name": "SigIQ AI",
+        "profile": "Software",
+        "role": "Frontend engineer",
+        "location": "San Francisco/United States",
+        "ctc": "15700000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2507",
+        "name": "Rtvision Technologies Pvt Ltd",
+        "profile": "Core",
+        "role": "Manufacturing",
+        "location": "Greater Noida/India",
+        "ctc": "700000.0",
+        "eligibility": "0100011110001010001111011010000000000010001110000100001100101000000000000000000000000000000001010001010010000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2513",
+        "name": "Hero MotoCorp",
+        "profile": "Core",
+        "role": "Post Graduate Engineer Trainee (Project Engineering) ",
+        "location": "Gurugram/India",
+        "ctc": "1450000.0",
+        "eligibility": "0000000000000000000101000000000000000000000000000000000000000000000000000000000000000000011000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2514",
+        "name": "Hero MotoCorp",
+        "profile": "Core",
+        "role": "Development Quality Part & Process Approval Development Engineer Body Engg",
+        "location": "Gurugram/India",
+        "ctc": "1450000.0",
+        "eligibility": "0000000000000000000100000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2515",
+        "name": "Hero MotoCorp",
+        "profile": "Software",
+        "role": "TESTING & VALIDATION Test Engineer Engine Testing",
+        "location": "Gurugram/India",
+        "ctc": "1450000.0",
+        "eligibility": "0000000000000000000001000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2516",
+        "name": "Hero MotoCorp",
+        "profile": "Core",
+        "role": "Drivetrain electronics engineer",
+        "location": "Gurugram/India",
+        "ctc": "1450000.0",
+        "eligibility": "0000000000000000000100000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2517",
+        "name": "Bajaj Electricals",
+        "profile": "Core",
+        "role": "Graduate Engineer Trainee",
+        "location": "Pan India/India",
+        "ctc": "1500000.0",
+        "eligibility": "0000001010000000000000000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2518",
+        "name": "EndureAir Systems",
+        "profile": "Core",
+        "role": "Embedded Software Engineer",
+        "location": "Noida/India",
+        "ctc": "1200000.0",
+        "eligibility": "01111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2519",
+        "name": "EndureAir Systems",
+        "profile": "Core",
+        "role": "Flight Controls Engineer (Jr.)",
+        "location": "Noida/India",
+        "ctc": "1200000.0",
+        "eligibility": "0100011010000010001101000000100011010010001100000100001000000000000000000000000000000100111000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2520",
+        "name": "EndureAir Systems",
+        "profile": "Core",
+        "role": "Embedded Hardware Engineer",
+        "location": "Noida/India",
+        "ctc": "1200000.0",
+        "eligibility": "0100001010000010000101000000100001010010000100000100001000000000000000000000000000000100011000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2521",
+        "name": "Pine Labs Pvt. Ltd",
+        "profile": "Software",
+        "role": "SDE",
+        "location": "unknown/unknown",
+        "ctc": "2250000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2526",
+        "name": "Aditya Birla Science & Technology Company Pvt. Ltd",
+        "profile": "Core",
+        "role": "Scientist-8",
+        "location": "Navi Mumbai/India",
+        "ctc": "950000.0",
+        "eligibility": "0000000000000000010010000000000000000000010010000000100100000000000000000000000000000001000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2528",
+        "name": "Alvarez & Marsal",
+        "profile": "Consulting",
+        "role": "Associate, Metals and Mining Practice",
+        "location": "Mumbai/India",
+        "ctc": "1830000.0",
+        "eligibility": "0000000110000000000011000000000000110000000010000000000100000000000000000000000000000000001000000001010000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2533",
+        "name": "Gan Studio Private Limited",
+        "profile": "Software",
+        "role": "Backend Engineer",
+        "location": "Noida/India",
+        "ctc": "1800000.0",
+        "eligibility": "0000011000001000001100000000000011000100001100010000001000000000000000000000000000000000110000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2536",
+        "name": "Caterpillar",
+        "profile": "Core",
+        "role": "Associate Engineer - Battery Modelling and Analysis ",
+        "location": "Bangalore/India",
+        "ctc": "1379280.0",
+        "eligibility": "0000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000100000000001000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2537",
+        "name": "Caterpillar",
+        "profile": "Core",
+        "role": "Associate Engineer - Controls Development \u2013 Electrification + Energy Solutions",
+        "location": "Bangalore/India",
+        "ctc": "1379280.0",
+        "eligibility": "0000000000000000000100000000000000000000000100000000001000000000000000000000000000000000010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2538",
+        "name": "Caterpillar",
+        "profile": "Core",
+        "role": "Associate Engineer - Electrical engineering ",
+        "location": "Bangalore/India",
+        "ctc": "1379280.0",
+        "eligibility": "0000000000000000000100000000000000000000000100000000001000000000000000000000000000000000010000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2540",
+        "name": "Daimler Trucks Innovations Center India",
+        "profile": "Core",
+        "role": "Engineering Trainee- Electrical(PG)",
+        "location": "Bangalore/India",
+        "ctc": "1500000.0",
+        "eligibility": "0000000000000000000100000010000000000000000100000000001000000000000000000000000000000000010001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2541",
+        "name": "Daimler Trucks Innovations Center India",
+        "profile": "Core",
+        "role": "Engineering Trainee-Electrical(UG)",
+        "location": "Bangalore/India",
+        "ctc": "1400000.0",
+        "eligibility": "0000001000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2542",
+        "name": "Daimler Trucks Innovations Center India",
+        "profile": "Analytics & Data Science",
+        "role": "Engineering Trainee-AI/DS(PG)",
+        "location": "Bangalore/India",
+        "ctc": "2000000.0",
+        "eligibility": "0000000000000011111111111111000000000011111111111111101111101000000000000000000000011111111101100001111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2548",
+        "name": "PricewaterhouseCoopers (US-Adv)",
+        "profile": "Analytics & Data Science",
+        "role": "Product and Development",
+        "location": "Bangalore/India",
+        "ctc": "1500000.0",
+        "eligibility": "0111111110000000000000000000111111110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2551",
+        "name": "TVS Motor",
+        "profile": "Software",
+        "role": "Software Engineer (Cluster and Infotainment)",
+        "location": "Bangalore/India",
+        "ctc": "1200000.0",
+        "eligibility": "0000000000000000001100000010000000000000001100000000001000000000000000000000000000000000110001000000000000000000000000000000000000",
+        "cpi": "6.0"
+    },
+    {
+        "id": "2552",
+        "name": "Gan Studio Private Limited",
+        "profile": "Software",
+        "role": "Deep Learning",
+        "location": "Noida/India",
+        "ctc": "1800000.0",
+        "eligibility": "0000011000001000001100000000000011000100001100010000001000000000000000000000000000000000110000000000001000000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2553",
+        "name": "Leena AI",
+        "profile": "Software",
+        "role": "SDE",
+        "location": "Gurgaon/India",
+        "ctc": "1200000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2555",
+        "name": "Coforge Ltd.",
+        "profile": "Analytics & Data Science",
+        "role": "IT \u2013 Software",
+        "location": "Noida/India",
+        "ctc": "1200000.0",
+        "eligibility": "01111111111111000000000000001111111111000000000000000000000000000000000000000000000000000000000111100000000000000000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2556",
+        "name": "Interglobe Aviation Ltd. (IndiGo Airlines)",
+        "profile": "Analytics & Data Science",
+        "role": "Data Scientist ",
+        "location": "Gurugram/India",
+        "ctc": "1600000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2557",
+        "name": "Pine Labs Pvt. Ltd",
+        "profile": "Consulting",
+        "role": "APM",
+        "location": "unknown/unknown",
+        "ctc": "2250000.0",
+        "eligibility": "0111111111111111111111111111111111111111111111111111101111101000000000000000000000011111111101111111111111111110000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2558",
+        "name": "Quantbox Research",
+        "profile": "Software",
+        "role": "DevOps Engineer",
+        "location": "Bangalore/India",
+        "ctc": "2500000.0",
+        "eligibility": "0111111111111100000000000000111111111111111111111111101111101000000000000000000000000000000000011111111111000000000110000000000000",
+        "cpi": "0.0"
+    },
+    {
+        "id": "2559",
+        "name": "Onsemi semiconductors",
+        "profile": "Core",
+        "role": "ANALOG DESIGN ENGINEER\n",
+        "location": "Bengaluru/India",
+        "ctc": "2100000.0",
+        "eligibility": "0000000000000000000110001010000000000000000110000000001100000000000000000000000000000000010001000000000000000000000000000000000000",
+        "cpi": "0.0"
+    }
+]
