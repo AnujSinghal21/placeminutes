@@ -1,6 +1,8 @@
-from flask import Flask, g
+from flask import Flask, g, jsonify
 import sqlite3
-
+import sys
+sys.path.append('./api')
+from home import get_company_data
 DB_PATH = 'database/data.db'
 
 app = Flask(__name__)
@@ -18,11 +20,16 @@ def close_db(exception):
 
 @app.route('/')
 def index():
-    db = get_db()
-    cursor = db.cursor()
-    cursor.execute('SELECT * FROM my_table')
-    rows = cursor.fetchall()
-    return str(rows)
+    return "hello"
+    # db = get_db()
+    # cursor = db.cursor()
+    # cursor.execute('SELECT * FROM my_table')
+    # rows = cursor.fetchall()
+    # return str(rows)
+
+@app.route('/api/companies',methods=["GET"])
+def get_company_list():
+    return jsonify(get_company_data())
 
 if __name__ == '__main__':
     app.run()
