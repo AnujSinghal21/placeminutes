@@ -12,3 +12,8 @@ def get_company_data():
         json_data=json.load(json_file)
     return json_data
 
+def get_student_data():
+    with open('students.json','r') as json_file:
+        json_data=json.load(json_file)
+    return json_data
+

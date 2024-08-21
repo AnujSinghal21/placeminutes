@@ -32,3 +32,19 @@ def get_json_files():
     return
 
 convert_to_csv()
+
+def convert_to_json():
+    net_data=[]
+    df=pd.read_csv('./joined_data.csv')
+    for i in range(len(df)):
+        curr_data={}
+        for key in df.columns:
+            curr_data[key]=str(df[key][i])
+        net_data.append(curr_data)
+    
+    with open('student_json','w') as json_file:
+        json.dump(net_data,json_file,indent=4)
+    
+    return
+
+convert_to_json()
