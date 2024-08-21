@@ -1,12 +1,17 @@
-import React from 'react';
+import React from "react";
+import Sidebar from "./Sidebar";
 
 function Insights() {
   return (
-    <div style={{ padding: '20px', textAlign: 'center' }}>
-      <h1>Welcome to the Insight Page</h1>
-      <p>This is the insight page of your React application.</p>
-      <p>Feel free to explore the other pages using the navigation links.</p>
-    </div>
+    <>
+      <div
+        className="container-fluid flex m-0 p-0 w-100"
+        style={{ backgroundColor: "#1c2130" }}
+      >
+        <Sidebar page={"insights"} />
+        <div className="container"></div>
+      </div>
+    </>
   );
 }
 
