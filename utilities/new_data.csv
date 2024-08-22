@@ -1,0 +1,845 @@
+Name,Roll No.,Company Name,Profile,Branch,ctc,companyID,gender,cpi,home_states,blood_groups
+Harshit Raj,200433,Quadeye Securities,PIO-PPO,BT-CSE,0.0,-1,M,9.598078574214894,JHARKHAND,O-
+Abhishek Shree,200028,Qube Research & Technology,PIO-PPO,BS-ECO,0.0,-1,M,8.793322929798151,BIHAR,O+
+Somya Gupta,200993,Goldman Sachs,PIO-PPO,BS-MTH,3650000.0,2327,M,8.962769202844656,U.P.,B+
+Manas Gupta,200554,Microsoft India,Software Engineer,BT-CSE,2103200.0,2270,M,9.086828166319549,U.P.,B+
+Agrim Pandey,200061,Microsoft India,Software Engineer,BT-AE,2103200.0,2270,M,8.012413296081883,U.P.,B+
+Rishi Malhotra,200794,Alvarez & Marsal,Associate,BT-ME,1830000.0,2108,M,8.971443597685061,HARYANA,O+
+Parinay Chauhan,200667,Quadeye Securities,PIO-PPO,BT-CSE,0.0,-1,M,9.943796772253306,U.P.,O+
+Sunay Chhajed,19816876,Uniorbit Technologies Private Ltd,Product & Growth Analyst,DualB-ECO,1700000.0,2088,M,0.0,,O+
+Rashmi G R,200772,chaabi,Software Development Engineer - I,BT-CSE,4500000.0,2145,M,6.520166435877116,KARNATAKA,O+
+Shivangi Singh,200943,App Orchid Inc,Data Sciecne / AI / ML,BS-CHM,1200000.0,-1,M,6.1593717721500285,U.P.,B+
+Vedant Dangi,201101,Cubastion Consulting,Graduate Trainee Engineer,BT-MSE,600000.0,1752,M,6.521773372458127,MADHYA PRADESH,O+
+Arushi Garg,200193,MasterCard,Data Engineer,BT-MSE,1200000.0,2190,M,7.4917429873340735,DELHI,O+
+Harsh Ranjan,200417,Deloitte,Analyst - Consulting,BT-CHE,1200000.0,2155,M,6.967997803165754,JHARKHAND,O+
+Priyanka Jalan,190649,AlphaGrep Securities Private Limited,PIO-PPO,DoubleMajor-CSE,0.0,-1,M,0.0,U.P.,A+
+Ankit Choudhary,200135,QuNu Labs Pvt Ltd,Software Engineer,BT-EE,1800000.0,2271,M,8.536872787231689,RAJASTHAN,B+
+Nishithaarsh,200647,Indian Political Action Committee,Campaign Manager,BT-CE,1537000.0,2444,M,7.028161472009498,MADHYA PRADESH,A+
+Kaif,19817491,Dolat Capital,Quantitative Strategist,DualA-PHY,2700000.0,2178,M,0.0,,O+
+Yashwant Mahajan,201156,Dolat Capital,Quantitative Strategist,BT-EE,2700000.0,2178,M,8.093427736439105,HARYANA,O+
+Satyam Kumar Roy,200895,Navi,Software Development Engineer,BS-MTH,4100000.0,2312,M,5.9622098586525105,BIHAR,A-
+Shubh Bajaj,200963,Uniorbit Technologies Private Ltd,Software Development Engineer 1 (SDE 1),BS-MTH,2053830.0,1837,M,8.40343001247533,TELANGANA,O-
+Shashvat Singham,200922,EXL,Consultant 1 - Analytics & Digital,BS-PHY,1500000.0,2282,M,5.79290976512694,U.P.,O+
+Pratyush Gupta,200716,EVERSANA,PIO-PPO,BT-CHE,0.0,-1,M,9.45154642875379,U.P.,O+
+Amit Songara,200112,NPCI,IT Analyst,BT-EE,2006000.0,2186,M,5.975351835461289,RAJASTHAN,B+
+Udit Prasad,201055,Navi,Software Development Engineer,BT-CSE,4100000.0,2312,M,8.454552618847549,BIHAR,A+
+Hisham Hadi T,200448,Google India,PIO-PPO,BT-EE,1200000.0,2167,M,8.531781210339458,KERALA,B+
+Hariom Vediya,200402,Rosy Blue (India) Pvt. Ltd.,Engineering Trainee,BT-CHE,1300000.0,2339,M,6.073104321172192,MADHYA PRADESH,O+
+Mansi Pradip Koshti,22103031,Aereo,Geospatial Data Analyst & Developer,MT-CE,1266666.6666666667,2235,M,0.0,MAHARASHTRA,O+
+Aumkar Jahagirdar,200227,Indian Political Action Committee,Campaign Manager,BT-ME,1537000.0,2444,M,6.912838228040232,MAHARASHTRA,B+
+Swayam Gupta,201035,Fischer Jordan,PIO-PPO,BT-MSE,0.0,-1,M,6.363606968967571,U.P.,B+
+Abhay Pratap Jakhar,200012,Axxela Research & Analytics Private Limited,Trainee Analyst,BT-MSE,1410000.0,1821,M,6.326233189758553,RAJASTHAN,A+
+Shubhada Mane,200558,PricewaterhouseCoopers (US-Adv),Product and Development,BT-EE,1500000.0,2548,M,6.656925172468399,MAHARASHTRA,B+
+Umesh Kumar,201062,Juniper Networks,ML Engineer,BT-EE,2860000.0,2368,M,7.8112135460456225,RAJASTHAN,A+
+Sania Imteyaz,200861,Accenture Solutions Pvt. Ltd,MC Delivery Associate,BT-CHE,1592000.0,1855,M,6.589036457670757,BIHAR,B+
+Bharat Sethia,200267,Axis Bank,Manager,BT-MSE,1443300.0,2170,M,7.087299242008801,MAHARASHTRA,B+
+Himanshu Sankla,200445,Axis Bank,Manager,BT-ME,1443300.0,2170,M,6.143942979579603,MADHYA PRADESH,B+
+Manas Manoj Sovani,22104057,TVS Motor,PwD - Design Engineer EEE (D & I HIRING),MT-EE,1200000.0,2357,M,0.0,MAHARASHTRA,B+
+Sairam Nayak Kunsoth,200841,Merilytics,Senior Technical Associate,BS-MTH,1075000.0,2268,M,7.000454939722164,TELANGANA,O+
+Yash Saxena,201149,NPCI,IT Analyst,BT-MSE,2006000.0,2186,M,5.726676699107755,U.P.,O+
+Saksham Arora,200843,EXL,Consultant 1 - Analytics & Digital,BT-CHE,1500000.0,2282,M,9.059237430032427,U.P.,B+
+Prajjwal Rastogi,200694,Deloitte,Analyst - Consulting,BT-MSE,1200000.0,2155,M,7.037495895168373,U.P.,A+
+Ritik Raj,200803,TATA Projects Limited,Executive Trainee,BT-ME,1575000.0,2413,M,7.546334359119856,BIHAR,O+
+Kavya Jalan,200503,Pine Labs Pvt. Ltd,SDE,BT-CSE,2250000.0,2521,M,7.950350143152666,ASSAM,O+
+Anupam Singh,200168,BeeHyv Software Solutions,Developer Trainee,BT-BSBE,1200000.0,-1,M,5.931442489249257,U.P.,B+
+Parth Govil,200670,Merilytics,Senior Business Analyst,BT-CE,1150000.0,2267,M,6.939726538187799,MAHARASHTRA,B+
+Abhishek Bansod,200022,NPCI,IT Analyst,BT-CSE,2006000.0,2186,M,7.647853428126768,MAHARASHTRA,AB+
+Gokul Venugopal,200389,VVF India Ltd, Engineer Management Trainee (EMT) - ME,BT-ME,1600000.0,1957,M,6.891108415663749,KERALA,A+
+Siddi Akshay,200985,Jaguar Land rover India Limited,PIO-PPO,BS-MTH,0.0,-1,M,7.6098206071961725,TELANGANA,B+
+Akash Birthal,200073,Jindal Shadeed Iron & Steel,Graduate Engineer Trainee (GET),BT-ME,1440000.0,2367,M,6.889436294339295,HARYANA,B+
+Nivin Vinod,200652,Citi Bank,PIO-PPO,BT-MSE,0.0,-1,M,7.341607554755498,KERALA,B+
+Ajeet Kushwaha,200068,Deloitte,Analyst - Consulting,BT-CE,1200000.0,2155,M,7.223943422630623,U.P.,A+
+Divya Gupta,200345,Smarttrak AI,Deep Learning Engineer,BS-PHY,1200000.0,2213,M,7.075359690913188,BIHAR,B+
+Sabal Jain,200828,Microsoft India,PIO-PPO,BT-EE,0.0,-1,M,8.841348356318504,HARYANA,B+
+Shreyansh Pachauri,200954,Indxx,Management Trainee,BT-CHE,1600000.0,2228,M,8.074690534856618,U.P.,A+
+Jay Verma,19807401,Axtria,Analyst,DualA-CE,1375000.0,2227,M,0.0,,O+
+Ayush Singh,200254,"Samsung R&D, Delhi",PIO-PPO,BT-EE,2450000.0,2129,M,7.082228056577165,RAJASTHAN,A+
+Devansh Singh,200319,Axis Bank,Manager,BT-CE,1443300.0,2170,M,7.328563450867328,U.P.,O+
+Pulkit Tiwari,200739,Adobe,PIO-PPO,BT-EE,0.0,-1,M,7.109458749453151,TELANGANA,O+
+Bodhare Rachit Rajendra,200283,Cubastion Consulting,Graduate Trainee Engineer,BT-MSE,600000.0,1752,M,6.924651351368105,MAHARASHTRA,B+
+Vaidik Sharma,201079,JK Tech,Software Engineer,BT-CSE,1500000.0,2051,M,5.918252073188806,MADHYA PRADESH,A+
+Subhajit Panday,22111058,Amway India,Technology Trainee - Data Scientist,MT-CSE,1500000.0,2303,M/F,-1.0,India,Human Blood
+Deepanshi Maheshwari,200311,Battery Smart,Strategy Associate,BT-MSE,2200000.0,2349,M,6.918338573602799,U.P.,A+
+Raaghav Arya,200745,Texas Instruments,PIO-PPO,BT-EE,0.0,-1,M,7.777442216564983,DELHI,A+
+Prakhar Pratap Mall,200698,Bajaj Electricals,Graduate Engineer Trainee,BT-ME,1500000.0,2517,M,7.531533109393085,U.P.,O+
+Rishi Kachhwaha,200793,Deloitte,Analyst - Consulting,BT-MSE,1200000.0,2155,M,7.122917090625598,RAJASTHAN,O+
+Suryansh Yadav,201024,ICICI Bank,Management Trainee,BT-ME,1650990.0,2375,M,7.288686219397217,U.P.,O-
+Abhinav Vishwakarma,200020,NPCI,IT Analyst,BT-CE,2006000.0,2186,M,7.611950538489515,MADHYA PRADESH,B+
+Aditya Anand,200043,PricewaterhouseCoopers (US-Adv),Product and Development,BT-ME,1500000.0,2548,M,7.7311126518301245,JHARKHAND,B+
+Kembasaram Nitin,200505,CapGrid Solutions Pvt. Ltd,Software,BT-CSE,2000000.0,2250,M,7.449492446670618,TELANGANA,O+
+Sanskar Sharma,200874,Indus Insights & Analytics Services,Associate,BT-AE,1577000.0,2240,M,7.794778328523044,RAJASTHAN,O+
+Nandini Goel,200620,Boston Consulting Group,PIO-PPO,BT-BSBE,0.0,-1,M,7.691374404720782,U.P.,O+
+Bvreddy22,22103020,Aereo,Geospatial Data Analyst & Developer,MT-CE,1266666.6666666667,2235,M,0.0,A.P.,O+
+Aastha Sitpal,200006,Piramal Group,PIO-PPO,BT-CHE,0.0,-1,M,7.51859172172021,MADHYA PRADESH,B+
+Harshit Kumar Tiwari,200432,Navi,Software Development Engineer,BT-CSE,4100000.0,2312,M,7.95279525174157,BIHAR,O+
+Prakhar Maheshwari,200697,Indus Insights & Analytics Services,Associate,BS-ECO,1577000.0,2240,M,7.519833192915747,U.P.,O+
+Sahil Singh,200838,Indiejewel Fashions Private Limited (GIVA),PIO-PPO,BT-ME,0.0,-1,M,7.9981315944231355,W.B.,A+
+Subodh Kumar,201007,Media.net(Directi) ,PIO-PPO,BT-CSE,0.0,-1,M,7.902392688792676,U.P.,O+
+R Darshan,22101047,Godrej & Boyce,Aerospace Engineer,MT-AE,1200000.0,2353,M,0.0,TAMIL NADU,O+
+Sarah Kapoor,200880,Hindustan Unilever Limited ,PIO-PPO,BT-CHE,0.0,-1,M,8.767221342713183,DELHI,O+
+Yash Barjatya,201138,Zomato,Software Development Engineer 1,BT-EE,2500000.0,2115,M,7.899861370173782,ASSAM,B+
+Akshit Verma,200091,Zomato,Software Development Engineer 1,BT-EE,2500000.0,2115,M,8.424722813462076,U.P.,B+
+Rohan Singh,200812,EXL,Consultant 1 - Analytics & Digital,BT-BSBE,1500000.0,2282,M,7.726716829801057,U.P.,O+
+Akshat Mishra,200086,Dr. Reddy’s Laboratories,PIO-PPO,BT-CHE,0.0,-1,M,8.179245068473653,U.P.,B-
+Roushan Prakash,190721,Wells Fargo,PIO-PPO,DoubleMajor-MTH,0.0,-1,M,0.0,JHARKHAND,A+
+Sheetal Gupta,200927,Goldman Sachs,PIO-PPO,BT-EE,3650000.0,2327,M,8.902811159452083,U.P.,O+
+Abhishek Kumar,21104401,Delta Electronics,Hardware Engineer,MSR-EE,1200000.0,2337,M/F,-1.0,India,Human Blood
+Krishan Kumar,200521,Meesho,Software Development Engineer I,BT-CSE,3400000.0,1806,M,6.816300426082857,RAJASTHAN,B+
+Akhand Pratap Singh,200075,Nation with Namo,Associate,BT-CE,1900000.0,1854,M,7.400221004903017,U.P.,B+
+Sanskriti Sharma,200876,Flipkart,Assistant Manager Business Development ,BT-AE,1650386.0,2301,M,7.6385149236154595,U.P.,B+
+Sripathi A D,22101068,EXL,Consultant 1 SBA - Analytics,MT-AE,900000.0,2283,M,0.0,TAMIL NADU,O+
+Aditya Subramanian,200056,Boston Consulting Group,PIO-PPO,BT-AE,0.0,-1,M,8.387424624397884,KARNATAKA,O+
+Aryan Vora,200204,Alvarez & Marsal,Associate,BT-CSE,1830000.0,2108,M,9.557771180382126,MAHARASHTRA,A+
+Kushal Sosale,200540,ITC Limited,PIO-PPO,BT-ME,0.0,-1,M,8.277169670044545,KARNATAKA,B+
+Shivam Singhal,200939,Uber,PIO-PPO,BT-EE,0.0,-1,M,9.29327282267969,U.P.,B+
+Anmol Pabla,190154,Cohesity,Software Developer - Member of Technical Staff,DoubleMajor-CSE,4308000.0,2293,M,0.0,CHANDIGARH,B+
+Kushagra Sharma,200539,Databricks,Software Engineer,BT-CSE,4090000.0,1941,M,9.612380212941122,KARNATAKA,A+
+Chaithanya V,22119006,Microsoft India,Ux Designer,MDes-DES,2178200.0,2306,M,0.0,KERALA,O+
+Jaya Gupta,200471,Quadeye Securities,PIO-PPO,BT-CSE,0.0,-1,M,9.927072246411866,RAJASTHAN,B+
+Anushka Panda,200174,Microsoft India,PIO-PPO,BT-CSE,0.0,-1,M,7.843033676899446,HARYANA,O+
+Pulkit Dhamija,200738,Microsoft India,Software Engineer,BS-ECO,2103200.0,2270,M,8.609111284674258,HARYANA,A+
+Gampala Deepti,200365,Delta Electronics,Hardware Engineer,BT-EE,1200000.0,2337,M,7.891662944319705,A.P.,B+
+Nikhil Gupta,200634,Atlassian,PIO-PPO,BT-EE,0.0,-1,M,9.201103502315672,U.P.,O-
+Saubhagya Bawari,200899,Futures First Info Services Pvt Ltd,Market Analyst - Trainee,BT-AE,1288000.0,2151,M,7.319506451846951,ASSAM,A+
+Pradumna Awasthi,200693,App Orchid Inc,Data Sciecne / AI / ML,BT-BSBE,1200000.0,-1,M,7.991793900997757,U.P.,B+
+Divyansh Gupta,200351,Axxela Research & Analytics Private Limited,Trainee Analyst,BS-ECO,1410000.0,1821,M,9.159625277266281,U.P.,O-
+Ashish Gautam,200209,Futures First Info Services Pvt Ltd,Market Analyst - Trainee,BT-CE,1288000.0,2151,M,8.141840056078026,U.P.,B+
+Viplav Patel,190976,Goldman Sachs,PIO-PPO,DoubleMajor-EE,3650000.0,2327,M,0.0,U.P.,O+
+Kuldeep Singh Chouhan,200530,NK Securities Research ,Business And Operations Analyst,BT-CSE,3000000.0,2287,M,8.622782676574241,RAJASTHAN,O+
+Vivek Agrawal,201134,CapGrid Solutions Pvt. Ltd,Software,BT-CHE,2000000.0,2250,M,7.6920894075490525,RAJASTHAN,O+
+Harish Mehta,200404,Merilytics,Senior Technical Associate,BT-EE,1075000.0,2268,M,7.336122246294639,RAJASTHAN,A+
+Advait Vashi,200058,Finmechanics,Associate Consultant,BT-ME,1980000.0,2033,M,8.128266420577045,KARNATAKA,B-
+Udvas Basak,201056,Indus Insights & Analytics Services,Senior Associate (in-Training),BT-AE,1637000.0,2241,M,8.676610196845958,W.B.,O+
+Apurb Agarwal,200179,AlphaGrep Securities Private Limited,PIO-PPO,BT-EE,0.0,-1,M,9.475858703706,W.B.,O+
+Challa Sai Yohitha,200289,Accenture Japan,Digital Consultant,BT-EE,1014000.0,1911,M,6.6814776541800915,TELANGANA,O+
+Mobashsharah Ali,200585,CapGrid Solutions Pvt. Ltd,Software,BT-CHE,2000000.0,2250,M,7.522626638172121,U.P.,O+
+Gaurav Singh,200380,Ford Business Solutions,Global Data Insight & Analytics ( GDIA ),BT-MSE,1450000.0,2172,M,7.023946474442481,U.P.,B+
+P R Anand Maneesh,200658,Jindal Shadeed Iron & Steel,Graduate Engineer Trainee (GET),BT-ME,1440000.0,2367,M,7.467307014894998,KERALA,AB+
+Vedant Bang,201100,JSW,PIO-PPO,BT-CHE,0.0,-1,M,8.023749799699292,MAHARASHTRA,B+
+Sachin Kumar,200832,Fullerton India Credit Co. Ltd.,Digital Collection,BT-EE,1200000.0,-1,M,7.46535702952471,BIHAR,B+
+Anshul Mehta,200154,Dr. Reddy’s Laboratories,PIO-PPO,BT-CHE,0.0,-1,M,7.942947711893679,RAJASTHAN,B+
+Sahil Bansal,200836,Quadeye Securities,PIO-PPO,BT-CSE,0.0,-1,M,9.790255975751792,RAJASTHAN,AB+
+Yash Dahiya,201140,Yubi,PIO-PPO,BS-MTH,0.0,-1,M,8.160110718197991,RAJASTHAN,A+
+Chinmay Agarwal,200297,Wells Fargo,PIO-PPO,BT-EE,0.0,-1,M,8.474518384945384,RAJASTHAN,B+
+Harsh Kumar Pandey,200414,GAIN Credit,Analytics Scientist,BT-EE,1600000.0,2018,M,7.422465518977141,U.P.,AB+
+Amit Kumar,200109,Indxx,Management Trainee,BT-CHE,1600000.0,2228,M,7.585382379353711,RAJASTHAN,O+
+C.H Alan Harshan,200286,Jaguar Land rover India Limited,Graduate Electronics HW Design Engineer Trainee,BT-EE,2502000.0,2209,M,7.74185868220371,KERALA,O+
+Karunanidhi Rajpoot,19821421,Meesho,Associate Product Manager I,MDes-DES,2600000.0,2152,M,0.0,,O+
+Aryan Raj,200202,VVF India Ltd, Engineer Management Trainee (EMT) - ME,BT-ME,1600000.0,1957,M,7.302673111162598,BIHAR,O+
+Ujjawal Goyal,201058,GreyOrange,SDE,BT-CSE,2500000.0,2332,M,7.507792554606495,BIHAR,O+
+Faheem Nizar,200360,PricewaterhouseCoopers (US-Adv),Product and Development,BT-EE,1500000.0,2548,M,8.245040432878948,KERALA,O+
+Kumar Abhishek,200531,PricewaterhouseCoopers (US-Adv),Product and Development,BT-ME,1500000.0,2548,M,8.016617338708299,JHARKHAND,B+
+Melvin Thomas,200582,IDFC FIRST Bank ,Associate Data Analyst ,BT-ME,2300000.0,2331,M,7.303038831431318,MAHARASHTRA,A+
+Ankur Maurya,200142,ICICI Bank,Management Trainee,BT-CE,1650990.0,2375,M,6.012287060641136,UTTARAKHAND,O+
+Gutta Raghavendra Chowdary,200396,"Samsung R&D, Delhi",Engineer,BT-CSE,2450000.0,2129,M,8.633885401624218,A.P.,A-
+Yatharth Singh,201159,SLB,PIO-PPO,BS-ECO,0.0,-1,M,8.101945064711112,U.P.,B+
+Gauri G Menon,200382,Publicis Sapient,Data Science,BT-BSBE,1675555.0,2302,M,7.482401566926221,TELANGANA,A+
+Mrinal Kumar,200600,Goldman Sachs,PIO-PPO,BT-ME,3650000.0,2327,M,6.645484075750157,U.P.,B+
+Adit Thampi,200039,Lohum Cleantech Pvt Ltd,Graduate Trainee,BT-MSE,1250000.0,2343,M,9.262615649568216,KARNATAKA,B+
+Harjap Singh,200405,Auronova Consulting,Risk Management Consulting,BT-CHE,1400000.0,2392,M,9.195937806151624,PUNJAB,A+
+Hitesh Anand,200449,WorldQuant,Quantitative Researcher,BT-CSE,8700000.0,2378,M,9.834422553486919,BIHAR,O+
+Priya Gole,200727,Google India,"Software Engineer, University Graduate",BT-CSE,1200000.0,2167,M,8.92014240237553,MAHARASHTRA,A+
+Kshitij Shrivastava,200527,Cisco,PIO-PPO,BT-EE,0.0,-1,M,8.594994053694114,U.P.,A+
+Satyansha Dev,200897,PricewaterhouseCoopers (US-Adv),Product and Development,BT-EE,1500000.0,2548,M,7.553407434316877,U.P.,A+
+Varsha Rani,201087,Jaguar Land rover India Limited,Graduate EV-Powertrain Engineer Trainee,BT-EE,2352000.0,2177,M,6.838764588233876,BIHAR,B+
+Mehul Goyal,200581,Adobe,PIO-PPO,BT-EE,0.0,-1,M,8.15609812219852,RAJASTHAN,O+
+Utkarsh Kandi,201068,Uniorbit Technologies Private Ltd,Risk Associate,BT-ME,1753830.0,1838,M,6.853480876178438,MAHARASHTRA,O+
+Jaskirat Singh,19817397,Standard Chartered,PIO-PPO,DualA-MTH,0.0,-1,M,0.0,,O+
+Devika Sahu,200324,Jaguar Land rover India Limited,Graduate Software Engineer Trainee,BT-MSE,2352000.0,2176,M,8.343129029898988,MADHYA PRADESH,B+
+Parth Ahuja,22114030,Axtria,PIO-PPO,MT-MS,1375000.0,2227,M,0.0,DELHI,O+
+Maurya Jadav,200567,Blitz © Bigshort Tails Pvt. Ltd.,Software Development Engineer - I,BT-CSE,1900000.0,2352,M,6.989561373611797,GUJARAT,O+
+Jadhav Pallavi Panditrao,200461,BeeHyv Software Solutions,Developer Trainee,BT-EE,1200000.0,-1,M,6.225902129689499,MAHARASHTRA,O+
+Tulika Shukla,201052,ITC Limited,PIO-PPO,BT-ME,0.0,-1,M,8.184488913932803,U.P.,B+
+Avadhi Jindal,19816204,Merilytics,Senior Business Analyst,DualB-ECO,1150000.0,2267,M,0.0,,O+
+Harsh Jain,22119009,Blue Yonder India Private Limited,Associate UX Engineer,MDes-DES,1260000.0,2371,M,0.0,MADHYA PRADESH,O+
+Sejal Sahu,200911,Ford Business Solutions,Global Data Insight & Analytics ( GDIA ),BS-MTH,1450000.0,2172,M,7.179078776547179,MADHYA PRADESH,O+
+Dhwanit Balwani,200333,CapitalOne,Business Analyst,BT-CHE,3450000.0,2028,M,8.46788342416041,DELHI,B+
+Aryan Sharma,200203,NK Securities Research ,Quantitative Researcher,BT-CSE,8100000.0,2286,M,9.794106993923505,U.P.,B+
+Akshay K Muraleedharan,200088,NVIDIA ,PIO-PPO,BT-EE,0.0,-1,M,9.147604271274847,KERALA,AB-
+Samarpreet Singh,200848,Databricks,Software Engineer,BT-CSE,4090000.0,1941,M,9.063995513176023,PUNJAB,A+
+Tanmay Chhapola,201039,Dolat Capital,Quantitative Strategist,BT-EE,2700000.0,2178,M,7.709867854390496,RAJASTHAN,O+
+Rudransh Gupta,200823,Microsoft India,Software Engineer,BT-CE,2103200.0,2270,M,8.019851755569398,U.P.,B+
+Ananya Priyadarshi,200120,Jaguar Land rover India Limited,Graduate Mechatronics Engineering Trainee,BT-ME,2502000.0,2175,M,7.267776219082183,U.P.,O+
+Antariksh Choudhary,200159,Futures First Info Services Pvt Ltd,Market Analyst - Trainee,BS-ECO,1288000.0,2151,M,7.439715524829192,MADHYA PRADESH,O+
+Ayush Raj,200253,Indus Insights & Analytics Services,Associate,BT-CHE,1577000.0,2240,M,7.149973806943905,BIHAR,A+
+Sanika Gumaste,200865,MasterCard,"Associate Specialist, Product Development",BT-EE,1200000.0,2202,M,7.77325923600403,MAHARASHTRA,B+
+Pranjal Jain,200701,TransOrg Solutions & Services Pvt Ltd,Analyst,BS-ES,1200000.0,-1,M/F,-1.0,India,Human Blood
+Debdeep Paul Chaudhuri,21111413,United Airlines,Associate Data Scientist,MSR-CSE,1100000.0,2398,M,0.0,W.B.,O+
+Debdeep Paul Chaudhuri,21111413,United Airlines,Associate Data Scientist,MSR-CSE,1100000.0,2398,M,0.0,W.B.,O+
+Rajan Kumar,22106012,Tata Steel,Management Trainee(R&T),MT-MSE,1311258.0,2365,M,0.0,JHARKHAND,B+
+Huzaifa Ahmed Zaidi,22103025,CapGrid Solutions Pvt. Ltd,Data Scientist,MT-CE,2000000.0,2251,M,0.0,U.P.,O+
+Manish Tongaonkar,21101408,ARTPARK,Engineer- Structure Design,MSR-AE,1100000.0,2194,M/F,-1.0,India,Human Blood
+Robin Singh,22102044,OLA,Chemical Engineering,MT-CHE,2250000.0,1923,M,0.0,U.P.,B+
+Yojan Sharma,22104129,IdeaForge Technology Pvt. Ltd,Engineer I ,MT-EE,1700000.0,2470,M,0.0,RAJASTHAN,A+
+Niti Agarwal,22103037,ASC Infratech Pvt Ltd,Trainee Engineer,MT-CE,737575.0,1927,M/F,-1.0,India,Human Blood
+Karthik Kumar G R,22104044,Texas Instruments,Digital Engineer,MT-EE,3927190.0,2153,M,0.0,KARNATAKA,B+
+Shivanand Namdeo Sankpal,22101063,Airbus Group India,Associate Engineer: System Installation,MT-AE,1100000.0,1946,M,0.0,MAHARASHTRA,O+
+Ruben N,22101055,ARTPARK,Engineer- Structure Design,MT-AE,1100000.0,2194,M/F,-1.0,India,Human Blood
+Sambhav Agarwal,200852,Centre for Development of Telematics (C-DOT),RESEARCH ENGINEER,BT-EE,1850000.0,2053,M,6.35919617102897,U.P.,O+
+Richa Prakash Sachan,200782,Deutsche India Private Limited,Graduate Analyst,BT-CE,1963000.0,1967,M,7.78749944237098,U.P.,B+
+Ananya Mehrotra,200119,CapitalOne,Software Engineer,BT-EE,2850000.0,2029,M,8.433938476547311,U.P.,A+
+Anmol,200143,EXL,Consultant 1 - Analytics & Digital,BS-MTH,1500000.0,2282,M,7.251972569270183,HARYANA,B+
+Jai Anmol Sharma,200462,Niva Bupa Health Insurance,Crest Executive Trainee – IT,BT-ME,1860000.0,2380,M,7.353436866919359,DELHI,A+
+Navya Ratnan,200627,Adobe,PIO-PPO,BT-EE,0.0,-1,M,8.263410132396295,KERALA,A+
+Shruti Gupta,200958,FPL TEchnologies Pvt. Ltd,Data Scientist,BT-CHE,2000000.0,2263,M,7.601263508523728,MADHYA PRADESH,B+
+Amit Jain,200108,Axis Bank,Manager,BT-CHE,1443300.0,2170,M,7.911235721225498,U.P.,O+
+Aditya Kulkarni,200047,Indus Insights & Analytics Services,Senior Associate (in-Training),BT-MSE,1637000.0,2241,M,8.20005906499964,MAHARASHTRA,AB-
+Penta Ramtej,200683,SEDEMAC Mechatronics Pvt. Ltd.,"Engineer, Test Automation",BT-EE,1500000.0,1937,M,8.706487336613408,A.P.,O+
+Harbeer Gurjar,200400,Stripe,Software Engineer,BT-CHE,6000000.0,1839,M,7.902200070615081,MADHYA PRADESH,B+
+Suket Raj,201013,Databricks,Software Engineer,BT-CSE,4090000.0,1941,M,8.815480882756853,BIHAR,B-
+Akhil Jain,200077,D.E. Shaw,PIO-PPO,BT-CSE,0.0,-1,M,9.166782366470352,RAJASTHAN,O+
+Akash Biswas,200074,Microsoft India,PIO-PPO,BT-CSE,0.0,-1,M,8.705603267579747,MAHARASHTRA,B+
+Naman Jain,200618,Ingram Micro,"IT - SOFTWARE DEVELOPMENT ENGINEER 
+",BT-MSE,1800000.0,2100,M,7.863450477062088,CHHATTISGARH,B+
+Nishant Roshan,200643,Goldman Sachs,PIO-PPO,BT-CSE,3650000.0,2327,M,8.823034758741874,BIHAR,B+
+Siddesh Bharat Hazare,200976,EightFold AI,PIO-PPO,BT-AE,0.0,-1,M,7.875378565350277,MAHARASHTRA,B-
+Mayank Saini,200573,PricewaterhouseCoopers (US-Adv),Product and Development,BT-EE,1500000.0,2548,M,7.41482137190521,RAJASTHAN,B+
+Priya Singh,200729,Futures First Info Services Pvt Ltd,Market Analyst - Trainee,BS-ECO,1288000.0,2151,M,7.131879123326489,MADHYA PRADESH,B+
+Arnav Gupta,200186,Graviton Research Capital,Quantitative Researcher,BT-CSE,8400000.0,2015,M,9.611818966139834,DELHI,B+
+Shubhangi Gupta,200973,Deutsche India Private Limited,Analyst,BS-MTH,3013880.0,2272,M,9.170511463312138,U.P.,O+
+Uttam Kumar,201071,Google India,"Software Engineer, University Graduate",BT-CSE,1200000.0,2167,M,8.952697527058879,JHARKHAND,A+
+Aarchie,200004,Microsoft India,Software Engineer,BT-CSE,2103200.0,2270,M,7.434543150615444,BIHAR,B+
+Vedant Sanjay Gitte,201104,ICICI Bank,Management Trainee,BT-EE,1650990.0,2375,M,7.309788347455373,MAHARASHTRA,A-
+Pradhyumna Lavania,200692,Dr. Reddy’s Laboratories,PIO-PPO,BT-CHE,0.0,-1,M,7.864076745639852,U.P.,A+
+Aditya Singh Kaurav,200055,Reliance Industries Limited,Graduate Engineer Trainee (GET),BT-CHE,1050000.0,2278,M,6.704463594396739,MADHYA PRADESH,B+
+Ayush Pandey,200248,Amadeus Software Labs,Software Development Engineer 2,BT-CE,1859224.0,2364,M,7.619108507263456,U.P.,B+
+Krishan Pandey,22119011,IBM,Visual Design,MDes-DES,1500000.0,2347,M,0.0,HARYANA,O+
+Bipplav Kumar Tiwari,200281,Quadeye Securities,PIO-PPO,BS-MTH,0.0,-1,M,9.712730875870058,JHARKHAND,O+
+Ablokit Joshi,200030,Deloitte,Analyst - Consulting,BT-MSE,1200000.0,2155,M,7.36838415354818,U.P.,O+
+Aishwarya Srivastava,200064,Navi,Software Development Engineer,BT-EE,4100000.0,2312,M,7.302562173874898,U.P.,O+
+Aditya Kushwaha,200051,Auronova Consulting,Risk Management Consulting,BT-CHE,1400000.0,2392,M,6.821655875506267,U.P.,B+
+Aditya Kushwaha,200051,Auronova Consulting,Risk Management Consulting,BT-CHE,1400000.0,2392,M,6.821655875506267,U.P.,B+
+Janhvi Rochwani,200467,Goldman Sachs,PIO-PPO,BT-CSE,3650000.0,2327,M,7.725875962195719,MADHYA PRADESH,B+
+Jigyashu Garg,200478,Oracle India Pvt Ltd,PIO-PPO,BT-EE,0.0,-1,M,8.870986734048989,HARYANA,B+
+Harsh Chaudhary,200410,Cisco,PIO-PPO,BT-ME,0.0,-1,M,8.006516800753042,U.P.,A+
+Kaustubh Agrawal,200501,Battery Smart,Associate Product Manager,BT-CHE,2200000.0,2350,M,8.007937699017623,,O+
+Yash Gupta,190997,Quantbox Research,PIO-PPO,DoubleMajor-CSE,0.0,-1,M,0.0,U.P.,A+
+Sanyam Singla,200879,Bajaj Auto Limited & Chetak Technology Limited,GTE'24,BT-ME,2174000.0,1958,M,8.448899529233557,HARYANA,B+
+Pratik Amolkumar Shaha,22114022,"Citi Bank, Bangalore",Business Analyst,MT-MS,1750000.0,2180,M,0.0,MAHARASHTRA,O+
+Satender Kumar Yadav,200889,Blitz © Bigshort Tails Pvt. Ltd.,Software Development Engineer - I,BT-EE,1900000.0,2352,M,7.976494126142225,U.P.,O+
+Aryaman Badkul,200195,Meesho,Associate Product Manager I,BT-AE,2600000.0,2152,M,8.15403064916939,MADHYA PRADESH,B+
+Vaibhav Kuril,201077,Petronet LNG Limited,"Petronet LNG Limited (PLL) formed on April 2, 1998, as Joint Venture Company (JVC) having 50% shareholding of leading 4 Oil & Gas PSUs by GOI order dated July 4, 1997
+An Independent Board managed JVC created for development of facilities for the import, storage and regasification of Liquefied Natural Gas.
+With equity participation from four Oil & Gas Maharatanas viz. Oil & Natural Gas Corporation (ONGC), Indian Oil Corporation Limited (IOCL), GAIL (India) Limited (GAIL) and Bharat Petroleum Corporation Limited (BPCL).",BT-EE,1893000.0,1975,M,7.069335066606818,MADHYA PRADESH,AB+
+Abhay Sisodia,200014,AuxoAI,AI Engineer,BT-CHE,2576936.0,2111,M,8.315266504679283,U.P.,A+
+Priyaa20,200726,Jindal Shadeed Iron & Steel,Graduate Engineer Trainee (GET),BT-EE,1440000.0,2367,M,6.9505050526644245,U.P.,B+
+Sidhartha Watsa,190843,"Samsung Research, Bangalore ",Advance Developer - Research Profile,DoubleMajor-EE,4000000.0,2275,M,0.0,JHARKHAND,B+
+Anurag Bohra,200170,Standard Chartered,PIO-PPO,BT-CHE,0.0,-1,M,7.096274528087519,RAJASTHAN,O+
+Sanmati Dhananjay Pande,200870,ITC Limited,PIO-PPO,BT-EE,0.0,-1,M,8.215448033677406,MAHARASHTRA,O+
+Shreyaans Jain,200952,MasterCard,Data Engineer,BT-AE,1200000.0,2190,M,8.1729937203036,HARYANA,A+
+Dhruv Khandelwal,200331,Uniorbit Technologies Private Ltd,Software Development Engineer 1 (SDE 1),BT-ME,2053830.0,1837,M,8.618955019925833,U.P.,A+
+Upen Mishra,201063,Futures First Info Services Pvt Ltd,Market Analyst - Trainee,BT-CE,1288000.0,2151,M,6.26243647839043,RAJASTHAN,A+
+Aditya Pratap Singh,200053,NVIDIA ,Verification Engineer,BT-EE,1200000.0,2230,M,9.309744486087391,PUNJAB,O+
+Afraz Jamal,200059,Battery Smart,Strategy Associate,BT-BSBE,2200000.0,2349,M,7.771177530241388,U.P.,B+
+Km Ripakshi Singh,22104049,Bajaj Auto Limited & Chetak Technology Limited,GTE'24,MT-EE,2174000.0,1958,M,0.0,U.P.,A+
+Shreyansh Agarwal,200953,Boston Consulting Group,PIO-PPO,BT-EE,0.0,-1,M,9.10217856872585,U.P.,O+
+Sabyasachi Mohanty,21129270,GIST,Developer Associate,MSR-SEE,1200000.0,1979,M,0.0,ORISSA,AB+
+Aditi Chouhan,200040,Accenture Japan,Digital Consultant,BT-CHE,1014000.0,1911,M,6.80190476881388,CHHATTISGARH,O+
+T Shiva Shruthi,19807890,TATA ADVANCED SYSTEMS LIMITED,Post Graduate Engineer Trainee,DualA-ME,800000.0,2142,M/F,-1.0,India,Human Blood
+Priyanshu Kumar,190651,Microsoft India,PIO-PPO,DoubleMajor-EE,0.0,-1,M,0.0,BIHAR,O+
+Pratyush Gupta,200717,OLA,Research engineer 1,BT-CSE,3500000.0,1922,M,9.985868692483479,RAJASTHAN,A+
+Ronit Agarwal,200819,Futures First Info Services Pvt Ltd,Market Analyst - Trainee,BT-CHE,1288000.0,2151,M,7.721776169443204,U.P.,O+
+Nishi Mehta,200645,Adobe,PIO-PPO,BT-CSE,0.0,-1,M,8.464539447724807,GUJARAT,A+
+L Gokulnath,200542,Quadeye Securities,PIO-PPO,BT-CSE,0.0,-1,M,9.988210075026794,TAMIL NADU,A+
+Vaibhav Goyal,201075,Indiejewel Fashions Private Limited (GIVA),PIO-PPO,BT-CHE,0.0,-1,M,8.22098473492783,DELHI,O+
+Abhishek Sangwan,200021,Axis Bank,Manager,BT-CE,1443300.0,2170,M,7.509665112927482,HARYANA,O+
+Shubhankari Rai,200974,TATA Projects Limited,Executive Trainee,BT-CE,1575000.0,2413,M,7.240330476746936,U.P.,B+
+Abhinav Kumar,200016,SRF LIMITED,Design Trainee,BT-CHE,1000000.0,1738,M,6.428471423496092,U.P.,A+
+Jhaansi Reddy,200477,Microsoft India,PIO-PPO,BT-CSE,0.0,-1,M,7.951368625969731,KARNATAKA,A+
+C Navya Nirmala,22102403,PharmaACE,Consultant,MSR-CHE,1215000.0,2320,M,0.0,A.P.,O+
+Thota Vishnudatta,201051,EXL,Consultant 1 - Analytics & Digital,BT-EE,1500000.0,2282,M,8.814321314836095,A.P.,O+
+Shubham Sinha,21111409,Interglobe Aviation Ltd. (IndiGo Airlines),Data Scientist ,MSR-CSE,1600000.0,2556,M/F,-1.0,India,Human Blood
+Prabhat Meena,200688,Jindal Shadeed Iron & Steel,Graduate Engineer Trainee (GET),BT-CE,1440000.0,2367,M,6.930795578780547,RAJASTHAN,B+
+Harsh Garg,200411,EXL,Consultant 1 - Analytics & Digital,BT-ME,1500000.0,2282,M,8.2427156593224,U.P.,AB+
+Aastik Guru,200007,GLS Services,Operations Engineer ,BT-ME,3144120.0,2059,M,7.617217825298753,MADHYA PRADESH,O+
+Rajarshi Dutta,200762,Decision Point Pvt Ltd,Data Scientist ,BT-MSE,800000.0,2307,M,7.79135107614914,W.B.,O+
+Divyansh Manakchand Kankariya,200352,Kivi Capital,Quant Developer,BT-CSE,4500000.0,2147,M,8.409131250106546,GUJARAT,A+
+Arpit Kumar,200189,Xion Multiventures Pvt Ltd,Trainee Research Analysis & Operation Support  ,BT-CSE,1620000.0,1938,M,6.131138268362875,MAHARASHTRA,AB+
+Ankur Kumar,200140,SigIQ AI,Backend engineer,BT-CSE,12800000.0,2499,M,8.874655042085134,MAHARASHTRA,B+
+Mandvi Rajpoot,200557,Cubastion Consulting,Graduate Trainee Engineer,BT-CE,600000.0,1752,M,6.320146938210553,MADHYA PRADESH,O+
+Harish Prasad Allam,200094,Micron Technology,Semiconductor Engineer,BT-EE,2746471.0,2260,M,7.22060089314008,TELANGANA,O+
+Mohit Gupta,200597,Google India,"Software Engineer, University Graduate",BT-CSE,1200000.0,2167,M,9.62320688060483,RAJASTHAN,B-
+Gargi Naladkar,200371,Enphase energy,PIO-PPO,BT-CSE,0.0,-1,M,7.412718611124332,MAHARASHTRA,B+
+Riktesh Singh,200785,"Samsung Research, Bangalore ",PIO-PPO,BT-EE,4000000.0,2275,M,7.36137087786414,U.P.,AB+
+Dhara Sharma,200326,TATA Projects Limited,Executive Trainee,BT-ME,1575000.0,2413,M,7.23727565749602,RAJASTHAN,B+
+Ayush Gupta,200244,Pine Labs Pvt. Ltd,SDE,BT-ME,2250000.0,2521,M,8.231592035398085,HARYANA,AB+
+Pratyush Dayal,200715,Reliance Industries Limited,Graduate Engineer Trainee (GET),BT-ME,1050000.0,2278,M,7.165753243058425,BIHAR,A+
+Yash Raj Mittal,201148,Navi,Software Development Engineer,BT-CSE,4100000.0,2312,M,9.169712840218418,U.P.,O+
+Shreya Bhattacharya,200950,Zomato,Product Analyst,BT-MSE,1800000.0,2181,M,7.780130587722265,W.B.,O+
+Diksha,200338,Micron Technology,Semiconductor Engineer,BT-EE,2746471.0,2260,M,8.347328512014773,BIHAR,B+
+Adarsh Kumar,200033,Jaguar Land rover India Limited,PIO-PPO,BT-EE,0.0,-1,M,8.202581702590619,BIHAR,AB+
+Harsh Sachan,200418,Microsoft India,Software Engineer,BT-CHE,2103200.0,2270,M,8.480687273494066,U.P.,A+
+Gaurang Dangayach,200373,MasterCard,"Associate Specialist, Product Development",BS-MTH,1200000.0,2202,M,9.529213176337453,RAJASTHAN,B+
+Saral Verma,190767,American Express,PIO-PPO,DoubleMajor-CE,0.0,-1,M,0.0,U.P.,O+
+Kajal Deep,200483,Cohesity,Software Developer - Member of Technical Staff,BT-CSE,4308000.0,2293,M,8.755681915324898,BIHAR,A+
+Khoobayshee Aggarwal,200511,TVS Motor,Data Engineer,BT-MSE,1200000.0,2357,M,8.217405138614517,PUNJAB,B+
+Poojitha,201094,SAP Labs,Associate Developer -Cloud Native API Platform ,BT-CSE,4072200.0,2435,M,7.458259029567118,A.P.,O+
+Varun Maghnani,201092,EVERSANA,PIO-PPO,BS-ECO,0.0,-1,M,8.847354913320412,U.P.,O+
+Raghav Modani,200750,FPL TEchnologies Pvt. Ltd,Software Engineer,BT-CHE,2000000.0,2262,M,7.9792205134117715,RAJASTHAN,O+
+Nikita Singh,200638,Deloitte,Analyst - Consulting,BT-ME,1200000.0,2155,M,7.359341455327038,U.P.,B+
+Dheeraj Bana,19807286,Hilti Technology Solutions India,Technical Engineer (GET),DualA-CE,1900000.0,2098,M,0.0,,O+
+Akshat Garg,200084,Navi,Software Development Engineer,BT-CSE,4100000.0,2312,M,9.386323947427316,U.P.,O+
+Aakarsh Mittal,200002,BeeHyv Software Solutions,Developer Trainee,BT-EE,1200000.0,-1,M,7.9742994412129535,U.P.,O+
+Atharva Dehadraya,200218,Aereo,Autopilot Control System Engineer,BT-ME,1500000.0,2236,M,7.921566947986303,MADHYA PRADESH,O+
+Sushmita,201027,ICICI Bank,Management Trainee,BT-CHE,1650990.0,2375,M,6.932645298228959,U.P.,A+
+Abu Kashan,200031,Hilabs,Data Scientist,BS-ECO,3293750.0,2012,M,7.652947006061112,U.P.,A+
+Muditt Khurana,200602,WorldQuant,PIO-PPO,BT-EE,8700000.0,2378,M,9.646490479562187,MAHARASHTRA,B+
+Garvit Arora,200372,SAMSUNG South Korea,PIO-PPO,BT-EE,0.0,-1,M,9.705443825525697,HARYANA,O+
+Sachin,200830,Uniorbit Technologies Private Ltd,Software Development Engineer 1 (SDE 1),BT-EE,2053830.0,1837,M,6.605125039932738,U.P.,AB+
+Dwij Raj Hari,200358,Stripe,Software Engineer,BT-MSE,6000000.0,1839,M,8.535916301842668,BIHAR,O+
+Niharika Khatri,200632,Uber,PIO-PPO,BT-EE,0.0,-1,M,8.190282555517332,RAJASTHAN,O+
+Ishit Darania,190390,Navi,Data Scientist,DoubleMajor-MTH,4100000.0,2313,M,0.0,DELHI,O+
+Nitin Kumar,200649,TATA 1MG,Associate Product Manager,BS-PHY,1800000.0,2122,M,7.211618268042593,RAJASTHAN,O+
+Sudhanshu Kumar,201010,Cubastion Consulting,Graduate Trainee Engineer,BT-MSE,600000.0,1752,M,7.307723366507562,BIHAR,O+
+Anoop Singh Rathore,200147,Futures First Info Services Pvt Ltd,Market Analyst - Trainee,BT-CHE,1288000.0,2151,M,7.232909676978345,MADHYA PRADESH,O+
+Ashish Ahuja,190191,American Express,PIO-PPO,DoubleMajor-EE,0.0,-1,M,0.0,U.P.,AB+
+Kshitiz Mittal,200528,Axxela Research & Analytics Private Limited,PIO-PPO,BT-CHE,1410000.0,1821,M,7.228104688951402,RAJASTHAN,O+
+Rishika Gupta,200796,Deloitte,Analyst - Consulting,BT-ME,1200000.0,2155,M,6.321984897358026,MADHYA PRADESH,A+
+Satvik Chandra Shukla,200891,Battery Smart,Business Analyst,BT-ME,2200000.0,2348,M,7.798146668620152,U.P.,B+
+Aryan Garg,200199,Uniorbit Technologies Private Ltd,Risk Associate,BT-AE,1753830.0,1838,M,7.6113151296565595,U.P.,O+
+Abhiyanshu Kumar,200029,Axxela Research & Analytics Private Limited,Trainee Analyst,BT-AE,1410000.0,1821,M,6.664255013320645,JHARKHAND,B+
+Aditya Jain,200046,Juniper Networks,ML Engineer,BT-EE,2860000.0,2368,M,9.086467598108607,HARYANA,A+
+Rathod Preet,200775,Pine Labs Pvt. Ltd,SDE,BT-CSE,2250000.0,2521,M,7.511928600563276,GUJARAT,A+
+Avi Kumar,200229,GLEAN SEARCH TECHNOLOGIES INDIA Pvt. Ltd.,Software Engineer ( US ),BT-CSE,1920000.0,2087,M,9.324514407302486,RAJASTHAN,B+
+Vishal Kushwaha,201128,Oracle India Pvt Ltd,PIO-PPO,BT-EE,0.0,-1,M,8.66203393598891,MADHYA PRADESH,B+
+Sanidhya Singh,200864,Jaguar Land rover India Limited,PIO-PPO,BT-CHE,0.0,-1,M,8.075949739496751,U.P.,B+
+Abhishek Mishra,200025,Interglobe Aviation Ltd. (IndiGo Airlines),Software Engineer,BT-EE,1600000.0,2556,M,8.02458420267278,MAHARASHTRA,B+
+Nikund Jain,200639,Blitz © Bigshort Tails Pvt. Ltd.,Business Analyst,BT-CHE,1465000.0,2351,M,7.832136624133512,U.P.,O+
+Ujwal Kumar,201061,PricewaterhouseCoopers (US-Adv),Associate - Product & Technology,BT-CHE,1500000.0,2442,M,8.493149301881454,JHARKHAND,O+
+Shashwat Gupta,200923,PricewaterhouseCoopers (US-Adv),Associate - Product & Technology,BT-CSE,1500000.0,2442,M,9.664594716362888,U.P.,AB-
+Mohammad Umam,200595,Goldman Sachs,PIO-PPO,BT-CSE,3650000.0,2327,M,8.630204207245987,U.P.,AB+
+Mukul Jakhar,200606,BeeHyv Software Solutions,Developer Trainee,BS-ECO,1200000.0,-1,M,6.601020681990039,RAJASTHAN,A-
+Srijan Singh,201000,BeeHyv Software Solutions,Developer Trainee,BT-CE,1200000.0,-1,M,7.840982200333852,RAJASTHAN,O+
+Samarth Tripathi,200851,SEDEMAC Mechatronics Pvt. Ltd.,"Engineer, R&D",BT-EE,1500000.0,1935,M,7.783439931849358,U.P.,B+
+Napa Jayaprakash,200622,Navi,Software Development Engineer,BT-CSE,4100000.0,2312,M,6.369209315679616,A.P.,B+
+Nikhil Rathore,200635,Standard Chartered,PIO-PPO,BT-CHE,0.0,-1,M,7.059500207224333,RAJASTHAN,A+
+Utkarsh Gupta,201067,ICICI Bank,Management Trainee,BT-CE,1650990.0,2375,M,7.615707300463725,U.P.,O+
+Vibhanshu Patidar,201106,American Express,PIO-PPO,BS-MTH,0.0,-1,M,8.653592568972426,MADHYA PRADESH,B+
+Md Saif,200577,Indxx,Management Trainee,BT-CHE,1600000.0,2228,M,7.500073827318239,BIHAR,O+
+Vikas Varshney,201118,Zomato,Software Development Engineer 1,BT-CE,2500000.0,2115,M,7.833362461883037,U.P.,B+
+Kunwar Preet Singh,200536,Graviton Research Capital,Software engineer,BT-CSE,8400000.0,2016,M,10.0,PUNJAB,A+
+Manas Kumar,200555,GyanDhan,Business Analyst,BT-EE,2600000.0,2483,M,7.4041224749338665,BIHAR,B+
+Ayush Anand,200238,Finmechanics,Associate Consultant,BT-CHE,1980000.0,2033,M,7.957487399537171,DELHI,A+
+Dakshita Mittal,200305,Alvarez & Marsal,Associate,BT-AE,1830000.0,2108,M,7.577881507973569,U.P.,B+
+Harshit Bansal,200428,NK Securities Research ,Software Developer,BT-CSE,10800000.0,2285,M,9.62933576062985,CHANDIGARH,O+
+Mandar Wayal,200556,Google India,"Software Engineer, University Graduate",BT-CSE,1200000.0,2167,M,9.208890410580961,MAHARASHTRA,B+
+Aruna Angelin D,22119005,Blue Yonder India Private Limited,Associate UX Engineer,MDes-DES,1260000.0,2371,M,0.0,TAMIL NADU,O+
+Priyanka Meena,200731,SAP Labs,PIO-PPO,BT-CSE,0.0,-1,M,7.14079446857689,RAJASTHAN,B+
+Prem Bharwani,200269,Oracle India Pvt Ltd,PIO-PPO,BT-CE,0.0,-1,M,7.670197986466484,MAHARASHTRA,O+
+Sanskriti Vardhan,200877,Vedanta Resources Limited,PIO-PPO,BT-MSE,2100000.0,2276,M,7.307325150565201,U.P.,B+
+Divya M,200346,SLB,PIO-PPO,BT-AE,0.0,-1,M,7.370484235982602,KERALA,O+
+Saumya Saini,200901,Reliance Industries Limited,Graduate Engineer Trainee (GET),BT-EE,1050000.0,2278,M,6.744168044434154,U.P.,A+
+Payal Singh,200682,Fullerton India Credit Co. Ltd.,Analytics ,BT-CE,1200000.0,-1,M,6.735615655247867,BIHAR,O+
+Ayush Kumar,200246,Texas Instruments,PIO-PPO,BT-EE,0.0,-1,M,7.122434801473962,JHARKHAND,B+
+Priyal Agrawal,200730,Goldman Sachs,PIO-PPO,BT-CSE,3650000.0,2327,M,8.648208860165822,,O+
+Harsh Sharma,200420,Niva Bupa Health Insurance,Crest Executive Trainee – IT,BT-AE,1860000.0,2380,M,7.2330159680578285,U.P.,O-
+Adi Pratap Singh,200036,Sprinklr,Product Engineer,BT-CSE,3000000.0,2022,M,8.795416339224467,U.P.,B+
+Ujjwal Kumar,201059,EXL,Consultant 1 - Analytics & Digital,BT-CSE,1500000.0,2282,M,7.492625429624934,BIHAR,AB+
+Akshat Bajaj,200083,ICICI Lombard GIC LTD,Senior Manager Actuarial Analyst,BT-CHE,1200000.0,2094,M,7.999761581625196,RAJASTHAN,O+
+Vaishnavi Singh,201082,Indus Insights & Analytics Services,Associate,BT-CE,1577000.0,2240,M,8.189393919327168,MAHARASHTRA,B+
+Isha Agrawal,200452,Pine Labs Pvt. Ltd,APM,BT-MSE,2250000.0,2557,M,7.142314828474088,MADHYA PRADESH,A+
+Anjanesh Rakesh,200133,Qualcomm,PIO-PPO,BT-EE,0.0,-1,M,7.670894367769077,BIHAR,O+
+Naman Singla,200619,Quadeye Securities,PIO-PPO,BT-CSE,0.0,-1,M,9.647528327349574,HARYANA,O+
+Vivek Agrawal,201133,NVIDIA ,PIO-PPO,BT-CSE,0.0,-1,M,8.677247226012392,MADHYA PRADESH,O+
+Shubham Kumar,200966,Wells Fargo,PIO-PPO,BT-CSE,0.0,-1,M,7.505274617384553,U.P.,O+
+Narendra Jugalkishor Prajapat,200623,Futures First Info Services Pvt Ltd,Market Analyst - Trainee,BT-CE,1288000.0,2151,M,6.912351892255316,RAJASTHAN,AB+
+Munna Kumar,200608,Centre for Development of Telematics (C-DOT),RESEARCH ENGINEER,BT-EE,1850000.0,2053,M,6.7872333295355345,BIHAR,O+
+Apeksha Agrawal,200176,Interglobe Aviation Ltd. (IndiGo Airlines),Data Scientist ,BS-ECO,1600000.0,2556,M,8.035782572259624,MADHYA PRADESH,A+
+Anaavi Alok,200116,American Express,PIO-PPO,BT-ME,0.0,-1,M,8.280839879896478,MADHYA PRADESH,AB+
+Piyush Beegala,200685,Graviton Research Capital,PIO-PPO,BS-MTH,0.0,-1,M,9.271595685306583,PUNJAB,A+
+Kevin Thomas Benoy,200510,Texas Instruments,PIO-PPO,BT-EE,0.0,-1,M,8.708952639889668,KERALA,O-
+Suryanshu Kumar Jaiswal,201025,Hindustan Unilever Limited ,PIO-PPO,BT-ME,0.0,-1,M,8.993594894480404,CHHATTISGARH,O+
+Aayushi Mishra,200009,Boston Consulting Group,PIO-PPO,BT-ME,0.0,-1,M,6.930517577221991,MADHYA PRADESH,O+
+Rishwan Reddy,200562,Oracle India Pvt Ltd,PIO-PPO,BT-CSE,0.0,-1,M,7.613749146875669,TELANGANA,O+
+Harsit Sinha,200436,ICICI Bank,Management Trainee,BT-CHE,1650990.0,2375,M,8.289913169502016,BIHAR,O+
+Siddharth Yadav,200983,Battery Smart,Business Analyst,BS-ECO,2200000.0,2348,M,7.01642391954458,MADHYA PRADESH,O+
+Siddharth Yadav,200983,Battery Smart,Business Analyst,BS-ECO,2200000.0,2348,M,7.01642391954458,MADHYA PRADESH,O+
+Aniket,200124,FPL TEchnologies Pvt. Ltd,Data Scientist,BT-ME,2000000.0,2263,M,6.972485978841488,MADHYA PRADESH,B+
+Aniket,200124,FPL TEchnologies Pvt. Ltd,Data Scientist,BT-ME,2000000.0,2263,M,6.972485978841488,MADHYA PRADESH,B+
+Prashant Kumar Mishra,200708,Zomato,Product Analyst,BS-ECO,1800000.0,2181,M,7.921249159430778,BIHAR,B+
+Sameer Khan,200853,ICICI Lombard GIC LTD,Senior Manager Data Scientist,BT-CE,1230000.0,2095,M,7.3479998892916845,RAJASTHAN,B-
+Divyansh Patel,200353,Reliance Industries Limited,Graduate Engineer Trainee (GET),BT-CE,1050000.0,2278,M,7.472967731650466,U.P.,B+
+Solanki Kevalkumar Balvantbhai,200991,SAP Labs,Associate Developer -Cloud Native API Platform ,BT-CSE,4072200.0,2435,M,7.275256911705825,GUJARAT,O+
+Shreya Nigwal,200951,Cubastion Consulting,Graduate Trainee Engineer,BT-CHE,600000.0,1752,M,7.210682502796836,MADHYA PRADESH,A+
+Sheeshram Choudhary,200926,Indus Insights & Analytics Services,Associate,BT-EE,1577000.0,2240,M,7.3939911883302285,RAJASTHAN,AB+
+Chandan Singh Naruka,200290,Indxx,Management Trainee,BT-CE,1600000.0,2228,M,7.428024035569769,RAJASTHAN,B+
+P Madhav,200657,Jaguar Land rover India Limited,Graduate Software Engineer Trainee,BT-CHE,2352000.0,2176,M,7.774896561189377,A.P.,A+
+Anshika Singh,200149,Vedanta Resources Limited,PIO-PPO,BT-MSE,2100000.0,2276,M,7.253135428600221,U.P.,O+
+Ansh Saxena,190157,Sprinklr,Product Engineer,DoubleMajor-MTH,3000000.0,2022,M,0.0,U.P.,O+
+Vedasree Tatimanu,201049,Microsoft India,PIO-PPO,BT-CSE,0.0,-1,M,8.279671450626003,A.P.,O+
+Tanmay Grover,201040,GyanDhan,Business Analyst,BT-EE,2600000.0,2483,M,8.080950263487564,HARYANA,O+
+Riya Banik,200809,Standard Chartered,PIO-PPO,BT-CE,0.0,-1,M,6.70834170325183,CHHATTISGARH,O+
+Himanshu Kumar,200443,Smarttrak AI,Deep Learning Engineer,BS-ES,1200000.0,2213,M,5.998780426442644,BIHAR,B+
+Dhanya,19807282,ICICI Bank,Management Trainee,DualA-CE,1650990.0,2375,M,0.0,,O+
+Ashi Vijayvargiya,200206,Citi Bank,PIO-PPO,BS-ECO,0.0,-1,M,8.125186540221218,RAJASTHAN,B+
+Rashmi Waghmare,200771,Amadeus Software Labs,Software Development Engineer 2,BS-MTH,1859224.0,2364,M,7.08050631789525,MAHARASHTRA,A+
+Akshat Saklecha,200842,FPL TEchnologies Pvt. Ltd,Data Scientist,BT-AE,2000000.0,2263,M,7.760013935395935,MAHARASHTRA,B+
+Akshat Saklecha,200842,FPL TEchnologies Pvt. Ltd,Data Scientist,BT-AE,2000000.0,2263,M,7.760013935395935,MAHARASHTRA,B+
+Rose Agarwal,200821,Arthur D. Little,Business Analyst Trainee,BT-CHE,2050000.0,2372,M,7.569354085167226,U.P.,AB+
+Aditya Tanwar,200057,GLEAN SEARCH TECHNOLOGIES INDIA Pvt. Ltd.,Software Engineer ( US ),BT-CSE,1920000.0,2087,M,9.890909473714611,RAJASTHAN,A+
+Sangh Priya Gautam,200859,HPCL,Officer- Engineering,BT-ME,1697000.0,2077,M,7.4279023785904466,U.P.,O+
+Praveen Singh,200721,Microsoft India,Software Engineer,BT-CSE,2103200.0,2270,M,9.425702306079662,MADHYA PRADESH,B+
+Samarth Arora,200849,Graviton Research Capital,Quantitative Researcher,BT-CSE,8400000.0,2015,M,9.849735401773286,TELANGANA,B+
+Vidhi Jain,201109,Dr. Reddy’s Laboratories,PIO-PPO,BT-CHE,0.0,-1,M,7.802854723507354,RAJASTHAN,A+
+Suhani,201011,Proctor & Gamble,PIO-PPO,BT-ME,0.0,-1,M,8.8267219044352,PUNJAB,O+
+Ishan Singh,200457,Indxx,Management Trainee,BT-CHE,1600000.0,2228,M,8.37740756970028,U.P.,AB+
+Vijay Bharadwaj,201112,Sprinklr,Product Analyst,BT-ME,1500000.0,2023,M,8.53760341730798,U.P.,A+
+R Sriramchandher,200744,"C3iHub (IHub NTIHAC Foundation), IIT Kanpur",Software Development Engineer - SOC,BT-EE,2800000.0,2488,M,7.5891712886565825,TAMIL NADU,B+
+Aryan Jain,200201,Quantbox Research,DevOps Engineer,BS-MTH,2500000.0,2558,M,8.484091260345318,PUNJAB,B+
+Yas Vir Singh,201137,BeeHyv Software Solutions,Developer Trainee,BT-CE,1200000.0,-1,M,7.50809579263413,U.P.,A+
+Animesh Tiwari,200127,Battery Smart,Strategy Associate,BT-CE,2200000.0,2349,M,6.86165445275146,U.P.,O+
+Aman Yadav,190109,Zomato,Software Development Engineer 1,DoubleMajor-EE,2500000.0,2115,M,0.0,HARYANA,O+
+Sharath Kumar V,200916,Atlassian,PIO-PPO,BT-CSE,0.0,-1,M,6.912516973877037,KARNATAKA,A+
+Tanushree Jalewa,201044,Oracle India Pvt Ltd,PIO-PPO,BS-MTH,0.0,-1,M,7.087321389533691,RAJASTHAN,O+
+Yash Gupta,201143,GAIN Credit,Analytics Scientist,BT-ME,1600000.0,2018,M,7.753009794916085,MADHYA PRADESH,B+
+Sarthak Kohli,200886,McKinsey & Company,Business Analyst,BT-CSE,1950000.0,2149,M,9.599766718513857,CHANDIGARH,AB+
+Aditya Jain,200045,"Samsung R&D, Delhi",PIO-PPO,BT-EE,2450000.0,2129,M,8.482916544581306,MADHYA PRADESH,B+
+Karan Jeyasankar,200490,Signalchip Innovations Pvt Ltd ,Electronics - Communication Systems - Design and Development,BT-EE,1400000.0,2377,M,8.41876044847524,TAMIL NADU,O+
+Gujrathi Prem Milind,200393,Indus Insights & Analytics Services,Associate,BT-EE,1577000.0,2240,M,7.6975476018387825,MAHARASHTRA,O+
+Parth Bhatt,200669,Media.net(Directi) ,Senior Product Analyst,BT-CE,2116000.0,2439,M,7.838237077069121,GUJARAT,B+
+Shrey Wadhawan,200948,Atlassian,PIO-PPO,BT-EE,0.0,-1,M,9.514404976676351,HARYANA,B-
+Rohit Agrawal,200814,Interglobe Aviation Ltd. (IndiGo Airlines),Data Engineer,BS-ECO,1600000.0,2556,M,7.340385281589941,CHHATTISGARH,A+
+Astik Yadav,200217, FN Mathlogic Consulting Services Private Limited,Analyst,BT-CE,1212000.0,1697,M,6.661509177575996,U.P.,O+
+Paramveer Singh Choudhary,200665,Cisco,PIO-PPO,BT-ME,0.0,-1,M,6.890601751824579,RAJASTHAN,O+
+Jahnavi Kairamkonda,200482,Navi,Software Development Engineer,BT-CSE,4100000.0,2312,M,8.447233806666702,TELANGANA,B+
+Yash Goel,201142,Microsoft India,PIO-PPO,BT-EE,0.0,-1,M,8.628622661296484,U.P.,B+
+Prabuddha Singh,200691,Menon and Menon Limited,Technical Executive,BT-AE,1400000.0,2110,M,8.024755480018635,U.P.,B+
+Kumar Arpit,200532,Graviton Research Capital,PIO-PPO,BT-CSE,0.0,-1,M,9.00012110546625,BIHAR,B+
+Avinash Prasad,200231,Goldman Sachs,PIO-PPO,BT-CSE,3650000.0,2327,M,7.647664815142664,W.B.,A+
+Arnav Pandey,200188,Cisco,PIO-PPO,BT-ME,0.0,-1,M,7.2086011508628145,U.P.,A+
+Subhrajit Mishra,201006,"Samsung Research, Bangalore ",Advance Developer - Research Profile,BT-EE,4000000.0,2275,M,9.150154549970852,ORISSA,A+
+Aryaman Singhal,200196,IDFC FIRST Bank ,Associate Data Scientist ,BS-MTH,2760000.0,2330,M,9.126576490558968,UTTARAKHAND,A+
+Prathamesh Thakare,19807911,Aspect Ratio Private Limited,Analyst (Analytics),DualA-AE,1700000.0,2131,M,0.0,,O+
+Anup Singh,200166,VVF India Ltd, Engineer Management Trainee (EMT) - CHE,BT-CHE,1600000.0,1960,M,7.4693406933574025,U.P.,O+
+Aman Pal,200102,EXL,Consultant 1 - Analytics & Digital,BT-MSE,1500000.0,2282,M,7.18201761745753,MADHYA PRADESH,B+
+Ujwal Jyot Panda,201060,Quadeye Securities,PIO-PPO,BT-CSE,0.0,-1,M,9.65535606666657,ORISSA,O+
+Praful Samadhan Mane,19807611,Axtria,Analyst,DualA-CHE,1375000.0,2227,M,0.0,,O+
+Granth Choudhary,200392,"Samsung R&D, Delhi",PIO-PPO,BT-EE,2450000.0,2129,M,7.905259116036162,RAJASTHAN,O+
+Ojsi Goel,200653,Barclays,Decision Analyst,BT-MSE,1590000.0,2116,M,7.531058737716272,U.P.,O+
+Anjali Jain,200132,MasterCard,Data Engineer,BT-CE,1200000.0,2190,M,6.839766544944175,MADHYA PRADESH,A+
+Aditya Kumar Tiwari,200050,Cisco,PIO-PPO,BT-CE,0.0,-1,M,7.581170918404028,BIHAR,O+
+Vinit Yogesh Toshniwal,201123,Bain & Company,PIO-PPO,BS-ECO,0.0,-1,M,8.549043834466234,MAHARASHTRA,O+
+Kuragayala Vasanth,200537,Bajaj Auto Limited & Chetak Technology Limited,PIO-PPO,BT-ME,2174000.0,1958,M,7.6717569434284565,TELANGANA,O+
+Nayan Khandelwal,200629,Jaguar Land rover India Limited,Graduate Software Engineer Trainee,BT-ME,2352000.0,2176,M,8.442846418522004,RAJASTHAN,B+
+Nayan Khandelwal,200629,Jaguar Land rover India Limited,Graduate Software Engineer Trainee,BT-ME,2352000.0,2176,M,8.442846418522004,RAJASTHAN,B+
+Devansh Kumar Jha,200318,Graviton Research Capital,Software engineer,BT-EE,8400000.0,2016,M,9.522555188636362,DELHI,A+
+Yashika Malhotra,201152,Publicis Sapient,Data Science,BT-AE,1675555.0,2302,M,9.052749447581588,PUNJAB,AB+
+Kunal Bhoye,200274,Reliance Industries Limited,Graduate Engineer Trainee (GET),BT-CHE,1050000.0,2278,M,6.474131446624334,MAHARASHTRA,AB+
+Dheeraj Singla,19807287,Jaguar Land rover India Limited,Graduate Mechatronics Engineering Trainee,DualA-ME,2502000.0,2175,M,0.0,,O+
+Surya Bhardwaj,201022,Vedanta Resources Limited,PIO-PPO,BT-CHE,2100000.0,2276,M,7.988669863635914,HARYANA,O+
+Mahaveer Khurkhuriya,200550,Axis Bank,Manager,BT-BSBE,1443300.0,2170,M,6.841936459740668,RAJASTHAN,B+
+Soham Samaddar,200990,Quadeye Securities,PIO-PPO,BT-CSE,0.0,-1,M,9.910110977622617,W.B.,A+
+Shubham,200965,Savart,Data Scientist,BT-MSE,1500000.0,2281,M,7.708226683201853,PUNJAB,O+
+Prasang Gupta,200706,Media.net(Directi) ,Senior Product Analyst,BT-MSE,2116000.0,2439,M,8.150649713484944,HARYANA,B+
+Shubhan R,200971,Deutsche India Private Limited,Graduate Analyst,BT-CSE,1963000.0,1967,M,9.783781309300595,KARNATAKA,O+
+Usha,200294,Jindal Shadeed Iron & Steel,Graduate Engineer Trainee (GET),BT-CE,1440000.0,2367,M,7.371188231377039,A.P.,O+
+Aakash Rathi,190007,Salesforce,PIO-PPO,DoubleMajor-EE,0.0,-1,M,0.0,U.P.,AB-
+Apoorva Jha,200177,Microsoft India,Software Engineer,BT-CE,2103200.0,2270,M,7.199975003942782,MADHYA PRADESH,B+
+Anubha Tripathi,200163,Jaguar Land rover India Limited,Graduate EV-Powertrain Engineer Trainee,BT-EE,2352000.0,2177,M,7.177005828813582,U.P.,O+
+Korada Sai Dinesh,200518,Delta Electronics,Software Engineer,BT-EE,1200000.0,2400,M,7.477357759109165,A.P.,O+
+Kartavya Damor,200492,Cohesity,Software Developer - Member of Technical Staff,BT-CSE,4308000.0,2293,M,8.823370233948976,RAJASTHAN,B+
+Parth Maniar,200671,Google India,"Software Engineer, University Graduate",BT-CSE,1200000.0,2167,M,9.763810035161649,RAJASTHAN,A+
+Parth Maniar,200671,Google India,"Software Engineer, University Graduate",BT-CSE,1200000.0,2167,M,9.763810035161649,RAJASTHAN,A+
+Nishant Tripathi,200644,Merilytics,Senior Business Analyst,BT-CE,1150000.0,2267,M,7.4281897367691805,U.P.,B+
+Ashutosh Muduly,200215,HPCL,Officer- Engineering,BT-ME,1697000.0,2077,M,7.158472582510117,ORISSA,B+
+Shubham Jangid,19817831,BeeHyv Software Solutions,Developer Trainee,DualA-CHM,1200000.0,-1,M/F,-1.0,India,Human Blood
+Harshul Midha,200435,Microsoft India,PIO-PPO,BT-EE,0.0,-1,M,8.303614681020434,HARYANA,B+
+Parth Chavan,200673,BeeHyv Software Solutions,Developer Trainee,BS-MTH,1200000.0,-1,M,7.072711109923553,MAHARASHTRA,O+
+Yash Manihar,201145,Blitz © Bigshort Tails Pvt. Ltd.,Business Analyst,BT-CHE,1465000.0,2351,M,8.066071776278436,RAJASTHAN,B+
+Ayush Pratap Singh,200251,TATA Projects Limited,Executive Trainee,BT-CE,1575000.0,2413,M,7.277159196223237,U.P.,O+
+Mohil,200596,Centre for Development of Advanced Computing,Knowledge Associate   ,BT-CSE,780000.0,2354,M,6.860698199500121,HARYANA,A-
+Priyanshu,200732,FPL TEchnologies Pvt. Ltd,Software Engineer,BT-ME,2000000.0,2262,M,8.025941098421233,HARYANA,B+
+Rishabh Kaushik,190703,"Samsung Research, Bangalore ",PIO-PPO,DoubleMajor-EE,4000000.0,2275,M,0.0,HARYANA,O+
+Sheshank,200930,Axxela Research & Analytics Private Limited,Trainee Analyst,BT-CE,1410000.0,1821,M,7.647856245002654,BIHAR,B+
+Gaurav Sharma,200379,Futures First Info Services Pvt Ltd,Market Analyst - Trainee,BT-CE,1288000.0,2151,M,7.809455080733415,RAJASTHAN,O-
+Sanjukta Sen,22119016,"Samsung Design, Delhi",PIO-PPO,MDes-DES,0.0,-1,M/F,-1.0,India,Human Blood
+Utkarsh Srivastava,201070,ICICI Bank,Management Trainee,BT-CE,1650990.0,2375,M,7.204224594968811,U.P.,O+
+Kuldeep Gupta,200529,Bajaj Electricals,Graduate Engineer Trainee,BT-ME,1500000.0,2517,M,7.882797772990602,U.P.,AB+
+Harsh Agrawal,200407,Microsoft India,PIO-PPO,BT-CHE,0.0,-1,M,7.91488439221506,RAJASTHAN,AB+
+Ayush Choudhary,200239,Uniorbit Technologies Private Ltd,Risk Associate,BT-CE,1753830.0,1838,M,7.044111283810434,MADHYA PRADESH,A+
+Alok Kumar Thakur,190100,Navi,Software Development Engineer,DoubleMajor-MTH,4100000.0,2312,M,0.0,DELHI,O+
+Rishu Kumar,200797, FN Mathlogic Consulting Services Private Limited,Analyst,BT-EE,1212000.0,1697,M,6.506233884314092,BIHAR,A+
+Akshat Agarwal,200081,Oracle India Pvt Ltd,PIO-PPO,BT-EE,0.0,-1,M,8.420217671598,U.P.,A+
+Yashvardhan Rathore,201154,SLB,PIO-PPO,BT-MSE,0.0,-1,M,7.531647537465993,CHHATTISGARH,A+
+Harshit Singhai,200434,Meesho,Associate Product Manager I,BT-AE,2600000.0,2152,M,8.34683221098996,MADHYA PRADESH,B+
+Shambhavi Sabharwal,200914,Jaguar Land rover India Limited,Graduate Mechatronics Engineering Trainee,BT-ME,2502000.0,2175,M,7.961182694016739,HARYANA,A+
+Manan Kabra,200552,Meesho,Software Development Engineer I,BT-EE,3400000.0,1806,M,7.463228484648311,KARNATAKA,A+
+Veerannapeta Pravalika,201105,Deloitte,Analyst - Consulting,BT-ME,1200000.0,2155,M,5.617883606822521,TELANGANA,O+
+Antara Mandal,200158,TransOrg Solutions & Services Pvt Ltd,Analyst,BT-EE,1200000.0,-1,M,6.184513227771177,W.B.,A+
+Gopal Aggarwal,200390,Pine Labs Pvt. Ltd,SDE,BT-CSE,2250000.0,2521,M,7.158945514043761,U.P.,B-
+Alok Kumar,200095,Uniorbit Technologies Private Ltd,Product & Growth Analyst,BT-MSE,1700000.0,2088,M,7.418509416566882,JHARKHAND,B+
+Abhay Singh,200013,Aspect Ratio Private Limited,Analyst (Analytics),BT-ME,1700000.0,2131,M,5.466031793031042,U.P.,AB-
+Shivangi Yadav,200944,Accenture Solutions Pvt. Ltd,MC Delivery Associate,BT-CE,1592000.0,1855,M,8.211359791992576,U.P.,O+
+Romit Mohanty,19807720,Sprinklr,Data Scientist,DualA-EE,1800000.0,2024,M,0.0,,O+
+Akhil Agrawal,200076,Databricks,Software Engineer,BT-CSE,4090000.0,1941,M,9.873664675785648,RAJASTHAN,B+
+Vedant Garg,201102,Nation with Namo,Associate,BT-MSE,1900000.0,1854,M,7.272370123876713,DELHI,O+
+Sandeep Kumar Bijarnia,200856,EightFold AI,PIO-PPO,BT-CSE,0.0,-1,M,8.093165102882903,RAJASTHAN,AB+
+Atharv Dusane,200356,Petronet LNG Limited,"Petronet LNG Limited (PLL) formed on April 2, 1998, as Joint Venture Company (JVC) having 50% shareholding of leading 4 Oil & Gas PSUs by GOI order dated July 4, 1997
+An Independent Board managed JVC created for development of facilities for the import, storage and regasification of Liquefied Natural Gas.
+With equity participation from four Oil & Gas Maharatanas viz. Oil & Natural Gas Corporation (ONGC), Indian Oil Corporation Limited (IOCL), GAIL (India) Limited (GAIL) and Bharat Petroleum Corporation Limited (BPCL).",BT-ME,1893000.0,1975,M,7.181884253780281,MAHARASHTRA,B+
+Abhishek Raghuvanshi,22111003,JM Financial,Full Stack Web Developer,MT-CSE,2400000.0,2493,M,0.0,MADHYA PRADESH,A+
+Atirek Aryan,200221,Vedanta Resources Limited,PIO-PPO,BT-ME,2100000.0,2276,M,7.295036101490914,JHARKHAND,B+
+Harsh Saroha,200419,Microsoft India,Software Engineer,BS-MTH,2103200.0,2270,M,7.676665925522333,HARYANA,O+
+Himanshu Beniwal,200441,Niva Bupa Health Insurance,Crest Executive Trainee – IT,BT-ME,1860000.0,2380,M,7.764921877182107,HARYANA,O+
+Sarthak Goyal,200884,Goldman Sachs,PIO-PPO,BS-ES,3650000.0,2327,M,7.0913742120541245,U.P.,B+
+Chinmay Tewari,22114010,Barclays,Graduate Analyst,MT-MS,1700000.0,2158,M,0.0,UTTARAKHAND,AB+
+Niranjan Kumar Meena,200641,Reliance Industries Limited,Graduate Engineer Trainee (GET),BT-EE,1050000.0,2278,M,7.161746111225909,RAJASTHAN,O+
+Ankit Kumar,200136,TATA Projects Limited,Executive Trainee,BT-EE,1575000.0,2413,M,6.596992575667193,U.P.,B+
+Manan Kalavadia,200553,Texas Instruments,PIO-PPO,BT-EE,0.0,-1,M,9.70595650068636,GUJARAT,O+
+Vishal Garg,201127,Merilytics,Senior Business Analyst,BT-CE,1150000.0,2267,M,7.732986913927605,HARYANA,O+
+Nikhil Karmachandani,190551,Xion Multiventures Pvt Ltd,Trainee Research Analysis & Operation Support  ,DoubleMajor-MSE,1620000.0,1938,M,0.0,U.P.,A+
+Ayushi Agrawal,200257,TATA Projects Limited,Executive Trainee,BT-CE,1575000.0,2413,M,6.607157308045433,RAJASTHAN,B+
+Ritam Jana,200798,EXL,Consultant 1 - Analytics & Digital,BT-AE,1500000.0,2282,M,8.167632341387906,DELHI,O+
+Devansh Agarwal,200316,Google India,"Software Engineer, University Graduate",BT-EE,1200000.0,2167,M,8.763063429480477,U.P.,AB+
+Nandita Nupur,22119013,Blue Yonder India Private Limited,Associate UX Engineer,MDes-DES,1260000.0,2371,M,0.0,JHARKHAND,O+
+Mohan Jyotirman Misra,200589,Futures First Info Services Pvt Ltd,PIO-PPO,DualA-MSE,1288000.0,2151,M,7.653807765247847,U.P.,A+
+Oosheen Tanya,22119014,MakeMyTrip,UX Designer- 2,MDes-DES,1500000.0,2402,M,0.0,CHANDIGARH,A+
+Akshit Singh Chauhan,200090,BeeHyv Software Solutions,Developer Trainee,BT-CE,1200000.0,-1,M,7.318957993176954,MADHYA PRADESH,B+
+Shankar Pal,22114026,Merilytics,Senior Business Analyst,MT-MS,1150000.0,2267,M,0.0,HARYANA,B+
+Barkha Agrawal,200263,Vedanta Resources Limited,PIO-PPO,BT-EE,2100000.0,2276,M,7.211332675575732,RAJASTHAN,O+
+Shreya Agarwal,200949,Flipkart,APM- 1,BT-EE,2657000.0,2112,M,7.581362825363507,U.P.,A+
+Aman Rawat,22119002,Blue Yonder India Private Limited,Associate UX Engineer,MDes-DES,1260000.0,2371,M,0.0,UTTARAKHAND,O+
+Devang Kumawat,200315,Auronova Consulting,Risk Management Consulting,BT-CHE,1400000.0,2392,M,8.115985692645923,RAJASTHAN,B+
+Vandana Basrani,201083,Deutsche India Private Limited,Graduate Analyst,BT-EE,1963000.0,1967,M,7.203400243594509,RAJASTHAN,O+
+Aditya Ranjan,190068,Google India,PIO-PPO,DoubleMajor-CSE,1200000.0,2167,M,0.0,DELHI,O+
+Nikhil Verma,200637,Sprinklr,PIO-PPO,BT-CSE,0.0,-1,M,8.718488721596357,U.P.,O+
+Aryash Pateriya,190189,Sprinklr,Product Engineer,DoubleMajor-CSE,3000000.0,2022,M,0.0,MADHYA PRADESH,B+
+Jaya Meena,200472,Axis Bank,Manager,BT-CSE,1443300.0,2170,M,7.513074903264143,MADHYA PRADESH,O+
+Jasjot Singh,200468,Goldman Sachs,Software Engineering | Quantitative Engineering,BT-CSE,3650000.0,2327,M,9.06047659021871,HARYANA,O+
+Harsh Agarwal,200406,Futures First Info Services Pvt Ltd,PIO-PPO,BT-MSE,1288000.0,2151,M,8.291888728529797,MADHYA PRADESH,B+
+Chhavi Agrawal,200295,Salesforce,PIO-PPO,BS-MTH,0.0,-1,M,8.48524388687572,BIHAR,A+
+Akanksha Singh,200070,Google India,"Software Engineer, University Graduate",BT-CSE,1200000.0,2167,M,9.584416344657166,MAHARASHTRA,O+
+Parikshit Tomer,200666,GLS Services,Operations Engineer ,BT-CHE,3144120.0,2059,M,8.602337895502687,U.P.,A+
+Akshit Verma,22119001,Microsoft India,Ux Designer,MDes-DES,2178200.0,2306,M,0.0,DELHI,B+
+Muskan Kumari,200610,Deutsche India Private Limited,Graduate Analyst,BT-MSE,1963000.0,1967,M,7.0156467764951,BIHAR,O+
+Shivam Pandey,200938,Deutsche India Private Limited,Graduate Analyst,BT-ME,1963000.0,1967,M,7.995201901139012,U.P.,B+
+Motikar Kshipra Prabhakar,200598,Dr. Reddy’s Laboratories,PIO-PPO,BT-CHE,0.0,-1,M,6.488106737120353,MAHARASHTRA,O+
+Kashishpreet Kaur,200496,American Express,PIO-PPO,BT-ME,0.0,-1,M,7.8966929076660906,PUNJAB,O+
+Varun Gurnani,201091,TATA Projects Limited,Executive Trainee,BT-CE,1575000.0,2413,M,7.1404012652290225,RAJASTHAN,B+
+Samridh,200855,Uniorbit Technologies Private Ltd,Software Development Engineer 1 (SDE 1),BT-EE,2053830.0,1837,M,5.396047885914592,HARYANA,A+
+Gauri,200381,TATA Projects Limited,Executive Trainee,BT-CE,1575000.0,2413,M,8.669956518760966,U.P.,B+
+Jatin Chauhan,200469,Deutsche India Private Limited,Graduate Analyst,BT-EE,1963000.0,1967,M,8.591631789277715,U.P.,A-
+Riya Saini,200810,ICICI Lombard GIC LTD,Senior Manager Actuarial Analyst,BT-CHE,1200000.0,2094,M,7.210131756086537,RAJASTHAN,A+
+Abhishek Pardhi,200026,Google India,"Software Engineer, University Graduate",BT-CSE,1200000.0,2167,M,7.981728645678935,CHHATTISGARH,O+
+Aadarsh Shaw,200001,Deutsche India Private Limited,Graduate Analyst,BT-ME,1963000.0,1967,M,8.946563798510494,W.B.,O+
+Akshunya Vijayvargiya,200092,Databricks,Software Engineer,BT-CSE,4090000.0,1941,M,9.242248689730731,RAJASTHAN,B+
+Yudhveer,201166,Navi,Software Development Engineer,BT-EE,4100000.0,2312,M,9.368930777226607,HARYANA,O+
+Rohit Kumar Gupta,200816,Google India,"Software Engineer, University Graduate",BT-CE,1200000.0,2167,M,7.614287021639879,JHARKHAND,A+
+Divy Soni,200344,Flipkart,PIO-PPO,BT-EE,0.0,-1,M,7.846170377101626,RAJASTHAN,B+
+S Pradeep,200826,NVIDIA ,System Software Engineer,BT-CSE,3290063.0,2217,M,9.779468578717912,TAMIL NADU,O+
+Tushar Agarwal,22102060,Quest Global Engineering Services Pvt. Ltd,Engineer ,MT-CHE,900000.0,1830,M,0.0,ORISSA,A+
+Nidhi,19807546,Thornton Tomasetti,Engineer,DualA-CE,750000.0,2300,M/F,-1.0,India,Human Blood
+Suraj Kumawat,201021,PricewaterhouseCoopers (US-Adv),Product and Development,BT-EE,1500000.0,2548,M,7.699870462002759,RAJASTHAN,B+
+Ketan Shakya,22104047,Intel,Software/ Hardware Engineer,MT-EE,1977327.0,2039,M,0.0,MADHYA PRADESH,O+
+Pallabi Roy,22106008,Tata Steel,Management Trainee(R&T),MT-MSE,1311258.0,2365,M,0.0,W.B.,B+
+Subrata Das,22106019,HFCL,Post Graduate engineer Trainee,MT-MSE,1200000.0,2471,M,0.0,W.B.,B+
+Abhay Kumar Dwivedi,22111001,Pine Labs Pvt. Ltd,SDE,MT-CSE,2250000.0,2521,M,0.0,MADHYA PRADESH,B+
+Ankit Goyal,22103012,ASC Infratech Pvt Ltd,Trainee Engineer,MT-CE,737575.0,1927,M/F,-1.0,India,Human Blood
+Harsh Trivedi,200422,Quantbox Research,PIO-PPO,BT-CSE,0.0,-1,M,9.807119649632062,RAJASTHAN,B+
+Naveen Singh Jugtwan,22101040,Airbus Group India,Associate Flight Controls and Hydraulics Development Engineer,MT-AE,1100000.0,1951,M,0.0,CHANDIGARH,O+
+Abhishek Kumar Singh,22105002,ISGEC,Mechanical,MT-ME,1200000.0,-1,M/F,-1.0,India,Human Blood
+Suchintika Chanda,22102058,Tata Steel,Management Trainee(R&T),MT-CHE,1311258.0,2365,M,0.0,JHARKHAND,O+
+Kapil Singla,22104405,Qualcomm,Hardware,MSR-EE,3733000.0,2040,M,0.0,PUNJAB,AB+
+Ambika Randive,22102008,KBR,"Engineer: Chemical 
+Engineer: Mechanical",MT-CHE,950000.0,2428,M/F,-1.0,India,Human Blood
+Priyanka Hembram,22104075,Bajaj Auto Limited & Chetak Technology Limited,GTE'24,MT-EE,2174000.0,1958,M,0.0,W.B.,B+
+Dhiraj Kumar,22104403,Bajaj Auto Limited & Chetak Technology Limited,GTE'24,MSR-EE,2174000.0,1958,M,0.0,JHARKHAND,O+
+Ankit Sinha,22104016,Texas Instruments,Analog Engineer,MT-EE,3927190.0,2150,M,0.0,U.P.,O+
+Vanshika Gupta,22104123,Micron Technology,Semiconductor Engineer,MT-EE,2746471.0,2260,M,0.0,U.P.,B+
+Sai Charan Mekala,22105069,Western digital,"Senior Engineer, Packaging Engineering
+",MT-ME,2117550.0,2210,M,0.0,TELANGANA,O+
+Anshul Jain,200153,TATA Projects Limited,Executive Trainee,BT-ME,1575000.0,2413,M,7.545757349707472,DELHI,O+
+Sourabh Sen,22104107,Caterpillar,Associate Engineer - Electrical engineering ,MT-EE,1379280.0,2538,M,0.0,MADHYA PRADESH,B+
+Sai Chandu Kadupu,22104090,Texas Instruments,Analog Engineer,MT-EE,3927190.0,2150,M,0.0,A.P.,O+
+Ram Kadam,22105059,Renishaw Metrology ,Graduate Software Engineer,MT-ME,1235000.0,1993,M,0.0,MAHARASHTRA,B+
+Bishal Sah,22105019,Jindal Stainless Ltd,Post Graduate Engineer Trainee (GET),MT-ME,1115000.0,2309,M/F,-1.0,India,Human Blood
+Deborathi Sen,190256,American Express,PIO-PPO,DoubleMajor-EE,0.0,-1,M,0.0,U.P.,B+
+Sanket Dutta,21128406,Axtria,Analyst,MSR-CGS,1375000.0,2227,M,0.0,W.B.,B-
+Vaibhav Mishra,22106022,Tata Steel,Management Trainee(R&T),MT-MSE,1311258.0,2365,M,0.0,U.P.,B+
+Rahul Kumar Gupta,21204408,Intel,Software/ Hardware Engineer,MSR-EE,1977327.0,2039,M,0.0,MADHYA PRADESH,O+
+Punyabrat Kalwar,21211403,Accenture Solutions Pvt Ltd - Data AI,Data AI Senior Analyst,MSR-CSE,1934000.0,2138,M,0.0,ASSAM,B+
+Dhananjay Prakash,22104031,Centre for Development of Telematics (C-DOT),RESEARCH ENGINEER,MT-EE,1850000.0,2053,M/F,-1.0,India,Human Blood
+Shamayeeta Dass,200913,Morgan Stanley,PIO-PPO,BT-EE,0.0,-1,M,9.276274543243796,W.B.,B+
+Shubham Kumar,22102054,KBR,Engineer: Chemical Engineer: Mechanical,MT-CHE,950000.0,2428,M/F,-1.0,India,Human Blood
+Suchismita Bose,21116404,Qualcomm,Hardware,MSR-PSE,3733000.0,2040,M,0.0,W.B.,A+
+Yogesh Nain,201165,Oracle India Pvt Ltd,PIO-PPO,BT-EE,0.0,-1,M,8.01031531724808,HARYANA,O+
+Sonal Agrawal,200995,Boston Consulting Group,PIO-PPO,BT-EE,0.0,-1,M,8.902138629595104,HARYANA,A+
+Yerragorla Surendra,22104128,Qualcomm,Hardware,MT-EE,3733000.0,2040,M,0.0,A.P.,O+
+Shivam Tripathi,21111408,"Samsung Research, Bangalore ",Advance Developer - Research Profile,MSR-CSE,4000000.0,2275,M,0.0,U.P.,B+
+Deepika Harish,22104030,Samsung Semiconductor India Research, Software- Communication Engineering ,MT-EE,3110000.0,2290,M,0.0,MADHYA PRADESH,O+
+Akash Kumar,22104005,Qualcomm,Hardware,MT-EE,3733000.0,2040,M,0.0,JHARKHAND,AB+
+Divyansh Sagar,22105028,PharmaACE,Consultant,MT-ME,1215000.0,2320,M,0.0,U.P.,B+
+Kushagra Yadav,22104053,Intel,Software/ Hardware Engineer,MT-EE,1977327.0,2039,M,0.0,U.P.,O+
+Rahul Meena,22101051,Rosy Blue (India) Pvt. Ltd.,Engineering Trainee,MT-AE,1300000.0,2339,M/F,-1.0,India,Human Blood
+Akshay Nagesh Kamthe,21204402,Texas Instruments,Digital Engineer,MSR-EE,3927190.0,2153,M,0.0,MAHARASHTRA,O+
+Allan Robey,22111007,Taiwan Semiconductor Manufacturing Company,Software Engineer (BSID),MT-CSE,608123.0,2067,M,0.0,MAHARASHTRA,AB+
+Tejask22,22104116,Micron Technology,Semiconductor Engineer,MT-EE,2746471.0,2260,M,0.0,TELANGANA,B+
+Devansh Arora,21201404,Airbus Group India,"Associate Engineer Aerothermal
+",MSR-AE,1100000.0,1944,M,0.0,HARYANA,O+
+Aditya,22102007,Quest Global Engineering Services Pvt. Ltd,Engineer ,MT-CHE,900000.0,1830,M,0.0,GUJARAT,B+
+Siripuram Yamini,22104105,Texas Instruments,Analog Engineer,MT-EE,3927190.0,2150,M,0.0,A.P.,A+
+Arnab Biswas,22102013,Tata Steel,Management Trainee(R&T),MT-CHE,1311258.0,2365,M,0.0,JHARKHAND,O+
+Diksha Joshi,22104034,Qualcomm,Hardware,MT-EE,3733000.0,2040,M,0.0,UTTARAKHAND,B+
+Nishant Kiran Valvi,21111407,GIST,Developer Associate,MSR-CSE,1200000.0,1979,M,0.0,MAHARASHTRA,AB+
+Karan Kumar Tiwari,22101028,Aereo,UAV Systems Engineer,MT-AE,800000.0,2235,M/F,-1.0,India,Human Blood
+Vinayak Ashok Kumbhar,22104137,Samsung Semiconductor India Research,Hardware- Digital (ECE/ VLSI/ Microelectronic),MT-EE,3110000.0,2289,M,0.0,MAHARASHTRA,A+
+Arsh Quayum,22104130,Texas Instruments,Digital Engineer,MT-EE,3927190.0,2153,M,0.0,U.P.,O+
+Sagar Rothe,22104088,Texas Instruments,Analog Engineer,MT-EE,3927190.0,2150,M,0.0,MAHARASHTRA,B+
+Piyush Kumar,22104069,Qualcomm,Hardware,MT-EE,3733000.0,2040,M,0.0,U.P.,O+
+Prajakta Kapre,22103040,Hilti Technology Solutions India,Technical Engineer (GET),MT-CE,1900000.0,2098,M,0.0,MAHARASHTRA,A+
+Dharni Sree Kaparaboina,22106004,Jindal Stainless Ltd,Post Graduate Engineer Trainee (GET),MT-MSE,1115000.0,2309,M/F,-1.0,India,Human Blood
+Pritesh Sutrakar,22104074,Onsemi semiconductors,"ANALOG DESIGN ENGINEER
+",MT-EE,2100000.0,2559,M,0.0,RAJASTHAN,A+
+Shalini Priya,22103065,UltraTech Cement,Management Trainee (Civil - Design & Drawing),MT-CE,1200000.0,-1,M/F,-1.0,India,Human Blood
+Sharat Kirla,22104096,Qualcomm,Hardware,MT-EE,3733000.0,2040,M,0.0,A.P.,O+
+Kandana Srichaitanya,22101027,TATA ADVANCED SYSTEMS LIMITED,Post Graduate Engineer Trainee,MT-AE,800000.0,2142,M/F,-1.0,India,Human Blood
+Akash Kumar,22104006,TVS Motor,Hardware Design Engineer ,MT-EE,1200000.0,2362,M,0.0,JHARKHAND,B+
+Kudupudi Mohan Kumar,22105037,SEDEMAC Mechatronics Pvt. Ltd.,"Engineer, R&D",MT-ME,1500000.0,1935,M,0.0,A.P.,O+
+Abhishek Gupta,22102005,OLA,Chemical Engineering,MT-CHE,2250000.0,1923,M,0.0,JHARKHAND,O+
+Manojit Biswas,22103030,ICICI Lombard GIC LTD,Senior Manager - Strategy & Innovation,MT-CE,2000000.0,2456,M,0.0,W.B.,O+
+Sachin,22105068,General  Electric,Edison Engineering Development Program,MT-ME,1525000.0,2243,M,0.0,TAMIL NADU,A+
+Vikash Kumar Gupta,22102063,Raspa Pharma Private Limited,"Senior Research Associate, Bioprocess Engineering",MT-CHE,1200000.0,-1,M/F,-1.0,India,Human Blood
+Shubham Sharma,22104102,Qualcomm,Hardware,MT-EE,3733000.0,2040,M,0.0,RAJASTHAN,B+
+Abhishek Kumar Pathak,22111002,"C3iHub (IHub NTIHAC Foundation), IIT Kanpur",Software Development Engineer - SOC,MT-CSE,2800000.0,2488,M/F,-1.0,India,Human Blood
+Vaihsnav K S,22104122,Airbus Group India,Electrical System Engineer,MT-EE,1100000.0,1948,M,0.0,KERALA,B+
+Vaidehi Chandrashekhar Nare,22104121,IdeaForge Technology Pvt. Ltd,Engineer I ,MT-EE,1700000.0,2470,M,0.0,MAHARASHTRA,A+
+Vikalp Kumar,22104124,Qualcomm,Hardware,MT-EE,3733000.0,2040,M,0.0,BIHAR,A+
+Shivam Singh,22103067,GIST,Developer Associate,MT-CE,1200000.0,1979,M,0.0,U.P.,O+
+Vishnu Vardhan Gurrala,22104139,Micron Technology,Semiconductor Engineer,MT-EE,2746471.0,2260,M,0.0,A.P.,B+
+Amrendra,22104012,Onsemi semiconductors,"ANALOG DESIGN ENGINEER
+",MT-EE,2100000.0,2559,M,0.0,U.P.,B+
+Aravindasai Bura,22104019,Centre for Development of Telematics (C-DOT),RESEARCH ENGINEER,MT-EE,1850000.0,2053,M/F,-1.0,India,Human Blood
+Prachet Bhattacharya,22104070,Onsemi semiconductors,"ANALOG DESIGN ENGINEER
+",MT-EE,2100000.0,2559,M,0.0,U.P.,O+
+Mayuri Shankarrao Umak,22102029,PharmaACE,Consultant,MT-CHE,1215000.0,2320,M,0.0,MAHARASHTRA,O+
+Aamir Alam,22104001,Samsung Semiconductor India Research,Hardware- Digital (ECE/ VLSI/ Microelectronic),MT-EE,3110000.0,2289,M/F,-1.0,India,Human Blood
+Sidhi Vishnu Vardhana Chary,22104103,Delta Electronics,Hardware Engineer,MT-EE,1200000.0,2337,M/F,-1.0,India,Human Blood
+Rupareliya Abhay Ashvinbhai,22102003,KBR,"Engineer: Chemical 
+Engineer: Mechanical",MT-CHE,950000.0,2428,M/F,-1.0,India,Human Blood
+Kumar Suryamauli Shah,22104052,Solar Energy Corporation of India Limited,Executive Trainee,MT-EE,1989891.0,2464,M,0.0,U.P.,A+
+Gudelli Shivakumar,22129015,Hitachi Energy,Project Engineer,MT-SEE,1000000.0,2394,M/F,-1.0,India,Human Blood
+Jagadeesh Siddula,22104042,TVS Motor,Hardware Design Engineer ,MT-EE,1200000.0,2362,M,0.0,A.P.,O+
+Ritam Borah,22105064,PharmaACE,Consultant,MT-ME,1215000.0,2320,M,0.0,ASSAM,O+
+Akash S,22105004,Quest Global Engineering Services Pvt. Ltd,Engineer ,MT-ME,900000.0,1830,M,0.0,KERALA,B-
+Yash Prakash Patil,21111410,Interglobe Aviation Ltd. (IndiGo Airlines),Software Engineer,MSR-CSE,1600000.0,2556,M/F,-1.0,India,Human Blood
+Sahandeep Das,22104089,Micron Technology,Semiconductor Engineer,MT-EE,2746471.0,2260,M,0.0,ASSAM,B+
+Manu S Varghese,22105040,MRF LIMITED,R&D( Executive Technical),MT-ME,1028595.0,2010,M,0.0,KERALA,O+
+Debleena Das,22101407,TATA ADVANCED SYSTEMS LIMITED,Post Graduate Engineer Trainee,MSR-AE,800000.0,2142,M/F,-1.0,India,Human Blood
+Ketavath Tharun Nayak,22104048,Micron Technology,Semiconductor Engineer,MT-EE,2746471.0,2260,M,0.0,TELANGANA,B+
+Puneet Shrivastava,22104076,Micron Technology,Semiconductor Engineer,MT-EE,2746471.0,2260,M,0.0,MADHYA PRADESH,A+
+Deepak B Hegde,21211402,Optym India Private Limited,Software Engineer - Algorithm Developer ,MSR-CSE,2400000.0,2383,M/F,-1.0,India,Human Blood
+Mansi Kumawat,22104407,Bajaj Auto Limited & Chetak Technology Limited,GTE'24,MSR-EE,2174000.0,1958,M,0.0,RAJASTHAN,O+
+Anshika,22102010,KBR,"Engineer: Chemical 
+Engineer: Mechanical",MT-CHE,950000.0,2428,M/F,-1.0,India,Human Blood
+Rakesh N,22104080,Texas Instruments,Analog Engineer,MT-EE,3927190.0,2150,M,0.0,KARNATAKA,O+
+Hari Chandan P,22106006,Tata Steel,Management Trainee(R&T),MT-MSE,1311258.0,2365,M,0.0,A.P.,O+
+Raykar Akshada Mandar,22106013,Tata Steel,Management Trainee(R&T),MT-MSE,1311258.0,2365,M,0.0,GUJARAT,O+
+Mohammad Aaquib,22103033,UltraTech Cement,Management Trainee (Civil - Design & Drawing),MT-CE,1200000.0,-1,M/F,-1.0,India,Human Blood
+Bhumik Mehra,200276,Dr. Reddy’s Laboratories,PIO-PPO,BT-CHE,0.0,-1,M,7.200805342657716,RAJASTHAN,O+
+Abhay Pratap Singh,22103002,ASC Infratech Pvt Ltd,Trainee Engineer,MT-CE,737575.0,1927,M/F,-1.0,India,Human Blood
+Parthadhwaj Konduparty,22106009,Tata Steel,Management Trainee(R&T),MT-MSE,1311258.0,2365,M,0.0,TELANGANA,B+
+Ruchi Verma,21104408,Aura Semiconductor Pvt Ltd,Design Engineer - Analog,MSR-EE,2500000.0,1841,M,0.0,U.P.,O+
+Mayank Amrutbhai Shingala,22101035,NMTronics India Private Limited,Robotics Engineer - Software,MT-AE,1200000.0,-1,M,0.0,GUJARAT,B+
+Keshav Birdi,200506,TATA Projects Limited,Executive Trainee,BT-ME,1575000.0,2413,M,7.4876271558854555,HIMACHAL PRADESH,AB+
+Arshwin Kumar,22104021,Samsung Semiconductor India Research,Hardware- Digital (ECE/ VLSI/ Microelectronic),MT-EE,3110000.0,2289,M,0.0,DELHI,A+
+Aman Agarwal,200097,Groww,Associate Product Manager,BT-MSE,2800000.0,2075,M,7.645981385793315,JHARKHAND,A+
+Sourit Saha,200998,Bajaj Auto Limited & Chetak Technology Limited,PIO-PPO,BT-ME,2174000.0,1958,M,8.412849192762275,W.B.,B+
+Smriti Tripathi,200988,American Express,PIO-PPO,BT-CE,0.0,-1,M,7.665480672726112,U.P.,B+
+Himanshu Lal,21111403,"Samsung Research, Bangalore ",Advance Developer - Research Profile,MSR-CSE,4000000.0,2275,M,0.0,U.P.,O+
+Jegan Balaji B S,21111404,Axtria,Analyst,MSR-CSE,1375000.0,2227,M,0.0,TAMIL NADU,O+
+Shivam Gupta,22104098,Intel,Software/ Hardware Engineer,MT-EE,1977327.0,2039,M,0.0,U.P.,B+
+Saloni Das,200845,Barclays,Decision Analyst,BT-BSBE,1590000.0,2116,M,7.7790938670355905,U.P.,AB+
+Arnab Hazra,22101007,Godrej & Boyce,Aerospace Engineer,MT-AE,1200000.0,2353,M,0.0,W.B.,B+
+Rishabh Singh,22104083,Signalchip Innovations Pvt Ltd ,Electronics - Communication Systems - Design and Development,MT-EE,1400000.0,2377,M,0.0,DELHI,O+
+Ritwik Das,22104084,Qualcomm,Hardware,MT-EE,3733000.0,2040,M,0.0,W.B.,O+
+Aditya Mishra,22103006,Decision Point Pvt Ltd,Data Scientist ,MT-CE,800000.0,2307,M/F,-1.0,India,Human Blood
+Sahil Agrawal,22103052,Accenture Japan,Strategy Consultant,MT-CE,8683000.0,1913,M,0.0,MADHYA PRADESH,O+
+Saurav Suman,22103061,ASC Infratech Pvt Ltd,Trainee Engineer,MT-CE,737575.0,1927,M/F,-1.0,India,Human Blood
+Miska Singh,22103032,Accenture Applied Intelligence,Data Science Analyst,MT-CE,1715000.0,2448,M,0.0,U.P.,B+
+Darlapudi Venkata Gayatri Prasad,22101015,MRF LIMITED,R&D( Executive Technical),MT-AE,1028595.0,2010,M,0.0,A.P.,B+
+Kapil Sharma,21129408,Jindal Stainless Ltd,Post Graduate Engineer Trainee (GET),MSR-SEE,1115000.0,2309,M/F,-1.0,India,Human Blood
+Deepak Kushimal,22105022,ISGEC,Mechanical,MT-ME,1200000.0,-1,M/F,-1.0,India,Human Blood
+Kondru Sivakumar,22105035,Jindal Stainless Ltd,Post Graduate Engineer Trainee (GET),MT-ME,1115000.0,2309,M/F,-1.0,India,Human Blood
+Fahad Farid,22105029,ICICI Lombard GIC LTD,Senior Manager - Strategy & Innovation,MT-ME,2000000.0,2456,M,0.0,U.P.,B+
+Abhay Gupta,22102002,OLA,Chemical Engineering,MT-CHE,2250000.0,1923,M,0.0,U.P.,B+
+Jetti Naga Karthik,19817404,Ormae,Operations Research Scientist I,DualA-MTH,1200000.0,-1,M/F,-1.0,India,Human Blood
+Atanu Shuvam Roy,22111012,Ford Business Solutions,Global Data Insight & Analytics ( GDIA ),MT-CSE,1450000.0,2172,M/F,-1.0,India,Human Blood
+Yemike Abhilash Chandra,22111071,Texas Instruments,Embedded Software Engineer,MT-CSE,3927190.0,2154,M,0.0,TELANGANA,O+
+Chetna Singh,22111018,Interglobe Aviation Ltd. (IndiGo Airlines),Data Scientist ,MT-CSE,1600000.0,2556,M/F,-1.0,India,Human Blood
+Samarth Joshi,22111051,SAP Labs,Associate Developer -Cloud Native API Platform ,MT-CSE,4072200.0,2435,M,0.0,DELHI,B+
+Sonam,22111057,Texas Instruments,Embedded Software Engineer,MT-CSE,3927190.0,2154,M,0.0,U.P.,AB+
+Goundla Amith Kumar Goud,22111023,SAP Labs,Associate Developer -Cloud Native API Platform ,MT-CSE,4072200.0,2435,M,0.0,TELANGANA,A+
+Ashutosh Shandilya,22129006,Solar Energy Corporation of India Limited,Executive Trainee,MT-SEE,1989891.0,2464,M,0.0,U.P.,A+
+Vinay Agrawal,22111068,SAP Labs,Associate Developer -Cloud Native API Platform ,MT-CSE,4072200.0,2435,M,0.0,CHHATTISGARH,B+
+Mannu Kumar Gaddhyan,22111041,Amway India,Technology Trainee - Data Scientist,MT-CSE,1500000.0,2303,M/F,-1.0,India,Human Blood
+Shubham Kumar,200969,Larsen & Toubro Limited,Management Trainees,BT-CE,700000.0,2340,M,7.101063296624781,U.P.,O+
+Jayant Prakash,22129008,Caterpillar,Associate Engineer - Battery Modelling and Analysis ,MT-SEE,1379280.0,2536,M,0.0,BIHAR,O+
+Malay Pandey,22111090,"Samsung Research, Bangalore ",Advance Developer - Research Profile,MT-CSE,4000000.0,2275,M,0.0,U.P.,A+
+Srujana Sabbani,22111083,Hyprbots Systems,Software Development Engineer,MT-CSE,2000000.0,2409,M,0.0,TELANGANA,B+
+Shree Harish S,22111081,Centre for Development of Telematics (C-DOT),RESEARCH ENGINEER,MT-CSE,1850000.0,2053,M/F,-1.0,India,Human Blood
+Keerthana Patchava,200504,Javis,Customer Success Manager I,BT-EE,2160000.0,2299,M,7.521133892753743,KARNATAKA,A+
+Vikram Kumar Kaware,221465,CapGrid Solutions Pvt. Ltd,Data Scientist,MSc-Stats,2000000.0,2251,M,0.0,DELHI,AB+
+Shivang Jaiswal,200940,Axis Bank,Manager,BT-MSE,1443300.0,2170,M,7.311306787841761,W.B.,B+
+Shailza Sharma,221416,Accenture Applied Intelligence,PIO-PPO,MSc-Stats,1715000.0,2448,M,0.0,HIMACHAL PRADESH,B+
+Paulomi Das,221366,Accenture Applied Intelligence,PIO-PPO,MSc-Stats,1715000.0,2448,M,0.0,W.B.,A+
+Shubh Tandon,200964,Futures First Info Services Pvt Ltd,PIO-PPO,BT-MSE,1288000.0,2151,M,7.503920179320207,U.P.,B+
+Ronak Agarwal,200818,Futures First Info Services Pvt Ltd,Market Analyst - Trainee,BT-EE,1288000.0,2151,M,7.394733019361008,RAJASTHAN,B+
+Sweta Kumari,201036,Adobe,PIO-PPO,BT-CSE,0.0,-1,M,7.472293240092937,BIHAR,AB-
+Ranjit Prasad,221387,"Citi Bank, Bangalore",Business Analyst,MSc-Stats,1750000.0,2180,M,0.0,BIHAR,B+
+Sarvagya Jain,200888,Axxela Research & Analytics Private Limited,Trainee Analyst,BT-CE,1410000.0,1821,M,7.3809849053322845,MADHYA PRADESH,A+
+Sweta Kumari,201037,Uber,PIO-PPO,BT-MSE,0.0,-1,M,8.165426177701582,JHARKHAND,O-
+Pratyusha Bala,221372,Involead,Data Scientist,MSc-Stats,1250000.0,1962,M,0.0,W.B.,B+
+Mohammad Saqib Ansari,221348,ICICI Lombard GIC LTD,Senior Manager Data Scientist,MSc-Stats,1230000.0,2095,M,0.0,U.P.,AB+
+Keshav Gupta,200507,CapGrid Solutions Pvt. Ltd,Software,BT-EE,2000000.0,2250,M,8.050368522813194,HARYANA,O+
+Snigdha Taneja,221428,Standard Chartered,PIO-PPO,MSc-Stats,0.0,-1,M,0.0,U.P.,B+
+Ringan Majumdar,221390,Involead,Data Scientist,MSc-Stats,1250000.0,1962,M,0.0,W.B.,B+
+Rohit,200813,"C3iHub (IHub NTIHAC Foundation), IIT Kanpur",Software Development Engineer - SOC,BT-CSE,2800000.0,2488,M,7.603576578869547,HARYANA,A+
+Vrinda Rawal,221466,Accenture Applied Intelligence,PIO-PPO,MSc-Stats,1715000.0,2448,M,0.0,UTTARAKHAND,B+
+Pulkit Sharma,22111048,Interglobe Aviation Ltd. (IndiGo Airlines),Data Scientist ,MT-CSE,1600000.0,2556,M/F,-1.0,India,Human Blood
+Kaushik Thakkar,221329,Barclays,Graduate Analyst,MSc-Stats,1700000.0,2158,M,0.0,W.B.,O+
+Gitika Mittal,200388,Alvarez & Marsal,Associate,BT-AE,1830000.0,2108,M,8.538667871562604,HARYANA,B+
+Anjali Naithani,221273,Accenture Applied Intelligence,PIO-PPO,MSc-Stats,1715000.0,2448,M,0.0,UTTARAKHAND,B+
+Shruti Bindra,221422,Axtria,PIO-PPO,MSc-Stats,1375000.0,2227,M,0.0,UTTARAKHAND,A+
+Swarnajit Podder,221453,Accenture Applied Intelligence,PIO-PPO,MSc-Stats,1715000.0,2448,M,0.0,W.B.,B+
+Rohit Dutta,221396,Ford Business Solutions,Global Data Insight & Analytics ( GDIA ),MSc-Stats,1450000.0,2172,M/F,-1.0,India,Human Blood
+Prakhar Gupta,200696,Futures First Info Services Pvt Ltd,PIO-PPO,BT-MSE,1288000.0,2151,M,7.856845383904701,U.P.,B+
+Aritra Basak,221282,Accenture Solutions Pvt Ltd - Data AI,Data AI Senior Analyst,MSc-Stats,1934000.0,2138,M,0.0,W.B.,B+
+Divya Vani Gunturu,22123007,Accenture Applied Intelligence,Data Science Analyst,MT-ES,1715000.0,2448,M,0.0,A.P.,O+
+Atul Kumar,22111013,Fujitsu Research of India Pvt Ltd,Software Developer,MT-CSE,1800000.0,1789,M,0.0,BIHAR,B+
+Mohan Krishna,200590,Deutsche India Private Limited,Graduate Analyst,BT-EE,1963000.0,1967,M,9.618296365246772,U.P.,AB+
+Dhairya Daga,221312,Involead,Data Scientist,MSc-Stats,1250000.0,1962,M,0.0,U.P.,O+
+Taneya Soni,22111062,Microsoft India,Software Engineer,MT-CSE,2103200.0,2270,M,0.0,MADHYA PRADESH,O+
+Debjani Das,22118007,PharmaACE,Consultant,MT-BSBE,1215000.0,2320,M,0.0,JHARKHAND,B+
+Abhishek Kumar,20204402,Texas Instruments,Analog Engineer,MSR-EE,3927190.0,2150,M,0.0,BIHAR,B+
+Nihal Thukarama Rao,22111044,Stripe,Software Engineer,MT-CSE,6000000.0,1839,M,0.0,KARNATAKA,O+
+Anshul Sharma,22111009,Juniper Networks,Software Engineer,MT-CSE,2760000.0,2280,M,0.0,DELHI,AB+
+Yash Uttamchandani,22111070,Interglobe Aviation Ltd. (IndiGo Airlines),Data Scientist ,MT-CSE,1600000.0,2556,M/F,-1.0,India,Human Blood
+Ashee Jain,22111073,SEDEMAC Mechatronics Pvt. Ltd.,"Engineer, Embedded SW",MT-CSE,1500000.0,1939,M,0.0,MADHYA PRADESH,B+
+Mounika Dasa,22128405,Accenture Applied Intelligence,Data Science Analyst,MSR-CGS,1715000.0,2448,M,0.0,TELANGANA,B+
+Thishyan Raj T,20204420,Leapfrog Semiconductor ,Software Engineer,MSR-EE,2750000.0,2501,M/F,-1.0,India,Human Blood
+Raj Kumar,22111050,Quicksell ,Backend Developer,MT-CSE,1500000.0,2140,M,0.0,HARYANA,O+
+Ayush Kothiyal,22111015,Centific Global Solutions Inc,JUNIOR AI ENGINEER,MT-CSE,1200000.0,-1,M/F,-1.0,India,Human Blood
+Shrutika Anil Jadhav,22111082,Flipkart,Software development Engineer- 1,MT-CSE,3257000.0,1978,M,0.0,MAHARASHTRA,O+
+Roshan Kumar,20204417,TVS Motor,Software Engineer (Cluster and Infotainment),MSR-EE,1200000.0,2551,M,0.0,BIHAR,B+
+Shubhashish Moitra,22111055,Samsung Research Institute@ Noida,Engineer - R&D,MT-CSE,2450000.0,2126,M,0.0,W.B.,A+
+Kush Shah,22111033,Juniper Networks,Software Engineer,MT-CSE,2760000.0,2280,M,0.0,MADHYA PRADESH,B+
+Bharat,22111074,Ingram Micro,"IT - SOFTWARE DEVELOPMENT ENGINEER 
+",MT-CSE,1800000.0,2100,M,0.0,DELHI,B+
+Sumit Kumar Chaudhary,22111060,JK Tech,Software Engineer,MT-CSE,1500000.0,2051,M,0.0,JHARKHAND,A+
+Deepak Mathur,22111019,Samsung Research Institute@ Noida,Engineer - R&D,MT-CSE,2450000.0,2126,M,0.0,U.P.,A+
+Avnish Tripathi,22111014,"Samsung R&D, Delhi",Engineer,MT-CSE,2450000.0,2129,M,0.0,U.P.,B+
+Vamshikiran Bhaskar Morlawar,22111066,Pine Labs Pvt. Ltd,SDE,MT-CSE,2250000.0,2521,M,0.0,MAHARASHTRA,O+
+Arun Kumar Kushwaha,22129005,Solar Energy Corporation of India Limited,Executive Trainee,MT-SEE,1989891.0,2464,M,0.0,U.P.,O+
+Shubham Rathore,22111054,Centre for Development of Telematics (C-DOT),RESEARCH ENGINEER,MT-CSE,1850000.0,2053,M/F,-1.0,India,Human Blood
+Gunj Mehul Hundiwala,22111024,Accenture Applied Intelligence,Data Science Analyst,MT-CSE,1715000.0,2448,M,0.0,MAHARASHTRA,O+
+Komal Yadav,22111031,KAL ATM Software India Pvt. Ltd.,Junior Software Engineer,MT-CSE,2139700.0,2199,M,0.0,OTHER,A+
+Mayank Devnani,22111042,Palo Alto Networks,Associate Engineer ,MT-CSE,5500000.0,2231,M,0.0,RAJASTHAN,O+
+Pushpendra Singh,22104077,Intel,Software/ Hardware Engineer,MT-EE,1977327.0,2039,M,0.0,RAJASTHAN,O-
+Gaurav Kumar Meena,22103021,Decision Point Pvt Ltd,Business Analyst,MT-CE,800000.0,2305,M/F,-1.0,India,Human Blood
+Bhavya Gupta,22111017,JK Tech,Software Engineer,MT-CSE,1500000.0,2051,M,0.0,U.P.,AB+
+Ushakiran Mannam,22111063,Juniper Networks,Software Engineer,MT-CSE,2760000.0,2280,M,0.0,A.P.,O+
+Drashtant Singh Rathod,22111021,Optym India Private Limited,Software Engineer - Algorithm Developer ,MT-CSE,2400000.0,2383,M/F,-1.0,India,Human Blood
+Pradhuman Singh Shaktawat,22129013,Jindal Stainless Ltd,Post Graduate Engineer Trainee (GET),MT-SEE,1115000.0,2309,M/F,-1.0,India,Human Blood
+Aditya Kankriya,22111072,SAP Labs,Associate Developer -Cloud Native API Platform ,MT-CSE,4072200.0,2435,M,0.0,MAHARASHTRA,B+
+Sudiksha Navik,22111059,JK Tech,Software Engineer,MT-CSE,1500000.0,2051,M,0.0,MADHYA PRADESH,A+
+Rohit Kale,19917413,EXL,Consultant 1 - Analytics & Digital,DualB-ECO,1500000.0,2282,M,0.0,,O+
+Akshay Kumar,22112001,Sahajanand Medical technology pvt ltd,Process Engineer,MT-MSP,1215025.0,2133,M/F,-1.0,India,Human Blood
+Dharambir Poddar,19201262,Decision Point Pvt Ltd,Business Analyst,MT-AE,800000.0,2305,M/F,-1.0,India,Human Blood
+Madhav Maheshwari,22111037,"C3iHub (IHub NTIHAC Foundation), IIT Kanpur",Software Development Engineer - SOC,MT-CSE,2800000.0,2488,M,0.0,U.P.,A+
+Ishika Gupta,221322,Barclays,Consumer Credit Risk,MSc-Stats,1500000.0,2218,M,0.0,DELHI,B+
+Suchandra Sasmal,221439,"Citi Bank, Bangalore",Business Analyst,MSc-Stats,1750000.0,2180,M,0.0,W.B.,AB+
+Ajay Vijay Shinde,22129001,Solar Energy Corporation of India Limited,Executive Trainee,MT-SEE,1989891.0,2464,M,0.0,MAHARASHTRA,O+
+Ananya Agrawal,200117,Goldman Sachs,Software Engineering | Quantitative Engineering,BT-CSE,3650000.0,2327,M,8.046384293515084,RAJASTHAN,O+
+Nitya Aggarwal,200651,Hindustan Unilever Limited ,PIO-PPO,BT-EE,0.0,-1,M,7.98578677078457,HARYANA,A-
+Mohammad Imad Khan,190499,Nomura,PIO-PPO,DoubleMajor-EE,0.0,-1,M,0.0,MADHYA PRADESH,A+
+Siddharth Mishra,190841,American Express,PIO-PPO,DoubleMajor-EE,0.0,-1,M,0.0,KARNATAKA,O+
+Adit Jain,200038,Winzo Games,PIO-PPO,BT-EE,0.0,-1,M,8.360913467091235,HARYANA,AB+
+Aditi Phogat,200041,MasterCard,PIO-PPO,BT-AE,0.0,-1,M,7.131204722137212,HARYANA,O-
+Ananya Jain,200118,MasterCard,PIO-PPO,BT-MSE,0.0,-1,M,7.87766634844133,MADHYA PRADESH,A+
+Anshuman,200157,Walmart Global Tech India,PIO-PPO,BT-MSE,0.0,-1,M,7.537041937996961,BIHAR,A+
+Ahmad Amaan,200062,Oracle India Pvt Ltd,PIO-PPO,BT-ME,0.0,-1,M,8.428061223730888,U.P.,B+
+Arya Pinaki,200194,Futures First Info Services Pvt Ltd,PIO-PPO,BT-BSBE,1288000.0,2151,M,8.083907002761059,U.P.,O+
+Avishi Taneja,200234,J. P Morgan & Chase,PIO-PPO,BT-EE,0.0,-1,M,8.553023018134178,HARYANA,B+
+Shreenaga Tejas Chikoti,200296,Qube Research & Technology,PIO-PPO,BS-MTH,0.0,-1,M,9.138771925771824,TELANGANA,O+
+Dibyajyoti Haloi,200335,Texas Instruments,PIO-PPO,BT-EE,0.0,-1,M,7.7838185271609674,ASSAM,B+
+Daksh Shrivastava,200304,Qualcomm,PIO-PPO,BT-EE,0.0,-1,M,7.289074176091622,U.P.,O+
+Bhavya Garg,200270,Oracle India Pvt Ltd,PIO-PPO,BT-CSE,0.0,-1,M,8.97629874013597,RAJASTHAN,A+
+Dishay Mehta,200341,Quadeye Securities,PIO-PPO,BT-CSE,0.0,-1,M,9.555925091459363,MAHARASHTRA,O+
+Divyanshi Shukla,200354,Boston Consulting Group,PIO-PPO,BT-EE,0.0,-1,M,8.384371967340757,U.P.,AB+
+Het Hitendrakumar Patel,200440,Oracle India Pvt Ltd,PIO-PPO,BT-CSE,0.0,-1,M,8.920055211358154,GUJARAT,O+
+Himanshu Jindal,200442,Goldman Sachs,PIO-PPO,BT-EE,3650000.0,2327,M,9.35795282955005,HARYANA,O+
+Harsh Jain,200412,SAMSUNG South Korea,PIO-PPO,BT-CSE,0.0,-1,M,8.987411920995498,RAJASTHAN,B+
+Gaurav Raj,200378,American Express,PIO-PPO,BS-ECO,0.0,-1,M,7.984314524152876,BIHAR,AB-
+Kumar Saurav,200533,Wells Fargo,PIO-PPO,BS-MTH,0.0,-1,M,8.449978533979147,U.P.,B+
+Ishan Bawne,200456,Finmechanics,PIO-PPO,BS-PHY,1980000.0,2033,M,7.364257131578807,CHHATTISGARH,O-
+Ishaan Shukla,200455,Oracle India Pvt Ltd,PIO-PPO,BT-EE,0.0,-1,M,7.416460917557875,RAJASTHAN,B+
+Kalash,200484,Boston Consulting Group,PIO-PPO,BS-PHY,0.0,-1,M,9.019522669490959,MADHYA PRADESH,O+
+Kushal Gehlot,200541,APT Portfolio Private Limited,PIO-PPO,BT-CSE,0.0,-1,M,9.267076040999054,GUJARAT,O+
+Mehta Shrey Kartik,200580,SAMSUNG South Korea,PIO-PPO,BT-CSE,0.0,-1,M,9.676410195449094,GUJARAT,A+
+Neha Pattanaik,200630,Piramal Group,PIO-PPO,BT-CHE,0.0,-1,M,7.598799701300938,HARYANA,O+
+Parteek,200668,Optiver,PIO-PPO,BT-EE,0.0,-1,M,8.415662335768504,PUNJAB,A+
+Pratham Jain,200712,AlphaGrep Securities Private Limited,PIO-PPO,BT-CSE,0.0,-1,M,8.847922348615157,RAJASTHAN,O+
+Ritick Gupta,200801,Atlassian,PIO-PPO,BT-EE,0.0,-1,M,8.255299824897753,U.P.,B+
+Priyanshu Sinha,200737,Mitsubishi Heavy Industries India Private Limited,PIO-PPO,BT-ME,0.0,-1,M,8.237681036827011,DELHI,B+
+Deepak Sangle,200860,Visa Inc.,PIO-PPO,BT-CSE,0.0,-1,M,7.8840537102863655,MAHARASHTRA,O+
+Rishav Bikarwar,200792,Graviton Research Capital,PIO-PPO,BT-CSE,0.0,-1,M,8.936348534634513,MADHYA PRADESH,B+
+Sujal Harkut,201012,Boston Consulting Group,PIO-PPO,BT-EE,0.0,-1,M,9.109143116455256,MAHARASHTRA,O+
+Shreyansh Sinha,200955,Morgan Stanley,PIO-PPO,BS-MTH,0.0,-1,M,9.193691347228498,CHHATTISGARH,B+
+Sourabh Mina,200996,Salesforce,PIO-PPO,BT-CSE,0.0,-1,M,7.266706692875164,RAJASTHAN,B+
+Somansh Prakash Dubey,200992,Cisco,PIO-PPO,BT-ME,0.0,-1,M,7.7432722450998925,U.P.,A+
+Tejas Ramakrishnan,201050,SAMSUNG South Korea,PIO-PPO,BT-CSE,0.0,-1,M,9.65916350712381,RAJASTHAN,A+
+Vartika,201089,Intuit,PIO-PPO,BT-CSE,0.0,-1,M,7.394304769203106,RAJASTHAN,O+
+Varun Gangwar,201090,Futures First Info Services Pvt Ltd,PIO-PPO,BT-CHE,1288000.0,2151,M,8.435572945218974,U.P.,B+
+Hemant Kumar,22114011,Axtria,PIO-PPO,MT-MS,1375000.0,2227,M,0.0,DELHI,B+
+Tushar Goyal,180826,Microsoft India,Software Engineer,BT-EE,2103200.0,2270,M,0.0,U.P.,B+
+Vatsalya Singh,190953,Aspect Ratio Private Limited,Analyst (Analytics),DoubleMajor-PHY,1700000.0,2131,M,0.0,U.P.,A+
+Shorya Kumar,190818,Databricks,Software Engineer,DoubleMajor-CSE,4090000.0,1941,M,0.0,UTTARAKHAND,O+
+Sunreet Khanna,201020,MasterCard,"Associate Specialist, Product Development",BT-EE,1200000.0,2202,M,9.560141482312249,HARYANA,B+
+Shaurya Pratap Singh,200925,Bajaj Auto Limited & Chetak Technology Limited,GTE'24,BT-EE,2174000.0,1958,M,8.963373296000475,MADHYA PRADESH,B-
+Varada Agarwal,201086, FN Mathlogic Consulting Services Private Limited,Analyst,BS-MTH,1212000.0,1697,M,6.588723884307154,KARNATAKA,A+
+Abhishek Shukla,21205001,PharmaACE,Consultant,MT-ME,1215000.0,2320,M,0.0,MAHARASHTRA,B+
+Pradeep Singh,21205006,ISGEC,Mechanical,MT-ME,1200000.0,-1,M/F,-1.0,India,Human Blood
+Suhail Sheikh,21205009,ISGEC,Mechanical,MT-ME,1200000.0,-1,M/F,-1.0,India,Human Blood
+Diyan Gupta,21205004,ISGEC,Mechanical,MT-ME,1200000.0,-1,M/F,-1.0,India,Human Blood
+Akash Bhargav,21205002,KBR,"Engineer: Chemical 
+Engineer: Mechanical",MT-ME,950000.0,2428,M/F,-1.0,India,Human Blood
+Janhavi Bhoge,19807396,SLB,PIO-PPO,DualA-ME,0.0,-1,M,0.0,,O+
+Tanya Arya,190899,Amadeus Software Labs,Software Development Engineer 2,BT-AE,1859224.0,2364,M,0.0,PUNJAB,B+
+Abhimanyu Sethia,190023,Deutsche India Private Limited,Analyst,DoubleMajor-CSE,3013880.0,2272,M,0.0,MADHYA PRADESH,B+
+Arush Kumar Rai,200192,TATA Projects Limited,Executive Trainee,BT-CE,1575000.0,2413,M,7.675464644916175,U.P.,B+
+Ishita Vyavahare,200459,Flipkart,Assistant Manager Business Development ,BS-PHY,1650386.0,2301,M,7.4769378409075244,MAHARASHTRA,O+
+Jayesh S. Baretiya,200476,ICICI Lombard GIC LTD,Senior Manager Actuarial Analyst,BS-ECO,1200000.0,2094,M,6.252477851056805,MAHARASHTRA,AB+
+Karji Anusha Sahu,200491,Reliance Industries Limited,Graduate Engineer Trainee (GET),BT-CE,1050000.0,2278,M,7.028828618246316,A.P.,A+
+Ankit Kumar Meena,200137,Reliance Industries Limited,Graduate Engineer Trainee (GET),BT-ME,1050000.0,2278,M,6.500734157091788,RAJASTHAN,B+
+Rahul Rustagi,200756,MasterCard,Data Engineer,BT-AE,1200000.0,2190,M,9.33398444875949,MAHARASHTRA,B+
+Pranab Pandey,190620,Graviton Research Capital,Software engineer,DoubleMajor-CSE,8400000.0,2016,M,0.0,U.P.,O+
+Siddharth Kumar Singh,19817840,Involead,Data Scientist,DualA-ECO,1250000.0,1962,M,0.0,,O+
+Sakshi Shashank Pachghare,19817745,Dolat Capital,Quantitative Strategist,DualA-MTH,2700000.0,2178,M,0.0,,O+
+Shefnaan Fahad Sheikh,19807799,AuxoAI,AI Engineer,DualA-AE,2576936.0,2111,M,0.0,,O+
+Devesh Pandey,22105024,Renishaw Metrology ,Graduate Software Engineer,MT-ME,1235000.0,1993,M/F,-1.0,India,Human Blood
+Himanshu Shekhar Das,19817380,Kivi Capital,Quant Developer,DualA-MTH,4500000.0,2147,M,0.0,,O+
+Boodidha Surya Vamshi Reddy,19817242,NMTronics India Private Limited,Robotics Engineer – Robotic Stack,DualA-PHY,1200000.0,-1,M,0.0,,O+
+Ambuja Budakoti,19807112,Sprinklr,Product Analyst,DualB-SEE,1500000.0,2023,M,0.0,,O+
+Prateesh Awasthi,19807636,Sprinklr,Data Scientist,DualA-ME,1800000.0,2024,M,0.0,,O+
+Amit Yadav,19807119,Deutsche India Private Limited,Graduate Analyst,DualA-ME,1963000.0,1967,M,0.0,,O+
+Aditya Prakash,19807065,NMTronics India Private Limited,Robotics Engineer - Hardware,DualA-AE,1200000.0,-1,M,0.0,,O+
+Nitish Kumar,19807573,Taiwan Semiconductor Manufacturing Company,Software,DualA-EE,716729.0,2069,M,0.0,,O+
+Nibir Baruah,19807545,Quantbox Research,Core Engineering Analyst - Bangalore,DualA-CSE,10000000.0,1973,M,0.0,,O+
+Sahil Maurya,19807738,Centific Global Solutions Inc,JUNIOR AI ENGINEER,DualA-EE,1200000.0,-1,M/F,-1.0,India,Human Blood
+Shubhi Kant,19807836,Accenture Japan,Data Scientist,DualA-CE,1000000.0,1914,M,0.0,,O+
+Samarth Sachan,19807749,Jaguar Land rover India Limited,Graduate Mechatronics Engineering Trainee,DualA-ME,2502000.0,2175,M,0.0,,O+
+Vinoba Pandey,19807974,Bajaj Electricals,Graduate Engineer Trainee,DualA-ME,1500000.0,2517,M,0.0,,O+
+Tushar Kumar,19807916,CapitalOne,Software Engineer,DualA-ME,2850000.0,2029,M,0.0,,O+
+Anshuman Singh,19816161,"C3iHub (IHub NTIHAC Foundation), IIT Kanpur",Software Development Engineer - SOC,DualB-ECO,2800000.0,2488,M,0.0,,O+
+Uma Singh,19807922,Bajaj Auto Limited & Chetak Technology Limited,GTE'24,DualA-ME,2174000.0,1958,M,0.0,,O+
+Ajay Kumar,19817074,Axtria,Analyst,DualA-PHY,1375000.0,2227,M,0.0,,O+
+Prarabdh,19817630,Nation with Namo,Associate,DualA-ECO,1900000.0,1854,M,0.0,,O+
+Titiksha Upadhyay,19807912,GKN AEROSPACE ENGINE SYSTEMS INDIA PVT LTD,Graduate,DualA-AE,950000.0,1773,M,0.0,,O+
+Prasanna Patil,200707,Axxela Research & Analytics Private Limited,Trainee Analyst,BT-MSE,1410000.0,1821,M,7.291327711523881,MAHARASHTRA,O+
+Kunal Aggarwal,19807447,Intel,Software/ Hardware Engineer,DualA-EE,1977327.0,2039,M,0.0,,O+
+Kartikeya Raguvanshi,200494,Microsoft India,PIO-PPO,BT-ME,0.0,-1,M,9.092372277652405,MADHYA PRADESH,B+
+Sahil Aggarwal,200835,Xion Multiventures Pvt Ltd,Trainee Research Analysis & Operation Support  ,BT-CE,1620000.0,1938,M,7.416503454344347,DELHI,O+
+Anushka Pal,200173,HPCL,Officer- Engineering,BT-CE,1697000.0,2077,M,8.009031839022798,U.P.,B+
+Vipul Kumar Arora,201125,Jaguar Land rover India Limited,PIO-PPO,BT-ME,0.0,-1,M,8.825269217272401,CHHATTISGARH,B+
+Nithin Nallani,200616,Jaguar Land rover India Limited,PIO-PPO,BT-ME,0.0,-1,M,7.563569007143119,A.P.,B-
+Mandar Yogesh Patil,200678,Walmart Global Tech India,PIO-PPO,BT-MSE,0.0,-1,M,7.211071040645009,MAHARASHTRA,B+

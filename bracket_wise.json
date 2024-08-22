@@ -1,0 +1,122 @@
+{
+    "4": {
+        "placed": 0,
+        "placedBT": 0,
+        "placedBS": 0,
+        "maxCTC": 0,
+        "minCTC": 0,
+        "averageCTC": 0,
+        "medianCTC": 0,
+        "PPO": 0
+    },
+    "4.5": {
+        "placed": 0,
+        "placedBT": 0,
+        "placedBS": 0,
+        "maxCTC": 0,
+        "minCTC": 0,
+        "averageCTC": 0,
+        "medianCTC": 0,
+        "PPO": 0
+    },
+    "5": {
+        "placed": 2,
+        "placedBT": 2,
+        "placedBS": 0,
+        "maxCTC": 2053830.0,
+        "minCTC": 1700000.0,
+        "averageCTC": 1876915.0,
+        "medianCTC": 2053830.0,
+        "PPO": 0
+    },
+    "5.5": {
+        "placed": 8,
+        "placedBT": 6,
+        "placedBS": 2,
+        "maxCTC": 4100000.0,
+        "minCTC": 1200000.0,
+        "averageCTC": 1839000.0,
+        "medianCTC": 1500000.0,
+        "PPO": 0
+    },
+    "6": {
+        "placed": 18,
+        "placedBT": 16,
+        "placedBS": 2,
+        "maxCTC": 4100000.0,
+        "minCTC": 0.0,
+        "averageCTC": 1295127.2222222222,
+        "medianCTC": 1200000.0,
+        "PPO": 2
+    },
+    "6.5": {
+        "placed": 47,
+        "placedBT": 46,
+        "placedBS": 1,
+        "maxCTC": 4500000.0,
+        "minCTC": 0.0,
+        "averageCTC": 1465850.0,
+        "medianCTC": 1410000.0,
+        "PPO": 5
+    },
+    "7": {
+        "placed": 117,
+        "placedBT": 107,
+        "placedBS": 10,
+        "maxCTC": 4100000.0,
+        "minCTC": 0.0,
+        "averageCTC": 1467907.1452991453,
+        "medianCTC": 1500000.0,
+        "PPO": 27
+    },
+    "7.5": {
+        "placed": 121,
+        "placedBT": 117,
+        "placedBS": 4,
+        "maxCTC": 6000000.0,
+        "minCTC": 0.0,
+        "averageCTC": 1448176.8595041323,
+        "medianCTC": 1575000.0,
+        "PPO": 38
+    },
+    "8": {
+        "placed": 87,
+        "placedBT": 84,
+        "placedBS": 3,
+        "maxCTC": 4500000.0,
+        "minCTC": 0.0,
+        "averageCTC": 1304687.6666666667,
+        "medianCTC": 1500000.0,
+        "PPO": 38
+    },
+    "8.5": {
+        "placed": 55,
+        "placedBT": 51,
+        "placedBS": 4,
+        "maxCTC": 12800000.0,
+        "minCTC": 0.0,
+        "averageCTC": 1628711.8181818181,
+        "medianCTC": 1200000.0,
+        "PPO": 30
+    },
+    "9": {
+        "placed": 38,
+        "placedBT": 36,
+        "placedBS": 2,
+        "maxCTC": 4100000.0,
+        "minCTC": 0.0,
+        "averageCTC": 1509890.394736842,
+        "medianCTC": 1250000.0,
+        "PPO": 17
+    },
+    "9.5": {
+        "placed": 40,
+        "placedBT": 40,
+        "placedBS": 0,
+        "maxCTC": 10800000.0,
+        "minCTC": 0.0,
+        "averageCTC": 2579901.575,
+        "medianCTC": 1200000.0,
+        "PPO": 17
+    }
+}

@@ -7,7 +7,6 @@ conn = sqlite3.connect(DB_PATH)
 cursor = conn.cursor()
 
 def get_company_data():
-    
     with open('companies.json','r') as json_file:
         json_data=json.load(json_file)
     return json_data
