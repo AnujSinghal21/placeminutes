@@ -2,7 +2,8 @@ from flask import Flask, g, jsonify
 import sqlite3
 import sys
 sys.path.append('./api')
-from home import get_company_data, get_student_data
+from home import get_company_data, get_student_data # type: ignore
+from insights import get_branchwise_insights, get_net_insights, get_bracketwise #type: ignore
 DB_PATH = 'database/data.db'
 
 app = Flask(__name__)
@@ -35,5 +36,16 @@ def get_company_list():
 def get_student_list():
     return jsonify(get_student_data())
 
+@app.route('/api/insights/branchwise',methods=["GET"])
+def get_branchwise():
+    return jsonify(get_branchwise_insights())
+
+@app.route('/api/insights/cummulative',methods=["GET"])
+def get_cummulative():
+    return jsonify(get_net_insights())
+
+@app.route('/api/insights/bracketwise',methods=["GET"])
+def get_bracket_wise():
+    return jsonify(get_bracketwise())
 if __name__ == '__main__':
     app.run()

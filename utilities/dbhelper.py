@@ -47,4 +47,32 @@ def convert_to_json():
     
     return
 
-convert_to_json()
+def modify_csv():
+    df=pd.read_csv('./joined_data.csv')
+    genders=[]
+    cpis=[]
+    home_states=[]
+    blood_groups=[]
+    for i in range(len(df)):
+        curr_stud_data=cursor.execute(f"select * from students where roll={df['Roll No.'][i]}").fetchall()
+        if(len(curr_stud_data)==0):
+            print(df['Name'][i] + ": "+str(df['Branch'][i]))
+            genders.append('M/F')
+            cpis.append(-1)
+            home_states.append('India')
+            blood_groups.append('Human Blood')
+            continue
+        curr_stud_data=list(curr_stud_data[0])
+        genders.append(curr_stud_data[4])
+        cpis.append(curr_stud_data[6])
+        home_states.append(curr_stud_data[8])
+        blood_groups.append(curr_stud_data[9])
+
+    df['gender']=genders
+    df['cpi']=cpis
+    df['home_states']=home_states
+    df['blood_groups']=blood_groups
+
+    df.to_csv('new_data.csv',index=False)
+
+modify_csv()
