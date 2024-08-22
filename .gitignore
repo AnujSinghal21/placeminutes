@@ -1,5 +1,10 @@
 *.db
 node_modules
+data
+__pycache__/
+
+*.db
+node_modules
 data.db
 companies.json
 students.json
