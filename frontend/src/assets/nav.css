@@ -44,3 +44,14 @@
 .avg-cpi-data {
     color: #FFEAAD;
 }
+
+th,
+td {
+    margin: "auto";
+    padding: 1rem;
+    text-align: center;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}

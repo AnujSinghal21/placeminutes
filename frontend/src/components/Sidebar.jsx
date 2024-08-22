@@ -23,7 +23,6 @@ function Sidebar({ page }) {
   useEffect(() => {
     setActivePage(page);
     console.log(activePage);
-    const navItems = document.querySelectorAll(".nav-item");
 
     const activeItem = document.querySelector(`.nav-item[id="${activePage}"]`);
     if (activeItem) {
