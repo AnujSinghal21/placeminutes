@@ -1,8 +1,0 @@
-*.db
-node_modules
-data.db
-companies.json
-students.json
-./utilites/cleaned_data.csv
-./utilites/new_data.csv
-./utilites/studentwise_stats.csv
