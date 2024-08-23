@@ -30,12 +30,12 @@ function Students() {
   }, [entries, currentPage]);
   return (
     <>
-      <div
-        className="container-fluid d-flex m-0 p-0"
-        style={{ backgroundColor: "#1c2130", height: "100vh" }}
-      >
+      <div className="container-fluid d-flex m-0 p-0">
         <Sidebar page={"students"} />
-        <div className="container-fluid hide-scrollbar overflow-scroll p-5">
+        <div
+          className="container-fluid hide-scrollbar overflow-scroll p-5"
+          style={{ backgroundColor: "#1c2130", height: "100vh" }}
+        >
           <h1 className="heading mb-5">Student List</h1>
           <div className="search"></div>
           <table className="std-table fs-6">
@@ -70,15 +70,30 @@ function Students() {
             </tbody>
             <tfoot>
               <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td style={{ textAlign: "right", color: "#474B58" }}>
+                <td
+                  style={{ textAlign: "right", color: "#474B58" }}
+                  colSpan={5}
+                >
                   Showing {currentPage} out of{" "}
                   {Math.ceil(data.length / entries)}
                 </td>
                 <td>
+                  <label className="me-2">Show</label>
+                  <select
+                    name="entries"
+                    id="entries"
+                    value={entries < data.length ? String(entries) : "ALL"}
+                    onChange={handleEntries}
+                    style={{ color: "#1c2130" }}
+                  >
+                    <option value={10}>10</option>
+                    <option value={20}>20</option>
+                    <option value={30}>30</option>
+                    <option value={50}>50</option>
+                    <option value={data.length}>All</option>
+                  </select>
+                </td>
+                <td colSpan={1}>
                   <button
                     disabled={currentPage === 1 ? true : false}
                     onClick={handlePrev}
@@ -93,22 +108,6 @@ function Students() {
                   >
                     Next
                   </button>
-                </td>
-                <td>
-                  <label className="me-2">Show</label>
-                  <select
-                    name="entries"
-                    id="entries"
-                    value={entries}
-                    onChange={handleEntries}
-                    style={{ color: "#1c2130" }}
-                  >
-                    <option value={10}>10</option>
-                    <option value={20}>20</option>
-                    <option value={30}>30</option>
-                    <option value={50}>50</option>
-                    <option value={"All"}>All</option>
-                  </select>
                 </td>
               </tr>
             </tfoot>
