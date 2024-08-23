@@ -199,7 +199,7 @@ function Insights() {
 
   return (
     <>
-      <div className="container-fluid d-flex m-0 p-0 w-100">
+      <div className="container-fluid d-flex m-0 p-0">
         <Sidebar page={"insights"} />
         <div
           className="container-fluid p-5 overflow-scroll hide-scrollbar"
