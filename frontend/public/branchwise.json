@@ -1,0 +1,86 @@
+{
+    "BT-CSE": {
+        "averageCPI": 8.563306165297467,
+        "averageCTC": 3468542.731343284,
+        "medianCTC": 3290063.0,
+        "placed": 67
+    },
+    "BT-EE": {
+        "averageCPI": 7.707845998870208,
+        "averageCTC": 2260517.698630137,
+        "medianCTC": 1963000.0,
+        "placed": 73
+    },
+    "BS-MTH": {
+        "averageCPI": 7.878169529060819,
+        "averageCTC": 2190548.769230769,
+        "medianCTC": 2053830.0,
+        "placed": 13
+    },
+    "BS-SDS": {
+        "averageCPI": 0,
+        "averageCTC": 0,
+        "medianCTC": 0,
+        "placed": 0
+    },
+    "BT-ME": {
+        "averageCPI": 7.512919004097869,
+        "averageCTC": 1825693.6538461538,
+        "medianCTC": 1700000.0,
+        "placed": 52
+    },
+    "BT-CHE": {
+        "averageCPI": 7.658588074749294,
+        "averageCTC": 1739745.2444444445,
+        "medianCTC": 1577000.0,
+        "placed": 45
+    },
+    "BT-AE": {
+        "averageCPI": 7.5919982428243475,
+        "averageCTC": 1748709.75,
+        "medianCTC": 1753830.0,
+        "placed": 20
+    },
+    "BT-CE": {
+        "averageCPI": 7.36058909080337,
+        "averageCTC": 1514064.3404255318,
+        "medianCTC": 1575000.0,
+        "placed": 47
+    },
+    "BT-MSE": {
+        "averageCPI": 7.464826788198343,
+        "averageCTC": 1671794.4444444445,
+        "medianCTC": 1500000.0,
+        "placed": 36
+    },
+    "BT-BSBE": {
+        "averageCPI": 7.614205542750997,
+        "averageCTC": 1616142.5,
+        "medianCTC": 1590000.0,
+        "placed": 6
+    },
+    "BS-PHY": {
+        "averageCPI": 6.9842165393138105,
+        "averageCTC": 1626077.2,
+        "medianCTC": 1650386.0,
+        "placed": 5
+    },
+    "BS-CHM": {
+        "averageCPI": 0,
+        "averageCTC": 0,
+        "medianCTC": 0,
+        "placed": 0
+    },
+    "BS-ES": {
+        "averageCPI": 6.545077319248384,
+        "averageCTC": 2425000.0,
+        "medianCTC": 3650000.0,
+        "placed": 2
+    },
+    "BS-ECO": {
+        "averageCPI": 7.591321176041615,
+        "averageCTC": 1796662.5,
+        "medianCTC": 1600000.0,
+        "placed": 12
+    }
+}

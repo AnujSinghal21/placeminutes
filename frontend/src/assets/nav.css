@@ -15,9 +15,8 @@
 }
 
 .chart-box {
-    background-color: #474B58;
     width: 37vw;
-    height: 22vw;
+    height: 23vw;
     margin: auto
 }
 
@@ -43,6 +42,31 @@
 
 .avg-cpi-data {
     color: #FFEAAD;
+}
+
+button {
+    background-color: #474B58;
+    border: none;
+    border-radius: 0.25rem;
+    margin-left: 0.5rem;
+    padding: 0.25rem 0.5rem;
+}
+
+option {
+    color: #1c2130;
+}
+
+table {
+    width: 100%
+}
+
+tr:hover {
+    cursor: pointer;
+    background-color: #1c2130;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #474B58;
 }
 
 th,
